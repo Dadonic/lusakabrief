@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Wire — Lusaka Brief</title>
+<meta name="description" content="The Lusaka Brief wire — Zambian headlines pulled automatically from the country's newsrooms, updated throughout the day.">
+<link rel="icon" type="image/svg+xml" href="/assets/lusaka-brief-mark.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+<div class="topbar"><div class="topbar-inner">
+<span class="dateline">Lusaka, Zambia — Monday, 21 September 2026</span>
+<span class="edition">Developing: <strong>Treason suspects sue the State</strong></span>
+</div></div>
+<header class="masthead"><div class="masthead-inner">
+<img class="brand-mark" src="/assets/lusaka-brief-mark.svg" alt="Lusaka Brief eagle mark">
+<div><a class="brand-word" href="/">LUSAKA <span>BRIEF</span></a>
+<div class="brand-tag">Public-interest journalism for Zambia</div></div>
+</div></header>
+<nav class="navbar"><div class="nav-inner">
+<a href="/">Latest</a><a href="/#politics">Politics</a><a href="/#economy">Economy</a>
+<a href="/#sport">Sport</a><a href="/news/">Archive</a><a href="/wire/" class="active">Wire</a>
+<a href="/veteran-refinery/">Developing Report</a>
+</div></nav>
+<main class="wrap">
+<div class="article-head" style="padding-top:36px"><span class="kicker" style="color:var(--green)">The Wire</span>
+<h1>Zambian headlines, as they happen</h1>
+<p class="standfirst">Pulled automatically from the country's newsrooms — Lusaka Times, News Diggers, Times of Zambia, ZNBC — and refreshed throughout the day. Headlines link to the original publishers.</p>
+<p class="archive-note" id="wire-updated"></p></div>
+<div class="wire-list" id="wire-list"><p class="wire-loading">Loading the wire…</p></div>
+</main>
+<footer class="footer"><div class="footer-inner">
+<div class="footer-brand"><img class="brand-mark" src="/assets/lusaka-brief-mark.svg" alt="Lusaka Brief eagle mark">
+<div><div class="fname">LUSAKA <span>BRIEF</span></div>
+<p>Independent public-interest journalism from Lusaka, Zambia.</p></div></div>
+<p class="footer-note"><strong>Editorial standards.</strong> Wire items are automated headlines from partner newsrooms; our own reporting follows the standards on the front page.</p>
+</div><div class="copyright">© 2026 Lusaka Brief · Lusaka, Zambia · All rights reserved</div></footer>
+<script>
+(async function(){
+  try{
+    const r=await fetch('/wire.json?v='+Date.now());
+    const d=await r.json();
+    const items=d.items||[];
+    document.getElementById('wire-updated').textContent='Last updated: '+new Date(d.updated).toLocaleString('en-GB',{day:'numeric',month:'long',year:'numeric',hour:'2-digit',minute:'2-digit'});
+    const el=document.getElementById('wire-list');
+    if(!items.length){el.innerHTML='<p class="wire-loading">The wire is warming up — check back shortly.</p>';return;}
+    el.innerHTML=items.map(i=>{
+      const dt=new Date(i.iso);
+      const when=dt.toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short'})+' · '+dt.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
+      return `<a class="wire-row" href="${i.url}" target="_blank" rel="noopener">
+        <span class="wire-source">${i.source} · ${when}</span>
+        <span class="wire-title">${i.title}</span>
+        ${i.excerpt?`<span style="display:block;font-size:14px;color:#55503f;line-height:1.5">${i.excerpt}…</span>`:''}
+      </a>`;
+    }).join('');
+  }catch(e){document.getElementById('wire-list').innerHTML='<p class="wire-loading">The wire is warming up — check back shortly.</p>';}
+})();
+</script>
+</body></html>
