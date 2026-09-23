@@ -472,5 +472,104 @@
   "date": "21 September 2026",
   "iso": "2026-09-21",
   "image": "news3-arrows.webp"
+ },
+ {
+  "slug": "term-limits-storm-third-term",
+  "section": "Politics",
+  "tag": "Politics · Lead story",
+  "title": "The term-limits storm: Tayali wants the ceiling scrapped — civil society says don't you dare",
+  "excerpt": "Calls to scrap the presidential two-term limit have exploded into the open, with Chilufya Tayali leading the charge and civil society, opposition figures and a veteran constitutionalist warning of a third-term agenda.",
+  "author": "Lusaka Brief Newsroom",
+  "date": "23 September 2026",
+  "iso": "2026-09-23",
+  "image": "news4-termlimits.webp"
+ },
+ {
+  "slug": "diaspora-un-protest-haimbe-unga",
+  "section": "Politics",
+  "tag": "Politics · Diplomacy",
+  "title": "Diaspora to protest at the UN as Haimbe arrives to defend Zambia's record",
+  "excerpt": "Zambians in the US plan a demonstration outside UN headquarters in New York this week over the disputed election and the killing of Mutotwe Kafwaya — days before Foreign Minister Haimbe delivers Zambia's national statement.",
+  "author": "Chanda Mwape",
+  "date": "22 September 2026",
+  "iso": "2026-09-22",
+  "image": "news4-un.webp"
+ },
+ {
+  "slug": "chongwe-east-election-petition-masebo",
+  "section": "Politics",
+  "tag": "Politics · Courts",
+  "title": "Masebo challenges Chongwe East result over alleged malpractice",
+  "excerpt": "Losing UPND candidate Sylvia Masebo has petitioned the Lusaka High Court over the Chongwe East parliamentary result — one of a string of election petitions now testing the 13 August outcomes.",
+  "author": "Chanda Mwape",
+  "date": "22 September 2026",
+  "iso": "2026-09-22",
+  "image": "news4-petition.webp"
+ },
+ {
+  "slug": "forty-pr-mps-sworn-in",
+  "section": "Politics",
+  "tag": "Politics",
+  "title": "40 PR MPs sworn in as parliament widens — and watchdogs like what they see",
+  "excerpt": "Speaker Nelly Mutti has sworn in the 40 proportional-representation members reserved for women, youth and persons with disabilities — the first fruit of the amended constitution's new architecture.",
+  "author": "Lusaka Brief Newsroom",
+  "date": "22 September 2026",
+  "iso": "2026-09-22",
+  "image": "news4-mps.webp"
+ },
+ {
+  "slug": "maize-demand-more-buyers",
+  "section": "Economy",
+  "tag": "Economy · Agriculture",
+  "title": "More buyers eye Zambian maize as the record harvest goes to market",
+  "excerpt": "Regional demand is lining up for Zambia's surplus maize weeks after the 540,000-tonne Kenya deal — with the FRA insisting food security is ring-fenced before exports move.",
+  "author": "Natasha Banda",
+  "date": "22 September 2026",
+  "iso": "2026-09-22",
+  "image": "news4-maize.webp"
+ },
+ {
+  "slug": "syphilis-infections-provinces-health",
+  "section": "Health",
+  "tag": "Health",
+  "title": "Lusaka, Copperbelt and Eastern top syphilis infections, health data shows",
+  "excerpt": "New figures put the three most urbanised provinces at the top of the syphilis burden, with health officials urging testing and early treatment — especially in antenatal care.",
+  "author": "Natasha Banda",
+  "date": "22 September 2026",
+  "iso": "2026-09-22",
+  "image": "news4-health.webp"
+ },
+ {
+  "slug": "chipolopolo-algeria-squad-complete",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Lungu and Liteta complete the squad as Chipolopolo eye Algeria",
+  "excerpt": "Gamphani Lungu and Liteta have arrived in camp to complete the Chipolopolo squad for the Algeria clash, though German-based Andrew Sinkala has been excused by FAZ.",
+  "author": "Mwelwa Phiri",
+  "date": "22 September 2026",
+  "iso": "2026-09-22",
+  "image": "news4-algeria.webp"
+ },
+ {
+  "slug": "haalubono-copper-queens-olympic",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Haalubono handed the Copper Queens reins for the Olympic battle",
+  "excerpt": "The Copper Queens have a new head coach as the federation turns its attention to the Olympic qualification campaign — a promotion from within for a programme that plans long cycles.",
+  "author": "Mwelwa Phiri",
+  "date": "22 September 2026",
+  "iso": "2026-09-22",
+  "image": "news4-queens.webp"
+ },
+ {
+  "slug": "lusaka-short-film-festival",
+  "section": "Culture",
+  "tag": "Culture · Film",
+  "title": "Short film, long shadow: Lusaka's festival wraps a breakout edition",
+  "excerpt": "The Lusaka Short Film Festival has concluded after screenings that drew new audiences to Zambian storytelling — another marker for a film scene building real momentum.",
+  "author": "Lusaka Brief Culture Desk",
+  "date": "22 September 2026",
+  "iso": "2026-09-22",
+  "image": "news4-filmfest.webp"
  }
 ]

@@ -13,7 +13,7 @@
 </head>
 <body>
 <div class="topbar"><div class="topbar-inner">
-<span class="dateline">Lusaka, Zambia — Monday, 21 September 2026</span>
+<span class="dateline">Lusaka, Zambia — <span id="live-date">Monday, 21 September 2026</span> · <span id="live-clock" style="font-variant-numeric:tabular-nums;font-weight:600"></span></span>
 <span class="edition">Developing: <strong>Treason suspects sue the State</strong></span>
 </div></div>
 <header class="masthead"><div class="masthead-inner">
@@ -60,4 +60,6 @@
   }catch(e){document.getElementById('wire-list').innerHTML='<p class="wire-loading">The wire is warming up — check back shortly.</p>';}
 })();
 </script>
-</body></html>
+<script>
+(function(){function tick(){try{var now=new Date();var d=now.toLocaleDateString('en-GB',{timeZone:'Africa/Lusaka',weekday:'long',day:'numeric',month:'long',year:'numeric'});var t=now.toLocaleTimeString('en-GB',{timeZone:'Africa/Lusaka',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false});var de=document.getElementById('live-date');var ce=document.getElementById('live-clock');if(de)de.textContent=d;if(ce)ce.textContent=t+' CAT';}catch(e){}}tick();setInterval(tick,1000);})();
+</script></body></html>
