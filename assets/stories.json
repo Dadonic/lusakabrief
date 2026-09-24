@@ -1,5 +1,93 @@
 [
  {
+  "slug": "mukobeko-gate-shut-treason-accused",
+  "section": "Courts",
+  "tag": "Courts · Lead story",
+  "title": "The gate at Mukobeko stays shut: treason accused cut off from visitors as defence demands answers",
+  "excerpt": "Prison officers in Kabwe have turned away visitors to Brian Mundubile, Makebi Zulu and 16 co-accused, according to people familiar with the attempts — the latest front in a case where procedure has become the story.",
+  "author": "Mwelwa Phiri",
+  "date": "24 September 2026",
+  "iso": "2026-09-24",
+  "image": "news5-mukobeko.webp"
+ },
+ {
+  "slug": "haimbe-unga-diplomacy-grow-zambia",
+  "section": "Politics",
+  "tag": "Politics · Diplomacy",
+  "title": "'Our diplomacy must help to grow Zambia': Haimbe works the UN corridors as two stories compete outside",
+  "excerpt": "Two new diplomatic relationships, a Human Rights Council bid and a national statement on Monday — while diaspora organisers and the foreign minister tell different stories about protests at the gates.",
+  "author": "Chanda Mwape",
+  "date": "24 September 2026",
+  "iso": "2026-09-24",
+  "image": "news5-unga.webp"
+ },
+ {
+  "slug": "term-limits-hichilema-old-words-new-denials",
+  "section": "Politics",
+  "tag": "Politics · Constitution",
+  "title": "'Two terms': the opposition is quoting Hichilema back at himself as the term-limits storm swirls",
+  "excerpt": "State House has repeatedly denied any third-term ambition. But with Tayali's campaign growing louder and the President yet to address it directly this week, his own past words have become the opposition's favourite document.",
+  "author": "Chanda Mwape",
+  "date": "24 September 2026",
+  "iso": "2026-09-24",
+  "image": "news5-parliament.webp"
+ },
+ {
+  "slug": "kwacha-inflation-mpc-fuel-week-ahead",
+  "section": "Economy",
+  "tag": "Economy · Markets",
+  "title": "The kwacha at 19.5, inflation at an eight-year low: a week of deadlines for Zambia's economic managers",
+  "excerpt": "The currency has drifted softly this month while prices stay tame. Now three dates collide — the September inflation print, a monetary policy decision and the expiry of the fuel-tax moratorium.",
+  "author": "Natasha Banda",
+  "date": "24 September 2026",
+  "iso": "2026-09-24",
+  "image": "news5-kwacha.webp"
+ },
+ {
+  "slug": "kcm-498m-tailings-nerin-chingola",
+  "section": "Economy",
+  "tag": "Economy · Mining",
+  "title": "KCM signs $498m deal to mine its own waste — the biggest tailings recovery plant in Africa",
+  "excerpt": "Vedanta's Zambian unit will extract 70,000 tonnes of copper a year from decades of Chingola tailings, as the metal's price and the country's three-million-tonne ambition keep climbing.",
+  "author": "Natasha Banda",
+  "date": "24 September 2026",
+  "iso": "2026-09-24",
+  "image": "news5-kcm.webp"
+ },
+ {
+  "slug": "algeria-zambia-tizi-ouzou-qualifier-preview",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Twenty-two games unbeaten: Belmadi's Algeria await the Chipolopolo in Tizi Ouzou",
+  "excerpt": "George Lwandamina's first competitive match in charge is about as hard as African football gets — away to the Desert Foxes on Friday night, with Togo at home four days later.",
+  "author": "Mwelwa Phiri",
+  "date": "24 September 2026",
+  "iso": "2026-09-24",
+  "image": "news5-algeria.webp"
+ },
+ {
+  "slug": "junior-chipolopolo-perfect-group-mozambique-semi",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Three wins, eight goals, one conceded: Junior Chipolopolo sweep Group C and meet the hosts on Friday",
+  "excerpt": "A 3-1 win over Botswana sealed a perfect group stage in Maputo. One more win — against Mozambique in the semi-final — puts Zambia at the Under-20 AFCON in Ghana.",
+  "author": "Mwelwa Phiri",
+  "date": "24 September 2026",
+  "iso": "2026-09-24",
+  "image": "news5-u20.webp"
+ },
+ {
+  "slug": "zambia-live-music-season-stanbic-kwacha-awards",
+  "section": "Culture",
+  "tag": "Culture · Music",
+  "title": "The season of the stage: Stanbic festival returns as Kwacha Music Awards locks in November",
+  "excerpt": "Zambia's live-music calendar is stacking up — a bank-backed festival promising a star-studded local lineup, and the industry's biggest night set for 27 November.",
+  "author": "Lusaka Brief Culture Desk",
+  "date": "24 September 2026",
+  "iso": "2026-09-24",
+  "image": "news5-music.webp"
+ },
+ {
   "slug": "hichilema-cabinet-no-cousin-no-brother",
   "section": "Politics",
   "tag": "Politics · Lead story",
