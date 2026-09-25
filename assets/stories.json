@@ -1,5 +1,104 @@
 [
  {
+  "slug": "miti-charge-or-free-kafwaya-silence",
+  "section": "Courts",
+  "tag": "Courts · Lead story",
+  "title": "'Take them to court or release them — you can't have it both ways': Laura Miti's ultimatum over the Kafwaya silence",
+  "excerpt": "A month after former minister Mutotwe Kafwaya died in a security operation, one of the country's best-known rights campaigners says the state's silence has left it exposed to the conclusion it fears most — an unlawful killing.",
+  "author": "Mwelwa Phiri",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-charge-or-free.webp"
+ },
+ {
+  "slug": "eu-beacon-democracy-rule-of-law-haimbe",
+  "section": "Politics",
+  "tag": "Politics · Diplomacy",
+  "title": "'Beacon of democracy', with an asterisk: EU promises Zambia deeper ties and €110 million — and presses the rule of law",
+  "excerpt": "Commissioner Jozef Síkela's bilateral with Mulambo Haimbe in New York delivered budget support, a Global Gateway embrace and diplomatic relations with Andorra — while Brussels kept one eye on Kabwe.",
+  "author": "Chanda Mwape",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-eu-unga.webp"
+ },
+ {
+  "slug": "lusaka-mayor-mwewa-petition-withdrawn",
+  "section": "Courts",
+  "tag": "Politics · Courts",
+  "title": "The petition that ended with a handshake: Mwewa confirmed as Lusaka mayor after Kibombwe consents to withdraw",
+  "excerpt": "The Local Government Elections Tribunal has formally withdrawn Gabriel Kibombwe's challenge to the 13 August mayoral result — by the mutual consent of every party in the room — ending a month of legal shadow over City Hall.",
+  "author": "Chanda Mwape",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-mayor.webp"
+ },
+ {
+  "slug": "zanaco-100m-sustainability-bond-first",
+  "section": "Economy",
+  "tag": "Economy · Markets",
+  "title": "Zanaco writes the rulebook: Zambia's first bank sustainability bond heads to market at $100 million",
+  "excerpt": "A $50 million private placement anchored by British International Investment's $15 million opens the programme — a transaction the Lusaka Securities Exchange calls a first for a Zambian bank, and a template it hopes others will copy.",
+  "author": "Natasha Banda",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-zanaco.webp"
+ },
+ {
+  "slug": "cbu-ucf-chemistry-lab-400-engineers",
+  "section": "Economy",
+  "tag": "Economy · Industry",
+  "title": "Four hundred chemical engineers wanted: CBU and UCF sign lab deal ahead of a $1.5 billion fertiliser expansion",
+  "excerpt": "United Capital Fertilisers will help build a state-of-the-art chemical laboratory, lecture theatre and student accommodation at the Copperbelt University — and says its ammonia-urea plant expansion breaks ground within weeks.",
+  "author": "Natasha Banda",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-cbu-lab.webp"
+ },
+ {
+  "slug": "anthrax-muchinga-hippos-confirmed-count",
+  "section": "Health",
+  "tag": "Health · Outbreak",
+  "title": "Forty-six dead hippos, one confirmed case: what we actually know about the Muchinga anthrax outbreak",
+  "excerpt": "Laboratory evidence is lagging the carcass count in the Munyamadzi corridor. Zambia's national One Health coordinator says only one hippo death is lab-confirmed — and cautions against blaming anthrax for every dead animal.",
+  "author": "Lusaka Brief Health Desk",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-anthrax.webp"
+ },
+ {
+  "slug": "algeria-zambia-matchday-tizi-ouzou",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Matchday in Tizi Ouzou: Chipolopolo open the road to AFCON 2027 against the Desert Foxes tonight",
+  "excerpt": "A rebuilt Zambia squad — completed by the late arrivals of Lungu and Liteta, and minus the withdrawn Andrew Sinkala — faces Algeria at the Hussein Aït Ahmed Stadium with a long winless run to snap.",
+  "author": "Mwelwa Phiri",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-algeria.webp"
+ },
+ {
+  "slug": "junior-chipolopolo-south-africa-semi-afcon-ticket",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Ninety minutes from Ghana: Junior Chipolopolo meet holders South Africa with an AFCON ticket on the line",
+  "excerpt": "Friday's 16:00 CAT semi-final in Maputo pits the region's two most decorated youth sides against each other — Zambia's twelve titles against Amajita's ten — with the finalists bound for the U20 AFCON in Ghana.",
+  "author": "Mwelwa Phiri",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-u20semi.webp"
+ },
+ {
+  "slug": "silondwa-discover-golf-countback",
+  "section": "Sport",
+  "tag": "Sport · Golf",
+  "title": "Silondwa survives three-way countback to lift Discover Insurance golf title at Nkana",
+  "excerpt": "Kedrick Silondwa's 42 points off a 12 handicap topped a tightly contested field at Nkana Golf Club, as the insurer marked its fourth anniversary with the championship.",
+  "author": "Mwelwa Phiri",
+  "date": "25 September 2026",
+  "iso": "2026-09-25",
+  "image": "news6-golf.webp"
+ },
+ {
   "slug": "mukobeko-gate-shut-treason-accused",
   "section": "Courts",
   "tag": "Courts · Lead story",
