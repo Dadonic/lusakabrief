@@ -1,5 +1,115 @@
 [
  {
+  "slug": "abu-dhabi-2-14-billion-mous-medical-city-mopani-copper",
+  "section": "Economy",
+  "tag": "Economy · Lead story",
+  "title": "Two billion for a Medical City, a challenge for Mopani and a pact still unsigned: Hichilema's US$2.14 billion day in Abu Dhabi",
+  "excerpt": "Memoranda worth US$2.14 billion were signed at the Zambia-UAE Business Forum on Tuesday, anchored by a US$2 billion plan to build a Medical City in Lusaka. The President also told Mopani's Emirati owners that the three-million-tonne copper target needs more of their ore — and left the biggest document, a Comprehensive Economic Partnership Agreement, for another day.",
+  "author": "Natasha Banda",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-medcity.webp"
+ },
+ {
+  "slug": "archbishop-banda-released-chimbokaila-night-custody-bail",
+  "section": "Politics",
+  "tag": "Politics · The Banda case",
+  "title": "A night at Chimbokaila, a day of paperwork, then a smile at the gate: the Archbishop walks free on bail",
+  "excerpt": "The Archbishop of Lusaka spent Monday night in the capital's best-known correctional facility while his lawyers worked the bail conditions through the system. Late on Tuesday afternoon the gates opened, and the country's most watched defendant walked out smiling — to high-fives, handshakes and a Church that had barely slept.",
+  "author": "Chanda Mwape",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-banda-free.webp"
+ },
+ {
+  "slug": "ecz-november-5-by-elections-mandevu-lumezi-north-mbala-wards",
+  "section": "Politics",
+  "tag": "Politics · Elections",
+  "title": "Fourteen vacancies, one date: Mandevu, Lumezi North and Mbala vote again on 5 November — with August's ghosts on the ballot",
+  "excerpt": "The Electoral Commission has set Thursday, 5 November for two parliamentary by-elections, a mayoral race and eleven ward polls across five provinces. Mandevu's fresh vote is the residue of an attack on its own totalling centre; Lumezi North and Mbala are voting because death took their candidates within days of the election.",
+  "author": "Chanda Mwape",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-byelections.webp"
+ },
+ {
+  "slug": "cdf-2026-loans-frozen-35-percent-repayment-marketeers",
+  "section": "Politics",
+  "tag": "Politics · Public funds",
+  "title": "Sixty-five kwacha in every hundred never came back: government freezes the 2026 CDF loan window and turns collector",
+  "excerpt": "The empowerment-loan arm of the Constituency Development Fund — the cheap money aimed at youths, women, persons with disabilities and marketeers — is shut for 2026. The ministry says only 35 per cent of what has been lent since 2021 has been repaid, and new borrowers will now be funded only from what defaulters return.",
+  "author": "Chanda Mwape",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-cdf.webp"
+ },
+ {
+  "slug": "fuel-waiver-expires-midnight-erb-october-review-gazette",
+  "section": "Economy",
+  "tag": "Economy · Fuel",
+  "title": "Midnight, and still no signature: the fuel-tax holiday lapses tonight — and the ERB's October numbers follow within hours",
+  "excerpt": "Unless a statutory instrument appears in the next few hours, the excise suspension and VAT zero-rating that have kept two lines of the pump-price build-up blank since April die at midnight. The October review — the first in six months with the full tax load back in the formula — lands on the same midnight.",
+  "author": "Natasha Banda",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-fuel.webp"
+ },
+ {
+  "slug": "turkish-airlines-lusaka-exit-connectivity-chisanga-warning",
+  "section": "Economy",
+  "tag": "Economy · Aviation",
+  "title": "Turkish Airlines is leaving Lusaka's map — and an economist says the route is the least of what departs with it",
+  "excerpt": "The carrier has removed Lusaka from its future schedules for good. Kelvin Chisanga's warning is about what goes with it: investor access, tourist arrivals, and a piece of the country's argument — made again in Abu Dhabi this week — that Zambia is open for business.",
+  "author": "Natasha Banda",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-turkish.webp"
+ },
+ {
+  "slug": "lumezi-south-petition-ngoma-recount-banda-farm-allegations",
+  "section": "Courts",
+  "tag": "Courts · Election petition",
+  "title": "K50, sausages and pens: the Lumezi South petition puts a farm linked to the Archbishop inside an election fight",
+  "excerpt": "The losing UPND candidate in Lumezi South wants a recount or a nullification — and his testimony alleges voters were given money and gifts at a farm associated with Archbishop Alick Banda, with instructions to vote for Brian Mundubile and Oliver Mwale. Under cross-examination, he conceded he has no pictures.",
+  "author": "Mwelwa Phiri",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-lumezi.webp"
+ },
+ {
+  "slug": "health-investment-week-medical-city-brazil-fqm-chipangali",
+  "section": "Health",
+  "tag": "Health · Investment",
+  "title": "A US$2 billion city on paper, a Brazilian delegation in the corridor and a mine's K5.7 million: health's week of promises",
+  "excerpt": "The Medical City memorandum signed in Abu Dhabi is the largest health promise Zambia has ever heard. In the same week, smaller and more provable ones arrived — a pharmaceutical delegation from Brazil, a hospital upgrade from a mine, steady drug stocks in Chipangali. The gap between the two scales is where the health system actually lives.",
+  "author": "Lusaka Brief Health Desk",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-health.webp"
+ },
+ {
+  "slug": "zambia-2-0-togo-streak-ends-ndola-floodlight-failure",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Two goals, one blackout and a weight lifted: Zambia beat Togo 2-0 and turn Group I into a contest",
+  "excerpt": "Albert Kangwanda scored inside three minutes, the floodlights failed for twenty, and Eliya Mandanji finished it in stoppage time. Zambia's first win of the campaign draws them level with Togo on three points — and turns November's double-header with Burundi into the decider it was always going to be.",
+  "author": "Mwelwa Phiri",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-chipolopolo.webp"
+ },
+ {
+  "slug": "diplomatic-fun-fair-october-3-lusaka-showgrounds-weekend",
+  "section": "Culture",
+  "tag": "Culture · City",
+  "title": "Free entry, thirty countries, one Saturday: the Diplomatic Fun Fair joins Lusaka's biggest weekend of the year",
+  "excerpt": "The Ministry of Tourism has launched the 2026 Diplomatic Fun Fair for 3 October at the Lusaka Showgrounds — the same Saturday Jason Derulo headlines the polo fields. For the capital's cultural economy, it is the busiest weekend on record.",
+  "author": "Lusaka Brief Culture Desk",
+  "date": "30 September 2026",
+  "iso": "2026-09-30",
+  "image": "news11-funfair.webp"
+ },
+ {
   "slug": "archbishop-banda-charged-not-guilty-bail-november-trial",
   "section": "Politics",
   "tag": "Politics · Lead story",
