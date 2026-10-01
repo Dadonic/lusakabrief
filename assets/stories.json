@@ -1,5 +1,115 @@
 [
  {
+  "slug": "fuel-prices-october-31-46-erb-excise-reinstated-vat-december",
+  "section": "Economy",
+  "tag": "Economy · Lead story",
+  "title": "K31.46 at the pump: the tax holiday ends, excise returns — and Zambia wakes to its steepest fuel-price jump of the year",
+  "excerpt": "No statutory instrument appeared before midnight, so the six-month fuel-tax relief died on schedule. The Energy Regulation Board's October review restores excise duty and passes on dearer oil and a weaker kwacha: petrol up 24 per cent to K31.46, diesel up 24 to K33.27 — with VAT's return dated for 1 December.",
+  "author": "Natasha Banda",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-fuel.webp"
+ },
+ {
+  "slug": "zccb-ccz-church-statements-election-credibility-kafwaya-probe",
+  "section": "Politics",
+  "tag": "Politics · State of the nation",
+  "title": "“Instruments of justice and service, not sources of fear”: the Catholic bishops and the CCZ close ranks on the state of the nation",
+  "excerpt": "In separate but aligned statements on one Wednesday, Zambia's two largest church bodies questioned the credibility of the 2026 elections, decried arbitrary arrests and force that has cost civilian lives, and demanded an independent investigation into the killing of former minister Mutotwe Kafwaya. October, the bishops declared, will be a month of rosary prayers for peace.",
+  "author": "Chanda Mwape",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-bishops.webp"
+ },
+ {
+  "slug": "mwanza-ecz-report-suspended-count-mandevu-ballots-reform",
+  "section": "Politics",
+  "tag": "Politics · Electoral reform",
+  "title": "“The outcome was never in doubt — the process is”: Antonio Mwanza gives the ECZ three questions, and a warning about 2031",
+  "excerpt": "The Democratic Progressive Party leader accepts that President Hichilema won — and says that is precisely why the Electoral Commission must now account for the suspended count, Mandevu's stolen ballots and a dead election agent. His prescription: commissioners chosen independently, a timetable that binds the incumbent, and public media that covers everyone.",
+  "author": "Chanda Mwape",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-ecz.webp"
+ },
+ {
+  "slug": "boz-mpr-cut-250-basis-points-10-75-inflation-turn",
+  "section": "Economy",
+  "tag": "Economy · Monetary policy",
+  "title": "Two hundred and fifty basis points: the Bank of Zambia delivers its biggest cut in more than a decade",
+  "excerpt": "Economists expected twenty-five. The Monetary Policy Committee delivered two hundred and fifty, taking the policy rate to 10.75 per cent — a fourth consecutive cut, powered by 6.1 per cent inflation, a record maize harvest and a firmer kwacha. The committee's own risk list, though, reads like next month's news.",
+  "author": "Natasha Banda",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-mpr.webp"
+ },
+ {
+  "slug": "green-paper-k212-billion-debt-service-2027-2029",
+  "section": "Economy",
+  "tag": "Economy · Public finances",
+  "title": "K212 billion for creditors: the Green Paper prices the new term — and debt service outbids FISP, CDF and free education combined",
+  "excerpt": "The 2027–2029 Medium-Term Budget Plan, the Treasury's first blueprint of the new mandate, sets aside K212.2 billion for debt service — K63.6 billion more than the entire transfers budget for farmers, constituencies, pupils and school meals. The bill falls as a share of GDP only if the growth promises are true.",
+  "author": "Natasha Banda",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-debt.webp"
+ },
+ {
+  "slug": "imf-mission-lusaka-successor-ecf-talks-october-10",
+  "section": "Economy",
+  "tag": "Economy · The Fund",
+  "title": "The Fund is back in town: Zambia opens successor-programme talks — and wants a deal before the year ends",
+  "excerpt": "An IMF mission led by Edward Gemayel is in Lusaka until 10 October, negotiating a successor to the US$1.7 billion programme that ended in January. The government is selling growth; the Fund is checking the sustainability file. Both are reading the same Green Paper.",
+  "author": "Natasha Banda",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-imf.webp"
+ },
+ {
+  "slug": "court-shutdown-august-security-agencies-attorney-general-chapter-one",
+  "section": "Courts",
+  "tag": "Courts · Access to justice",
+  "title": "“Not the Judiciary — the security services”: the State's answer for the three days the courts went dark",
+  "excerpt": "Attorney-General Mulilo Kabesha has told the Constitutional Court that August's closure of the courts was ordered by the defence and national security services, and merely communicated by the Judiciary. The admission — the first official attribution of responsibility — comes as the State asks that the Chapter One Foundation petition be dismissed with costs.",
+  "author": "Mwelwa Phiri",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-courts.webp"
+ },
+ {
+  "slug": "nabwalya-anthrax-five-more-wildlife-deaths-26-human-cases",
+  "section": "Health",
+  "tag": "Health · Outbreak watch",
+  "title": "Five more carcasses in Nabwalya, twenty-six people on the register: the anthrax response races the river",
+  "excerpt": "Three more hippos and two more elephants have died of anthrax in the Nabwalya Game Management Area, taking the wildlife toll to 49 hippos, nine elephants and six buffaloes. Twenty-six human cases have now been reported — and investigators keep finding evidence that people are reaching the carcasses first.",
+  "author": "Lusaka Brief Health Desk",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-anthrax.webp"
+ },
+ {
+  "slug": "zesco-levy-mwanawasa-blackout-0-2-seconds-floodlight-redesign",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "0.2 seconds at 18:21: ZESCO explains the night Levy Mwanawasa went dark — and promises new lights",
+  "excerpt": "The blackout that stopped Zambia's 2-0 win over Togo for eighteen minutes lasted, on the utility's account, a fifth of a second. The floodlights simply could not forgive it: their design demands about twenty minutes to return to full brightness. ZESCO will now engage the Ministry of Youth, Sport and Arts on a redesign.",
+  "author": "Mwelwa Phiri",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-zesco.webp"
+ },
+ {
+  "slug": "lusaka-july-2026-tale-of-ruby-tenth-edition-october",
+  "section": "Culture",
+  "tag": "Culture · City",
+  "title": "Ten years of the Lusaka July — in October: “The Tale of a Ruby” opens at the National Museum on the 16th",
+  "excerpt": "The capital's most dressed-up weekend has a theme, a date and a tenth birthday. Lusaka July 2026 runs 16–18 October across three signature events, opening with a Night of Culture at the Lusaka National Museum — the social season's anchor, transplanted to the year's busiest cultural month.",
+  "author": "Lusaka Brief Culture Desk",
+  "date": "1 October 2026",
+  "iso": "2026-10-01",
+  "image": "news12-july.webp"
+ },
+ {
   "slug": "abu-dhabi-2-14-billion-mous-medical-city-mopani-copper",
   "section": "Economy",
   "tag": "Economy · Lead story",
