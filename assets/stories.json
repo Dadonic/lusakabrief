@@ -1,5 +1,115 @@
 [
  {
+  "slug": "fourteenth-assembly-first-sitting-speaker-election-presiding-officers",
+  "section": "Politics",
+  "tag": "Politics · Lead story",
+  "title": "The Clerk, the gavel and 266 seats: the Fourteenth Assembly sits for the first time today — and can do nothing until it has a Speaker",
+  "excerpt": "The Order Paper for Friday carries a single line of business: the election of the Speaker and two deputies. Until that is done, the expanded National Assembly — 226 constituency seats and 40 proportional-representation seats created by the 2025 amendments — cannot transact anything at all. The President opens the session next Friday.",
+  "author": "Chanda Mwape",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-speaker.webp"
+ },
+ {
+  "slug": "hichilema-returns-abu-dhabi-2-14-billion-commitments-health-city",
+  "section": "Politics",
+  "tag": "Politics · Diplomacy",
+  "title": "Home to the K31.46 morning: Hichilema lands from Abu Dhabi with US$2.14 billion in commitments — and says more is being finalised",
+  "excerpt": "The President returned to Kenneth Kaunda International Airport on Thursday evening quoting a figure of more than US$2.1 billion from his Abu Dhabi working visit — health, agriculture, tourism and energy, with a 100-hectare health city among the plans — while the forum's own count of signed instruments ran higher still. He arrived to the first full day of the new fuel prices.",
+  "author": "Chanda Mwape",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-abudhabi.webp"
+ },
+ {
+  "slug": "wicknell-chivayo-helicopter-crash-marondera-six-aboard-dna-identification",
+  "section": "Politics",
+  "tag": "Politics · Region",
+  "title": "Six aboard, no survivors: the Marondera helicopter crash that killed Wicknell Chivayo — and the DNA wait now holding the region's attention",
+  "excerpt": "Zimbabwe police confirm six people were aboard the helicopter that went down at Kudenga Farm near Marondera on Wednesday evening; the civil aviation authority's preliminary account says the tail struck first. Identification of the victims awaits DNA analysis. Tributes have come from Presidents Mnangagwa and Ruto — and the story has been followed as closely in Lusaka as in Harare.",
+  "author": "Mwelwa Phiri",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-chivayo.webp"
+ },
+ {
+  "slug": "uk-trade-commissioner-alastair-long-zambia-visit-greenco-fqm-trident",
+  "section": "Economy",
+  "tag": "Economy · Investment",
+  "title": "Solar rows and a copper shaft: Britain's Africa trade commissioner ends a five-day Zambia pitch today",
+  "excerpt": "Alastair Long's Zambia programme closes on Friday after a week that took the UK Trade Commissioner for Africa from a GreenCo solar site to First Quantum's Trident mine — with the Green Growth Compact and British International Investment's strategy doing the framing, and a Terzeon reception doing the networking.",
+  "author": "Natasha Banda",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-uktrade.webp"
+ },
+ {
+  "slug": "indo-zambia-bank-k3-3-billion-agriculture-portfolio-planting-season",
+  "section": "Economy",
+  "tag": "Economy · Agri-finance",
+  "title": "K3.3 billion in the furrows: on the eve of planting season, Indo Zambia Bank reveals the biggest farm book in its history",
+  "excerpt": "The bank's agriculture portfolio has reached K3.3 billion, it disclosed this week — K400 million of it through the smallholder facility that has reached more than 3,600 farmers — with earmarks behind it for soybeans, wheat and energy, timed to the season that starts with the first rains.",
+  "author": "Lusaka Brief Business Desk",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-izb.webp"
+ },
+ {
+  "slug": "fuel-k31-46-first-full-day-commuter-arithmetic-kwacha-vat-december",
+  "section": "Economy",
+  "tag": "Economy · Cost of living",
+  "title": "Day one at K31.46: the commuter arithmetic of a 24-per-cent jump, a kwacha at K19.61 — and December's VAT question",
+  "excerpt": "The first full day of the new pump prices dawned on the ranks and the filling stations with fares yet to move. But the arithmetic has moved: at long-distance consumption rates, the diesel line alone adds about K820 to a one-way Lusaka–Ndola run — and the VAT reinstatement dated for 1 December is still in the post.",
+  "author": "Natasha Banda",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-pumps.webp"
+ },
+ {
+  "slug": "dec-counterfeit-fertiliser-plant-9-miles-meanwood-739-bags-four-charged",
+  "section": "Courts",
+  "tag": "Courts · Crime",
+  "title": "739 bags of suspected fake fertiliser, four men in custody: the DEC unearths an unregistered plant weeks before planting",
+  "excerpt": "The Drug Enforcement Commission has uncovered a manufacturing operation spanning 9 Miles and Meanwood Vorna Valley, seizing 739 bags of suspected counterfeit fertiliser, raw materials and equipment. An agricultural consultant and three businessmen face charges including money laundering — and the timing, at the gates of the planting season, is the point.",
+  "author": "Lusaka Brief Courts Desk",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-fertiliser.webp"
+ },
+ {
+  "slug": "cholera-outbreak-declared-304-cases-11-deaths-seven-districts",
+  "section": "Health",
+  "tag": "Health · Outbreak",
+  "title": "304 cases, eleven dead, seven districts: Zambia declares a cholera outbreak weeks after the last one was declared over",
+  "excerpt": "Eight of the eleven deaths happened in the community — people reaching care too late. Acting Health Minister Gilbert Siame declared the outbreak on Wednesday: 304 cases across five provinces as of Tuesday, with Lusaka and Chibombo carrying the heaviest loads and a vaccination decision under assessment.",
+  "author": "Lusaka Brief Health Desk",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-cholera.webp"
+ },
+ {
+  "slug": "transition-league-kickoff-saturday-ten-matches-1500-power-dynamos-konkola-blades",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Ten matches, one kick-off: the Transition League begins tomorrow — champions Power Dynamos open at Konkola Blades",
+  "excerpt": "Every opening-round fixture kicks off at 15:00 on Saturday in a season built to move Zambian football's calendar: two streams drawn from last season's final standings, a new national cup alongside, and the champions beginning their defence in Chililabombwe.",
+  "author": "Mwelwa Phiri",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-transition.webp"
+ },
+ {
+  "slug": "lusaka-weekend-diary-derulo-stanbic-diplomatic-fun-fair-october-arts",
+  "section": "Culture",
+  "tag": "Culture · The weekend",
+  "title": "Derulo at the Polo Field, thirty countries at the Showgrounds: a diary for a city in jacaranda season",
+  "excerpt": "Saturday belongs to the big stages: Jason Derulo headlines the Stanbic Music Festival from half past noon while the Diplomatic Fun Fair fills the Showgrounds. Beyond the weekend, October is stacked — theatre turns forty in Chingola, Barefeet turns twenty, and the virtual festival runs all month.",
+  "author": "Lusaka Brief Culture Desk",
+  "date": "2 October 2026",
+  "iso": "2026-10-02",
+  "image": "news13-derulo.webp"
+ },
+ {
   "slug": "fuel-prices-october-31-46-erb-excise-reinstated-vat-december",
   "section": "Economy",
   "tag": "Economy · Lead story",
