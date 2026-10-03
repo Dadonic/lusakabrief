@@ -45,6 +45,7 @@
     <a href="#politics">Politics</a>
     <a href="#economy">Economy</a>
     <a href="#sport">Sport</a>
+    <a href="#explained">Explained</a>
     <a href="/news/">Archive</a>
     <a href="/wire/">Wire</a>
     <a href="#opinion">Opinion</a>
@@ -78,6 +79,13 @@
       </a>
     </div>
   </section>
+
+<!-- Ad slot -->
+<div class="ad-slot" data-ad="leaderboard">
+  <div class="ad-label">Advertisement</div>
+  <div class="ad-box"><span class="ad-placeholder">Ad space — your message here</span></div>
+</div>
+
   <!-- Politics -->
   <h2 class="section-label" id="politics">Politics</h2>
   <section class="grid-3">
@@ -239,6 +247,47 @@
 </section>
 
 
+
+<!-- Newsletter -->
+
+<!-- Explained -->
+<h2 class="section-label" id="explained">Explained</h2>
+<section class="grid-3">
+    <article class="card">
+      <a href="/news/explained-bill7-constitution/"><img src="/assets/news4-termlimits.webp" alt="The Constitution of Zambia on a desk beside a gavel"></a>
+      <div class="card-body">
+        <span class="tag">Explained</span>
+        <h3><a href="/news/explained-bill7-constitution/">Bill 7 and the Constitution: what the amendment fight is really about</a></h3>
+        <p class="excerpt">Constitutional amendment debates are back. We unpack what Bill 7 proposes, who is for it, who is against it — and why it matters for 2026.</p>
+      </div>
+    </article>
+</section>
+
+<section class="newsletter-band">
+  <div class="newsletter-inner">
+    <h2>The Brief, in your inbox</h2>
+    <p>One email a day — the lead story, the essential reads, no noise. Delivered after the noon edition, Zambia time.</p>
+    <form class="nl-form" onsubmit="return nlSubscribe(this)">
+      <input type="email" name="email" placeholder="you@example.com" required>
+      <button type="submit">Subscribe</button>
+    </form>
+    <div class="nl-msg"></div>
+  </div>
+</section>
+
+<script>
+async function nlSubscribe(f){
+  const msg=f.parentElement.querySelector('.nl-msg');
+  msg.textContent='Subscribing…';
+  try{
+    const r=await fetch('/api/subscribe.php',{method:'POST',body:new FormData(f)});
+    const d=await r.json();
+    msg.textContent=d.message||d.error||'Something went wrong — try again.';
+    if(d.ok) f.reset();
+  }catch(e){msg.textContent='Something went wrong — try again.';}
+  return false;
+}
+</script>
 
 <footer class="footer" id="about">
   <div class="footer-inner">

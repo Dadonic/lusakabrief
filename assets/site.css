@@ -506,3 +506,35 @@ a { color: inherit; }
 .wire-row{display:block;padding:16px 4px;border-bottom:1px solid #e6e0d0;text-decoration:none}
 .wire-row:hover{background:#f7f4ec}
 .wire-row .wire-title{font-size:19px}
+
+/* ---- Newsletter band ---- */
+.newsletter-band{background:#0f2d21;color:#f7f4ec;padding:52px 0}
+.newsletter-inner{max-width:640px;margin:0 auto;text-align:center;padding:0 20px}
+.newsletter-band h2{font-family:'Fraunces',serif;font-size:clamp(26px,4vw,34px);font-weight:800;margin:0 0 10px;color:#f7f4ec}
+.newsletter-band p{color:#b9c4bb;font-size:15px;line-height:1.6;margin:0 0 22px}
+.nl-form{display:flex;gap:10px;max-width:480px;margin:0 auto}
+.nl-form input{flex:1;padding:13px 16px;border:1px solid #2c5a45;border-radius:8px;background:#173f2f;color:#f7f4ec;font-size:15px;font-family:'Inter',sans-serif;outline:none}
+.nl-form input::placeholder{color:#7d9484}
+.nl-form input:focus{border-color:#c9a227}
+.nl-form button{padding:13px 24px;border:none;border-radius:8px;background:#c9a227;color:#0f2d21;font-weight:700;font-size:14px;letter-spacing:.04em;cursor:pointer;font-family:'Inter',sans-serif;transition:background .18s}
+.nl-form button:hover{background:#dbb53a}
+.nl-msg{margin-top:12px;font-size:13.5px;color:#c9a227;min-height:18px}
+@media(max-width:520px){.nl-form{flex-direction:column}}
+
+/* ---- Ad slots ---- */
+.ad-slot{margin:34px auto;max-width:728px;text-align:center}
+.ad-slot .ad-box{border:1px dashed #cfc8b6;border-radius:8px;background:#faf8f1;min-height:90px;display:flex;align-items:center;justify-content:center}
+.ad-slot .ad-label{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:#a39c8a;margin-bottom:6px}
+.ad-slot .ad-placeholder{font-size:12.5px;color:#b5ad99;font-style:italic}
+
+/* ---- Design refresh ---- */
+.masthead{border-bottom:3px double #173f2f}
+.topbar{letter-spacing:.03em}
+.section-label{display:flex;align-items:center;gap:14px}
+.section-label::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,#d8d2c4,transparent)}
+.card{transition:transform .2s ease, box-shadow .2s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 28px rgba(23,63,47,.10)}
+.card img{transition:filter .3s ease}
+.card:hover img{filter:saturate(1.08)}
+.footer{border-top:4px solid #173f2f}
+::selection{background:#c9a227;color:#0f2d21}
