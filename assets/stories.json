@@ -1,5 +1,115 @@
 [
  {
+  "slug": "mundubile-zulu-solwezi-road-transfer-sedition-plea-monday",
+  "section": "Politics",
+  "tag": "Politics · Lead story",
+  "title": "The road to Solwezi: a prison bus, a police escort, and a plea waiting at the end of the highway",
+  "excerpt": "Brian Mundubile and Makebi Zulu spent Sunday on the North-Western highway under prison and police escort, bound for the Solwezi Magistrates' Court, where they are due to take a formal plea this morning — and where the State must finally say whether it is ready to try the seditious-practices case. The treason case, the graver one, still has no courtroom at all.",
+  "author": "Chanda Mwape",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-solwezi.webp"
+ },
+ {
+  "slug": "hichilema-fires-deputy-police-ig-munganga-article-270-no-reason",
+  "section": "Politics",
+  "tag": "Politics · Police command",
+  "title": "'Immediate effect', and no reason given: the President removes his deputy police chief — a day after her discipline tour",
+  "excerpt": "State House announced on Sunday that Charity Munganga's appointment as Deputy Inspector General of Police (Administration) is terminated under Article 270 of the Constitution. On Saturday she was in Northern Province telling officers the badge is public trust. No reason was given — and the rumours of a wider command shake-up remain just that.",
+  "author": "Chanda Mwape",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-policecommand.webp"
+ },
+ {
+  "slug": "bishops-malawi-zambia-zimbabwe-secam-archbishop-banda-due-process",
+  "section": "Politics",
+  "tag": "Politics · Church and state",
+  "title": "The region's bishops close ranks around Alick Banda: due process, a fair hearing — and a pointed question from Lusaka about public interest",
+  "excerpt": "The Catholic bishops of Malawi, Zambia and Zimbabwe have issued a joint communiqué over the arrest of the Archbishop of Lusaka, calling for a fair, transparent and lawful process — days after the continent's bishops' symposium did the same. At home, the Movement for Economic Emancipation asks what public interest the prosecution serves.",
+  "author": "Chanda Mwape",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-bishops.webp"
+ },
+ {
+  "slug": "lubinda-laz-dpp-treason-detention-clock-shamwana-precedent",
+  "section": "Courts",
+  "tag": "Courts · Detention",
+  "title": "How long may the State hold a treason suspect? Lubinda asks the question aloud — and the DPP reaches back to Shamwana for an answer",
+  "excerpt": "Given Lubinda has returned to the public argument asking how long treason suspects can be kept from a courtroom. The Law Association of Zambia has called for the release of detainees not brought before a court. The Director of Public Prosecutions answers that due diligence takes time — and cites the longest treason trial in the country's memory.",
+  "author": "Lusaka Brief Courts Desk",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-treasonclock.webp"
+ },
+ {
+  "slug": "lobito-corridor-engine-room-lusaka-hichilema-bjerde-angola-drc",
+  "section": "Economy",
+  "tag": "Economy · Corridors",
+  "title": "The Atlantic comes to the InterContinental: Hichilema opens the Lobito 'engine room' today — with the World Bank's operations chief at the table",
+  "excerpt": "Zambia and the World Bank host the Second Lobito Corridor Coordination Meeting today and tomorrow in Lusaka, bringing Angola, the Democratic Republic of Congo, development partners and private capital into one room. The ambition: a working economic ecosystem from the Copperbelt to the Atlantic — not just a railway.",
+  "author": "Natasha Banda",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-lobito.webp"
+ },
+ {
+  "slug": "five-million-tourists-2031-diplomatic-funfair-nalumango-culture-economy",
+  "section": "Economy",
+  "tag": "Economy · Tourism",
+  "title": "Five million guests by 2031: the Vice-President's funfair speech puts a number on culture — and treats it as an engine, not a sideshow",
+  "excerpt": "Mutale Nalumango has reaffirmed the five-million-tourist target at the sixth Diplomatic Funfair in Lusaka, framing cultural tourism as economic strategy. The arithmetic behind the ambition: 2.3 million arrivals last year, a two-and-a-half-million target for this one, and a billion dollars in receipts by 2031.",
+  "author": "Natasha Banda",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-tourism.webp"
+ },
+ {
+  "slug": "cholera-outbreak-declared-304-cases-11-deaths-seven-districts-clear-path",
+  "section": "Health",
+  "tag": "Health · Outbreak",
+  "title": "304 cases, 11 funerals, seven districts: the cholera outbreak is now official — and Lusaka's swept pavements are its front line",
+  "excerpt": "The Ministry of Health declared a new cholera outbreak on 30 September, with 304 suspected cases — 62 laboratory-confirmed — and 11 deaths across seven districts in five provinces as of 29 September. Chibombo carries the heaviest count; Lusaka District's 130 cases explain why Operation Clear Path emptied the CBD's stalls this weekend.",
+  "author": "Lusaka Brief Health Desk",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-cholera.webp"
+ },
+ {
+  "slug": "konkola-blades-stun-champions-power-opening-day-zanaco-nkana-away-wins",
+  "section": "Sport",
+  "tag": "Sport · Football",
+  "title": "Sixty seconds to shake the champions: Blades beat Power with a first-minute goal and a cruel late own goal — and the Transition League has its storyline",
+  "excerpt": "Konkola Blades scored the season's first goal inside sixty seconds and beat champions Power Dynamos 2-1 in Chililabombwe, with Wilson Chisala's late own goal settling it after Amine Hiver's equaliser. Zanaco won at Nchanga Rangers, Nkana won at promoted Trident — the short season is already loud.",
+  "author": "Mwelwa Phiri",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-blades.webp"
+ },
+ {
+  "slug": "copper-queens-kampala-olympic-qualifier-futsal-cairo-egypt-friendlies",
+  "section": "Sport",
+  "tag": "Sport · National teams",
+  "title": "Two teams, two airports, one week: the Copper Queens fly at Uganda's Olympic gate while the futsal men measure themselves against Egypt",
+  "excerpt": "The Copper Queens have jetted out to Kampala for Thursday's Olympic qualifier against Uganda, chasing a third consecutive Games with an all-local interim bench. In Cairo, Andrea Cristoforetti's futsal side plays the first of two friendlies against Egypt, eight days before the AFCON in Morocco.",
+  "author": "Mwelwa Phiri",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-queens.webp"
+ },
+ {
+  "slug": "chivayo-burial-thursday-without-heads-glen-forest-family-confirms",
+  "section": "Culture",
+  "tag": "Culture · Region",
+  "title": "'We did not find any head': the Chivayo family confirms the unthinkable — Thursday's burial at Glen Forest will go ahead without them",
+  "excerpt": "Wicknell Chivayo and Lucy Muteke will be buried side by side on Thursday at Harare's Glen Forest Cemetery — without their heads, the family has confirmed, and without body viewing. The funeral will be public; the DNA process continues; the region that watched the crash now watches the farewell.",
+  "author": "Lusaka Brief Culture Desk",
+  "date": "5 October 2026",
+  "iso": "2026-10-05",
+  "image": "news16-chivayo.webp"
+ },
+ {
   "slug": "mutti-reelected-speaker-unopposed-muzungu-second-deputy-166-votes",
   "section": "Politics",
   "tag": "Politics · Lead story",
