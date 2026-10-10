@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{title} — Lusaka Brief</title>
+<meta name="description" content="{excerpt_attr}">
+<link rel="canonical" href="https://lusakabrief.com/news/{slug}/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Lusaka Brief">
+<meta property="og:title" content="{title_attr}">
+<meta property="og:description" content="{excerpt_attr}">
+<meta property="og:url" content="https://lusakabrief.com/news/{slug}/">
+<meta property="og:image" content="https://lusakabrief.com/assets/{image}">
+<meta property="article:published_time" content="{iso}T06:00:00+02:00">
+<meta property="article:section" content="{section}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="Lusaka Brief" href="/feed.xml">
+<link rel="icon" type="image/svg+xml" href="/assets/lusaka-brief-mark.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <span class="dateline">Lusaka, Zambia — {date_long}</span>
+    <span class="edition">Edition: <strong>{date_long}</strong></span>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <img class="brand-mark" src="/assets/lusaka-brief-mark.svg" alt="Lusaka Brief eagle mark">
+    <div>
+      <a class="brand-word" href="/">LUSAKA <span>BRIEF</span></a>
+      <div class="brand-tag">Public-interest journalism for Zambia</div>
+    </div>
+  </div>
+</header>
+
+<nav class="navbar">
+  <div class="nav-inner">
+    <a href="/">Latest</a>
+    <a href="/#politics">Politics</a>
+    <a href="/#economy">Economy</a>
+    <a href="/#sport">Sport</a>
+    <a href="/#culture">Culture</a>
+    <a href="/#explained">Explained</a>
+    <a href="/news/">Archive</a>
+    <a href="/wire/">Wire</a>
+    <a href="/#opinion">Opinion</a>
+    <a href="/veteran-refinery/">Developing Report</a>
+  </div>
+</nav>
+
+<main>
+  <div class="wrap article-hero">
+    <div class="article-head">
+      <span class="kicker" style="color:{kicker_color}">{kicker}</span>{badge}
+      <h1>{title}</h1>
+      <p class="standfirst">{excerpt}</p>
+      <div class="byline">
+        <span>By <strong>{author}</strong></span>
+        <span class="sep">•</span>
+        <span>{dateline} — {date}</span>
+        <span class="sep">•</span>
+        <span>{readtime} min read</span>
+      </div>
+    </div>
+
+    <figure class="article-figure">
+      <img src="/assets/{image}" alt="{alt}">
+      <figcaption>{caption}</figcaption>
+    </figure>
+
+    <div class="article-body">
+
+{body}
+
+      <div class="ad-slot" data-ad="article-inline">
+        <span class="ad-label">Advertisement</span>
+        <!-- Paste your AdSense in-article ad unit here -->
+      </div>
+      <a class="back-link" href="/">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M11 18l-6-6 6-6"/></svg>
+        Back to the front page
+      </a>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img class="brand-mark" src="/assets/lusaka-brief-mark.svg" alt="Lusaka Brief eagle mark">
+      <div>
+        <div class="fname">LUSAKA <span>BRIEF</span></div>
+        <p>Independent public-interest journalism from Lusaka, Zambia.</p>
+      </div>
+    </div>
+    <p class="footer-note"><strong>Editorial standards.</strong> Confirmed fact is separated from allegation. Every claim is attributed, and the published reporting each story draws on is listed and linked at its foot.</p>
+  </div>
+  <div class="copyright">© {year} Lusaka Brief · Lusaka, Zambia · All rights reserved</div>
+</footer>
+
+</body>
+</html>

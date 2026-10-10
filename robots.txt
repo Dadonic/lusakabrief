@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /tools/
 Sitemap: https://lusakabrief.com/sitemap.xml
