@@ -1,730 +1,491 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lusaka Brief</title>
     <link>https://lusakabrief.com/</link>
+    <atom:link href="https://lusakabrief.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Public-interest journalism for Zambia</description>
     <language>en-zm</language>
-    <lastBuildDate>2026-10-10T10:45:00+02:00</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 04:47:12 +0200</lastBuildDate>
+    <item>
+      <title>The Fund says yes in principle: a US$1.47 billion staff-level deal — now come the prior actions</title>
+      <link>https://lusakabrief.com/news/imf-staff-level-agreement-zambia-1472-billion-36-month-ecf-prior-actions/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/imf-staff-level-agreement-zambia-1472-billion-36-month-ecf-prior-actions/</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Zambia and the IMF have reached a staff-level agreement on a 36-month, US$1.472 billion Extended Credit Facility. Board approval and a set of prior actions still stand between Friday's handshake and the first disbursement.</description>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Bus fares follow the fuel: RTSA approves Friday rises — 7 percent intercity, K3.50 inter-mine, K2 on Lusaka locals</title>
+      <link>https://lusakabrief.com/news/rtsa-bus-fares-rise-friday-intercity-7-percent-inter-mine-k350-local-k2/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/rtsa-bus-fares-rise-friday-intercity-7-percent-inter-mine-k350-local-k2/</guid>
+      <pubDate>Sun, 11 Oct 2026 05:59:00 +0200</pubDate>
+      <description>The Road Transport and Safety Agency has approved higher bus fares across the country with effect from Friday 9 October, three weeks after the fuel pump price jumped by more than K6 a litre.</description>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>'If you engage in corruption, you are on your own': the President puts the civil service — and MPs' allowances — on notice</title>
+      <link>https://lusakabrief.com/news/hichilema-corruption-warning-civil-servants-mps-allowances-cdf-delivery-units/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/hichilema-corruption-warning-civil-servants-mps-allowances-cdf-delivery-units/</guid>
+      <pubDate>Sun, 11 Oct 2026 05:58:00 +0200</pubDate>
+      <description>Beyond the growth targets, Friday's address to the 14th National Assembly carried a blunt warning to public servants, a rebuke over parliamentary allowances, and a defence of the anti-corruption drive.</description>
+      <category>Politics</category>
+    </item>
+    <item>
+      <title>The day after: Kampyongo welcomes the unity call, Britain backs Grow Zambia — with a caveat on opposition space</title>
+      <link>https://lusakabrief.com/news/address-reactions-kampyongo-terzeon-uk-backing-opposition-space-nalumango/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/address-reactions-kampyongo-terzeon-uk-backing-opposition-space-nalumango/</guid>
+      <pubDate>Sun, 11 Oct 2026 05:57:00 +0200</pubDate>
+      <description>The first responses to Friday's address crossed the aisle and the diplomatic row: an opposition lawmaker preaching peace, a British envoy pledging backing with a condition, and the Vice-President urging the country to move on.</description>
+      <category>Politics</category>
+    </item>
+    <item>
+      <title>'A serious betrayal': Sumaili leads the backlash as the 18 October prayer holiday is folded into 29 December</title>
+      <link>https://lusakabrief.com/news/sumaili-betrayal-christians-october-18-prayer-day-si-73-december-29/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/sumaili-betrayal-christians-october-18-prayer-day-si-73-december-29/</guid>
+      <pubDate>Sun, 11 Oct 2026 05:56:00 +0200</pubDate>
+      <description>A day after the Government moved the National Day of Prayer to a merged December commemoration, the minister who once held the religious-affairs portfolio has condemned the change as a betrayal of Christian believers.</description>
+      <category>Culture</category>
+    </item>
+    <item>
+      <title>'Incompetent': Sikota takes on the DPP over the treason-trial delay — as a constitutional petition gets October dates</title>
+      <link>https://lusakabrief.com/news/sikota-dpp-incompetent-mundubile-treason-delay-petition-october-26-hearing/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/sikota-dpp-incompetent-mundubile-treason-delay-petition-october-26-hearing/</guid>
+      <pubDate>Sun, 11 Oct 2026 05:55:00 +0200</pubDate>
+      <description>Lead counsel Sakwiba Sikota says blaming investigations for the delay in bringing Brian Mundubile and 17 others to court is incompetent. Meanwhile a constitutional petition over the detentions has been scheduled for late October.</description>
+      <category>Courts</category>
+    </item>
+    <item>
+      <title>Forty thousand hires under the US health pact — and RDAZ says the queue should start with those already inside</title>
+      <link>https://lusakabrief.com/news/health-pact-40000-workers-rdaz-prioritise-system-mwanza-sceptical/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/health-pact-40000-workers-rdaz-prioritise-system-mwanza-sceptical/</guid>
+      <pubDate>Sun, 11 Oct 2026 05:54:00 +0200</pubDate>
+      <description>The US$1.5 billion health memorandum signed on Thursday carries a plan to recruit 40,000 health workers over five years. The resident doctors say existing staff should come first; the opposition questions the deal itself.</description>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Ninety-first: the Chipolopolo slip a place in the FIFA rankings — even the Togo win could not hold 90th</title>
+      <link>https://lusakabrief.com/news/chipolopolo-slip-91st-fifa-rankings-togo-win-not-enough/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/chipolopolo-slip-91st-fifa-rankings-togo-win-not-enough/</guid>
+      <pubDate>Sun, 11 Oct 2026 05:53:00 +0200</pubDate>
+      <description>Zambia have fallen one place to 91st in the FIFA/Coca-Cola World Ranking released on Wednesday, the 2-0 win over Togo outweighed by bigger gains elsewhere during the international window.</description>
+      <category>Sport</category>
+    </item>
+    <item>
+      <title>Eleven arrests at National Heroes Stadium: a fake cash-giveaway post drew a crowd — and a police warning on disinformation</title>
+      <link>https://lusakabrief.com/news/heroes-stadium-11-arrested-fake-cash-giveaway-chilabi-disinformation/</link>
+      <guid isPermaLink="true">https://lusakabrief.com/news/heroes-stadium-11-arrested-fake-cash-giveaway-chilabi-disinformation/</guid>
+      <pubDate>Sun, 11 Oct 2026 05:52:00 +0200</pubDate>
+      <description>Police arrested eleven people at National Heroes Stadium on Friday morning after a false social-media post promising free cash drew a crowd to Gate 1. Officers dispersed the gathering when it refused to leave.</description>
+      <category>Courts</category>
+    </item>
     <item>
       <title>Grow Zambia day: Hichilema opens the 14th Assembly with a five-year agenda, a unity appeal — and a fuel-tax decision that lands this month</title>
       <link>https://lusakabrief.com/news/hichilema-opens-14th-assembly-grow-zambia-agenda-unity-continuity-term-limits-silence/</link>
-      <guid>https://lusakabrief.com/news/hichilema-opens-14th-assembly-grow-zambia-agenda-unity-continuity-term-limits-silence/</guid>
-      <pubDate>2026-10-10T06:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/hichilema-opens-14th-assembly-grow-zambia-agenda-unity-continuity-term-limits-silence/</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
       <description>President Hakainde Hichilema ceremonially opened the First Session of the 14th National Assembly yesterday, telling a transformed chamber that the electorate's verdict was 'unequivocal: continuity, unity, progress and hard and smart work'. The address set out the Grow Zambia agenda for agriculture, mining and energy, restored the excise duty on fuel from this month, and ordered an electric-only fleet for government — while saying nothing, in its circulated text, about the third-term question that had crowded the foyer all week.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>The tax comes back to the pump: excise duty returns this month — with an ERB pricing review, an ethanol blend plan, and an electric-only rule for the government fleet</title>
       <link>https://lusakabrief.com/news/fuel-excise-duty-returns-this-month-erb-review-tazama-ethanol-electric-only-government-fleet/</link>
-      <guid>https://lusakabrief.com/news/fuel-excise-duty-returns-this-month-erb-review-tazama-ethanol-electric-only-government-fleet/</guid>
-      <pubDate>2026-10-10T07:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/fuel-excise-duty-returns-this-month-erb-review-tazama-ethanol-electric-only-government-fleet/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:59:00 +0200</pubDate>
       <description>President Hichilema told the 14th Assembly that the excise duty on fuel, suspended to shield consumers from global price shocks, is restored from October — the revenue earmarked for free education, CDF, school feeding and social cash transfers. The package pairs the tax with a review of the ERB's monthly pricing mechanism, a firmer TAZAMA open-access regime, a local ethanol blending strategy, and a directive that government institutions will now buy only electric vehicles.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>Hichilema courts the Fund: the IMF mission chief is in Lusaka for a successor programme — and the President is selling Grow Zambia as the framework</title>
       <link>https://lusakabrief.com/news/hichilema-courts-imf-successor-programme-gemayel-grow-zambia-65-billion-darius-lautier/</link>
-      <guid>https://lusakabrief.com/news/hichilema-courts-imf-successor-programme-gemayel-grow-zambia-65-billion-darius-lautier/</guid>
-      <pubDate>2026-10-10T08:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/hichilema-courts-imf-successor-programme-gemayel-grow-zambia-65-billion-darius-lautier/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:58:00 +0200</pubDate>
       <description>President Hichilema met IMF mission chief Edward Gemayel at State House on Wednesday to discuss a successor economic programme, telling him the completed US$1.3 billion Extended Credit Facility must give way to an arrangement 'complementary to our Grow Zambia Agenda' — the plan his officials price at US$65 billion in annual monetary value. The visit also marked a changing of the guard: resident representative Eric Lautier departs, Reginald Darius arrives.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>Two readings of one signature: the health pact's fine print — US$975 million of Zambian money, a mineral clause decoupled — and M'membe's demand to see all of it</title>
       <link>https://lusakabrief.com/news/us-health-pact-fine-print-975-million-cofinancing-minerals-decoupled-mmembe-publish-mou/</link>
-      <guid>https://lusakabrief.com/news/us-health-pact-fine-print-975-million-cofinancing-minerals-decoupled-mmembe-publish-mou/</guid>
-      <pubDate>2026-10-10T09:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/us-health-pact-fine-print-975-million-cofinancing-minerals-decoupled-mmembe-publish-mou/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:57:00 +0200</pubDate>
       <description>Forty-eight hours after the US-Zambia health compact was signed at the Ministry of Finance, its architecture is clearer: Washington intends more than US$1.5 billion over five years, Zambia pledges US$975 million in new domestic health spending, co-financing fell from US$243 million to US$154 million, and the minerals question has been formally decoupled — though not settled. Fred M'membe calls the deal padded chains and wants the full text published; the minister says the public already won the argument that mattered.</description>
       <category>Health</category>
     </item>
     <item>
       <title>Monday in New York: Zambia takes its Human Rights Council bid to the vote — as its own rights record is argued over at home</title>
       <link>https://lusakabrief.com/news/zambia-human-rights-council-vote-monday-new-york-au-endorsed-milambo-treason-scrutiny/</link>
-      <guid>https://lusakabrief.com/news/zambia-human-rights-council-vote-monday-new-york-au-endorsed-milambo-treason-scrutiny/</guid>
-      <pubDate>2026-10-10T10:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/zambia-human-rights-council-vote-monday-new-york-au-endorsed-milambo-treason-scrutiny/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:56:00 +0200</pubDate>
       <description>The UN General Assembly elects members of the Human Rights Council for 2027–2029 on Monday, and Zambia — the African Union-endorsed candidate — has spent the autumn lobbying for the seat, with Permanent Representative Chola Milambo working the corridors of UNGA 81. The bid lands in the same week the Government publicly rejected UN experts' concerns over the treason and sedition cases against opposition figures, telling the world body to let the courts decide.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>Tuesday at Solwezi: the magistrate rules on jurisdiction for Mundubile and Zulu — and a plea, at last, may follow</title>
       <link>https://lusakabrief.com/news/solwezi-jurisdiction-ruling-tuesday-mundubile-zulu-sedition-plea-mukonde/</link>
-      <guid>https://lusakabrief.com/news/solwezi-jurisdiction-ruling-tuesday-mundubile-zulu-sedition-plea-mukonde/</guid>
-      <pubDate>2026-10-10T11:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/solwezi-jurisdiction-ruling-tuesday-mundubile-zulu-sedition-plea-mukonde/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:55:00 +0200</pubDate>
       <description>Principal Resident Magistrate Mambwe Mukonde has set Tuesday 13 October to rule on whether the Solwezi Magistrate's Court may hear the sedition case against Brian Mundubile and Makebi Zulu, who argue the alleged offence happened in Lusaka. The ruling — and the plea it could unlock — is the week's first domino in a legal calendar that still holds an untried treason case against 18 accused.</description>
       <category>Courts</category>
     </item>
     <item>
       <title>The mayor's first week: Chitambala Mwewa takes the chain at the Civic Centre — and Operation Clear Path rolls into the CBD</title>
       <link>https://lusakabrief.com/news/chitambala-mwewa-installed-lusaka-mayor-operation-clear-path-cbd-council-police/</link>
-      <guid>https://lusakabrief.com/news/chitambala-mwewa-installed-lusaka-mayor-operation-clear-path-cbd-council-police/</guid>
-      <pubDate>2026-10-10T12:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/chitambala-mwewa-installed-lusaka-mayor-operation-clear-path-cbd-council-police/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:54:00 +0200</pubDate>
       <description>Chitambala Mwewa was sworn in and installed as Mayor of Lusaka this week — 47 years after his father became the city's first indigenous Zambian mayor — with a mandate he has already started enforcing: vendors cleared, buses impounded, and phase two of Operation Clear Path aimed at the central business district. His first request from the chair is for the council police: better equipped, he says, or the cleanup will not hold.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>Ninety minutes to save the Olympic road: the Copper Queens regroup in Ndola for Tuesday's decider against Uganda</title>
       <link>https://lusakabrief.com/news/copper-queens-regroup-ndola-second-leg-uganda-tuesday-olympic-qualifier-haalubono/</link>
-      <guid>https://lusakabrief.com/news/copper-queens-regroup-ndola-second-leg-uganda-tuesday-olympic-qualifier-haalubono/</guid>
-      <pubDate>2026-10-10T13:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/copper-queens-regroup-ndola-second-leg-uganda-tuesday-olympic-qualifier-haalubono/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:53:00 +0200</pubDate>
       <description>The Copper Queens are home, hurt, and one goal down. Thursday's 2-1 defeat at Nakivubo — Prisca Chilufya's early opener cancelled out by Agnes Nabukenya and Sylvia Kabene's second-half header — means Tuesday's second leg at Levy Mwanawasa Stadium is a straight fight for the third round, with Ghana or Mauritius waiting for the winner and Los Angeles 2028 at the end of the road.</description>
       <category>Sport</category>
     </item>
     <item>
       <title>The prayer day moves: church mother bodies merge 18 October with the Christian-nation commemoration — one national event, on 29 December</title>
       <link>https://lusakabrief.com/news/national-day-of-prayer-moved-december-29-christian-heritage-church-mother-bodies/</link>
-      <guid>https://lusakabrief.com/news/national-day-of-prayer-moved-december-29-christian-heritage-church-mother-bodies/</guid>
-      <pubDate>2026-10-10T14:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/national-day-of-prayer-moved-december-29-christian-heritage-church-mother-bodies/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:52:00 +0200</pubDate>
       <description>Zambia's National Day of Prayer, Fasting, Repentance and Reconciliation — a fixture of 18 October since 2015 — is being merged with the commemoration of the Christian-nation declaration into a single observance on 29 December 2026, under the theme 'National Day of Prayer and Christian Heritage'. The church mother bodies say consolidation enhances rather than diminishes the day; this year, the prayers are asked to happen in the pews, not the stadium.</description>
       <category>Culture</category>
     </item>
     <item>
       <title>Bats, jets and leopard cubs: the travel season ahead — Kasanka's migration confirmed, a new Joburg–Lusaka route, and good news from South Luangwa</title>
       <link>https://lusakabrief.com/news/kasanka-bat-migration-season-confirmed-flysafair-lusaka-route-sungani-leopard-cubs/</link>
-      <guid>https://lusakabrief.com/news/kasanka-bat-migration-season-confirmed-flysafair-lusaka-route-sungani-leopard-cubs/</guid>
-      <pubDate>2026-10-10T15:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/kasanka-bat-migration-season-confirmed-flysafair-lusaka-route-sungani-leopard-cubs/</guid>
+      <pubDate>Sat, 10 Oct 2026 05:51:00 +0200</pubDate>
       <description>The dry-season ledger is filling in. Everwild has confirmed its Kasanka bushcamp for the 2026 bat migration — guests from 25 October to 1 December, with both the Kasanka Trust and the parks authority on board; FlySafair will fly Johannesburg–Lusaka five times a week from February 2027; Proflight is nearly doubling its Jetstream fleet; and at Sungani in South Luangwa, the leopardess Kuvina has been spotted with not one cub but two.</description>
       <category>Culture</category>
     </item>
     <item>
       <title>Opening day: Hichilema addresses the 14th National Assembly this morning — with a term-limits row in the foyer and a divided country in the gallery</title>
       <link>https://lusakabrief.com/news/hichilema-opens-14th-national-assembly-today-term-limits-row-unity-calls/</link>
-      <guid>https://lusakabrief.com/news/hichilema-opens-14th-national-assembly-today-term-limits-row-unity-calls/</guid>
-      <pubDate>2026-10-09T06:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/hichilema-opens-14th-national-assembly-today-term-limits-row-unity-calls/</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
       <description>President Hakainde Hichilema ceremonially opens the First Session of the 14th National Assembly today, his first address to Parliament since re-election, expected to set out the Government's 2026–2027 policy direction on energy, development and free education. Outside the chamber, the week's argument has been about a clause he has not proposed — and about the reconciliation his critics say must come first.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>Lumezi North is decided without a ballot: UPND's Anderson Banda elected unopposed — and Mandevu's opposition ticket changed hands at the desk</title>
       <link>https://lusakabrief.com/news/lumezi-north-anderson-banda-elected-unopposed-nrpup-no-show-mandevu-chisenga/</link>
-      <guid>https://lusakabrief.com/news/lumezi-north-anderson-banda-elected-unopposed-nrpup-no-show-mandevu-chisenga/</guid>
-      <pubDate>2026-10-09T07:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/lumezi-north-anderson-banda-elected-unopposed-nrpup-no-show-mandevu-chisenga/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:59:00 +0200</pubDate>
       <description>The NRPUP, the only party entitled to file a fresh nomination in Lumezi North, did not do so by Thursday's close — leaving the UPND's Anderson Banda to be declared duly elected without a vote. In Mandevu, the Tonse Pamodzi alliance shifted its backing from Jean Kapata to former Lusaka mayor Daniel Chisenga, who filed on an FDD ticket against the UPND's Adrian Banda.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>'Not credible': Mbita Chitala indicts the August election — an audit of 13,529 polling stations, and a unity government as the cure</title>
       <link>https://lusakabrief.com/news/chitala-august-election-not-credible-unity-government-audit-13529-polling-stations/</link>
-      <guid>https://lusakabrief.com/news/chitala-august-election-not-credible-unity-government-audit-13529-polling-stations/</guid>
-      <pubDate>2026-10-09T08:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/chitala-august-election-not-credible-unity-government-audit-13529-polling-stations/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:58:00 +0200</pubDate>
       <description>Zambia Research Foundation director Dr Mbita Chitala, a co-founder of the MMD, has declared the 13 August general election not credible — citing the ECZ's six-hour blackout, the closure of the courts during the presidential petition window, and a claimed variance of more than 800,000 votes — and proposed an eight-pillar reconciliation process culminating in a government of national unity.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>Nineteen-ninety-two: the kwacha is drifting back toward 20 to the dollar — while copper holds above US$14,600 a tonne</title>
       <link>https://lusakabrief.com/news/kwacha-slides-toward-20-despite-record-copper-14600-dollar-import-demand/</link>
-      <guid>https://lusakabrief.com/news/kwacha-slides-toward-20-despite-record-copper-14600-dollar-import-demand/</guid>
-      <pubDate>2026-10-09T09:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/kwacha-slides-toward-20-despite-record-copper-14600-dollar-import-demand/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:57:00 +0200</pubDate>
       <description>The kwacha traded at 19.92 to the US dollar on Thursday, down 3.53 percent over the past month even as copper holds near record levels above US$14,600 a tonne — a divergence that has analysts asking why the currency is not stronger, and one arguing it should be closer to K10.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>Double the demand, stuck at the wires: capacity hits 4,722MW — and the President names the grid as the laggard</title>
       <link>https://lusakabrief.com/news/installed-capacity-4722mw-double-peak-demand-hichilema-warns-grid-lagging-effa/</link>
-      <guid>https://lusakabrief.com/news/installed-capacity-4722mw-double-peak-demand-hichilema-warns-grid-lagging-effa/</guid>
-      <pubDate>2026-10-09T10:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/installed-capacity-4722mw-double-peak-demand-hichilema-warns-grid-lagging-effa/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:56:00 +0200</pubDate>
       <description>President Hichilema has told the Energy Forum for Africa that Zambia's installed generation capacity of 4,722.3MW is now nearly twice peak national demand of about 2,400MW — but warned that the transmission and distribution network is lagging behind and must attract urgent investment.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>Signed: the US health pact becomes paper — US$2.49 billion by Washington's count, no specimen clause, and a minister insisting minerals were never in the room</title>
       <link>https://lusakabrief.com/news/us-zambia-health-pact-signed-2-49-billion-coker-chilengi-40000-workers-zammsa/</link>
-      <guid>https://lusakabrief.com/news/us-zambia-health-pact-signed-2-49-billion-coker-chilengi-40000-workers-zammsa/</guid>
-      <pubDate>2026-10-09T11:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/us-zambia-health-pact-signed-2-49-billion-coker-chilengi-40000-workers-zammsa/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:55:00 +0200</pubDate>
       <description>Zambia and the United States signed their five-year health cooperation agreement at the Ministry of Finance on Thursday. The US State Department values the deal at US$2.49 billion — US$1.52 billion from Washington against US$975 million from Lusaka — notably less than the US$3.6 billion Zambian officials had mooted earlier in the week. The specimen and data clauses are gone; the opposition still wants the text published.</description>
       <category>Health</category>
     </item>
     <item>
       <title>'Errors and irregularities': Kasenengwa's own returning officer confirms the petitioner's case at the Chipata High Court</title>
       <link>https://lusakabrief.com/news/kasenengwa-petition-returning-officer-daka-confirms-errors-rejected-ballots-twasa/</link>
-      <guid>https://lusakabrief.com/news/kasenengwa-petition-returning-officer-daka-confirms-errors-rejected-ballots-twasa/</guid>
-      <pubDate>2026-10-09T12:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/kasenengwa-petition-returning-officer-daka-confirms-errors-rejected-ballots-twasa/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:54:00 +0200</pubDate>
       <description>John Daka, the returning officer for Kasenengwa, has told the Chipata High Court that the August poll in the constituency was marred by errors and irregularities — including rejected ballots found inside the declared winner's sealed envelope on a court-ordered recount. He also testified that he felt threatened when the winner and his supporters stormed the totalling centre.</description>
       <category>Courts</category>
     </item>
     <item>
       <title>Four hundred and forty-six tusks in hollowed timber: Lusaka is probing whether Thailand's giant seizure began in Zambia</title>
       <link>https://lusakabrief.com/news/thailand-ivory-seizure-446-tusks-56000kg-timber-muhanga-origin-investigation-zambia/</link>
-      <guid>https://lusakabrief.com/news/thailand-ivory-seizure-446-tusks-56000kg-timber-muhanga-origin-investigation-zambia/</guid>
-      <pubDate>2026-10-09T13:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/thailand-ivory-seizure-446-tusks-56000kg-timber-muhanga-origin-investigation-zambia/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:53:00 +0200</pubDate>
       <description>The Ministry of Tourism says the reported Zambian origin of a consignment of 446 elephant tusks — seized with 56,000 kilograms of timber in Thailand and a second, unnamed country — has not been established. Investigators are reviewing permits and customs declarations, and a first inspection of the State ivory strongroom found no sign of theft.</description>
       <category>Courts</category>
     </item>
     <item>
       <title>Kampala falls flat: the Queens lead early, lose 2-1 at Nakivubo — and the Olympic road now runs through Ndola on Tuesday</title>
       <link>https://lusakabrief.com/news/uganda-2-1-copper-queens-nakivubo-first-leg-olympic-qualifier-second-leg-ndola/</link>
-      <guid>https://lusakabrief.com/news/uganda-2-1-copper-queens-nakivubo-first-leg-olympic-qualifier-second-leg-ndola/</guid>
-      <pubDate>2026-10-09T14:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/uganda-2-1-copper-queens-nakivubo-first-leg-olympic-qualifier-second-leg-ndola/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:52:00 +0200</pubDate>
       <description>The Copper Queens took an early lead at Hamz Stadium on Thursday but ended the night beaten 2-1 by Uganda's Crested Cranes in the first leg of their 2028 Olympic qualifier. The return leg is at Levy Mwanawasa Stadium in Ndola on Tuesday, 13 October — Zambia must win it to keep Los Angeles in view.</description>
       <category>Sport</category>
     </item>
     <item>
       <title>The season after Derulo: Kwacha Music Awards set for 27 November, NATAAZ turns forty in Chingola — the Culture Desk's calendar</title>
       <link>https://lusakabrief.com/news/culture-season-calendar-kwacha-music-awards-november-27-nataaz-40-heritage-october/</link>
-      <guid>https://lusakabrief.com/news/culture-season-calendar-kwacha-music-awards-november-27-nataaz-40-heritage-october/</guid>
-      <pubDate>2026-10-09T15:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/culture-season-calendar-kwacha-music-awards-november-27-nataaz-40-heritage-october/</guid>
+      <pubDate>Fri, 09 Oct 2026 05:51:00 +0200</pubDate>
       <description>A week after the Stanbic Music Festival's landmark weekend, Zambia's culture calendar fills in its own dates: the Kwacha Music Awards have confirmed 27 November, the National Theatre Arts Association of Zambia marks forty years in Chingola from 19 October, and festival season continues across the Copperbelt and Lusaka.</description>
       <category>Culture</category>
     </item>
     <item>
       <title>Signature day: Zambia and the United States put the US$3.6 billion health pact to paper — specimen clause out, and 'no mention of critical minerals'</title>
       <link>https://lusakabrief.com/news/us-health-pact-signed-today-3-6-billion-chilengi-minerals-membe-mwanza/</link>
-      <guid>https://lusakabrief.com/news/us-health-pact-signed-today-3-6-billion-chilengi-minerals-membe-mwanza/</guid>
-      <pubDate>2026-10-08T06:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/us-health-pact-signed-today-3-6-billion-chilengi-minerals-membe-mwanza/</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
       <description>Zambia and the United States are scheduled to sign their five-year health cooperation agreement at the Ministry of Finance today — a combined US$3.6 billion envelope: US$1.5 billion from Washington and US$2.1 billion from Lusaka's own health spending. The specimen-sharing clause is gone, data-sharing is narrowed to programme monitoring, and the health minister says minerals are mentioned nowhere. The opposition wants the full text published.</description>
       <category>Health</category>
     </item>
     <item>
       <title>Nominations morning: Kapata files to take Mandevu back, the UPND answers with Adrian Banda — and the road to 5 November officially opens</title>
       <link>https://lusakabrief.com/news/nominations-day-mandevu-kapata-adrian-banda-lumezi-north-mbala-ward-byelections/</link>
-      <guid>https://lusakabrief.com/news/nominations-day-mandevu-kapata-adrian-banda-lumezi-north-mbala-ward-byelections/</guid>
-      <pubDate>2026-10-08T07:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/nominations-day-mandevu-kapata-adrian-banda-lumezi-north-mbala-ward-byelections/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
       <description>The Electoral Commission of Zambia receives nomination papers today for the Mandevu and Lumezi North parliamentary by-elections, the Mbala mayoralty and eleven ward contests across five provinces. In Mandevu, Tonse Pamodzi's Jean Kapata — who held the seat from 2006 to 2021 — faces the UPND's Adrian Banda and LM's Ntazana Musukuma. Campaigning opens on Saturday; polling is on 5 November.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>Tomorrow he opens Parliament — but the loudest argument in the foyer is about a clause the President has not proposed</title>
       <link>https://lusakabrief.com/news/third-term-debate-hichilema-address-14th-assembly-friday-simuuwe-article-106/</link>
-      <guid>https://lusakabrief.com/news/third-term-debate-hichilema-address-14th-assembly-friday-simuuwe-article-106/</guid>
-      <pubDate>2026-10-08T08:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/third-term-debate-hichilema-address-14th-assembly-friday-simuuwe-article-106/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:58:00 +0200</pubDate>
       <description>President Hichilema opens the First Session of the 14th National Assembly on Friday with a policy address — yet the week's loudest pre-speech row is over Article 106's two-term bar. A UPND MP says the limit can constitutionally be revisited and complains his remarks were clipped out of context; the opposition calls the trial balloon a confession. State House has repeatedly distanced itself from third-term talk.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>The World Bank raises its pencil: Africa's 2026 growth lifted to 4.3 percent — and Zambia is on the upgraded list</title>
       <link>https://lusakabrief.com/news/world-bank-africa-economic-update-4-3-percent-zambia-upgraded-ai-readiness/</link>
-      <guid>https://lusakabrief.com/news/world-bank-africa-economic-update-4-3-percent-zambia-upgraded-ai-readiness/</guid>
-      <pubDate>2026-10-08T09:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/world-bank-africa-economic-update-4-3-percent-zambia-upgraded-ai-readiness/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:57:00 +0200</pubDate>
       <description>The World Bank's October Africa Economic Update raises Sub-Saharan Africa's 2026 growth forecast to 4.3 percent — 0.3 points above April — with Zambia, Nigeria, Ethiopia and Angola among nearly three-quarters of economies revised up. But median inflation is seen climbing back to 5.5 percent, income per person barely moves, and growth is still not making jobs.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>Zambia has passed its 1,000MW solar target — and the wires, not the panels, are now the weak link</title>
       <link>https://lusakabrief.com/news/solar-passes-1000mw-installed-capacity-4722mw-effa-2026-transmission-batoka/</link>
-      <guid>https://lusakabrief.com/news/solar-passes-1000mw-installed-capacity-4722mw-effa-2026-transmission-batoka/</guid>
-      <pubDate>2026-10-08T10:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/solar-passes-1000mw-installed-capacity-4722mw-effa-2026-transmission-batoka/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:56:00 +0200</pubDate>
       <description>Installed generation capacity has climbed from 3,777MW in 2024 to 4,722.3MW, with solar jumping from 178MW to 1,027.5MW — past the 1,000MW-by-2026 target — the Energy Forum for Africa heard in Lusaka. The next bottlenecks: transmission lines, and turning Batoka, Devil's Gorge and Kariba floating solar from pipeline into procurement.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>Seventeen, not fifteen: the Kabwata petition survives a time-bar bid — and the witnesses start talking about money</title>
       <link>https://lusakabrief.com/news/kabwata-petition-proceeds-mulanda-time-bar-yenga-tayengwa-witnesses-chilenje/</link>
-      <guid>https://lusakabrief.com/news/kabwata-petition-proceeds-mulanda-time-bar-yenga-tayengwa-witnesses-chilenje/</guid>
-      <pubDate>2026-10-08T11:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/kabwata-petition-proceeds-mulanda-time-bar-yenga-tayengwa-witnesses-chilenje/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:55:00 +0200</pubDate>
       <description>Justice Mary Mulanda has dismissed a preliminary bid to throw out the Kabwata election petition as time-barred, ruling that the seat was declared on 17 August — not the 15th, as a typographical error suggested — making the 31 August filing valid under section 100(3). Witnesses then testified to money handouts at Chilenje Community Hall and Kamwala Secondary School.</description>
       <category>Courts</category>
     </item>
     <item>
       <title>'A malicious fabrication': Government disowns the fake church-ban circular — and warns the forgers, and the careless, to stop</title>
       <link>https://lusakabrief.com/news/fake-church-ban-circular-disowned-kawana-malicious-fabrication-cholera-information/</link>
-      <guid>https://lusakabrief.com/news/fake-church-ban-circular-disowned-kawana-malicious-fabrication-cholera-information/</guid>
-      <pubDate>2026-10-08T12:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/fake-church-ban-circular-disowned-kawana-malicious-fabrication-cholera-information/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:54:00 +0200</pubDate>
       <description>A forged statement circulating on social media — claiming the Government has suspended church meetings, overnight prayers and crusades until 1 November — is fake, the Ministry of Information and Media says. Permanent Secretary Thabo Kawana called it a malicious fabrication born of 'the panic of opposition political factions' and warned both forgers and media houses that amplify unchecked documents.</description>
       <category>Health</category>
     </item>
     <item>
       <title>Three o'clock in Kampala: the Copper Queens open their Olympic road against Uganda — with the captain's demand ringing in their ears</title>
       <link>https://lusakabrief.com/news/copper-queens-uganda-today-nakivubo-olympic-qualifier-banda-not-negotiable-haalubono/</link>
-      <guid>https://lusakabrief.com/news/copper-queens-uganda-today-nakivubo-olympic-qualifier-banda-not-negotiable-haalubono/</guid>
-      <pubDate>2026-10-08T13:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/copper-queens-uganda-today-nakivubo-olympic-qualifier-banda-not-negotiable-haalubono/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:53:00 +0200</pubDate>
       <description>Kick-off is 15:00 CAT at Hamz Stadium, Nakivubo — after this edition went to press. Barbra Banda leads a 25-player squad including eight foreign-based professionals into the first leg of the 2028 Olympic qualifier against Uganda, with the return in Ndola on 13 October and Ghana or Mauritius waiting beyond.</description>
       <category>Sport</category>
     </item>
     <item>
       <title>Adjourned to the 14th: Wanderers' court case waits a week — and the pressure group fills the silence with a demand</title>
       <link>https://lusakabrief.com/news/wanderers-court-adjourned-october-14-nsama-pressure-group-resign-demand-mufulira/</link>
-      <guid>https://lusakabrief.com/news/wanderers-court-adjourned-october-14-nsama-pressure-group-resign-demand-mufulira/</guid>
-      <pubDate>2026-10-08T14:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/wanderers-court-adjourned-october-14-nsama-pressure-group-resign-demand-mufulira/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:52:00 +0200</pubDate>
       <description>Wednesday's 08:00 hearing in the challenge to Mufulira Wanderers' executive was adjourned to 14 October, Mafken FM reports. The plaintiffs — former trainer Davies Nsama and the Community Pressure Group — say the committee's tenure has expired; the club says they are not paid-up members. The group has now demanded the executive 'resign with immediate effect'.</description>
       <category>Sport</category>
     </item>
     <item>
       <title>Tenge Tenge, TK and a sold-out Golden Circle: Jason Derulo's only African stop turned the Showgrounds into the festival the continent talked about</title>
       <link>https://lusakabrief.com/news/jason-derulo-stanbic-music-festival-2026-lusaka-showgrounds-yo-maps-tenge-tenge-review/</link>
-      <guid>https://lusakabrief.com/news/jason-derulo-stanbic-music-festival-2026-lusaka-showgrounds-yo-maps-tenge-tenge-review/</guid>
-      <pubDate>2026-10-08T15:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/jason-derulo-stanbic-music-festival-2026-lusaka-showgrounds-yo-maps-tenge-tenge-review/</guid>
+      <pubDate>Thu, 08 Oct 2026 05:51:00 +0200</pubDate>
       <description>Saturday's Stanbic Music Festival finale at Polo Field A was Jason Derulo's only African stop on The Last Dance World Tour — and he shared the bill with Yo Maps, Mampi, Danny Kaya and a 13-year-old Ugandan viral sensation. The Culture Desk looks back at the weekend Lusaka's festival economy came of age, and forward to the heritage week ahead.</description>
       <category>Culture</category>
     </item>
     <item>
       <title>Signed on Thursday: Zambia takes US$1.5 billion of American health money — on its own terms, says the minister, with the minerals clause gone</title>
       <link>https://lusakabrief.com/news/us-health-pact-1-5-billion-signing-thursday-chilengi-minerals-data/</link>
-      <guid>https://lusakabrief.com/news/us-health-pact-1-5-billion-signing-thursday-chilengi-minerals-data/</guid>
-      <pubDate>2026-10-07T06:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/us-health-pact-1-5-billion-signing-thursday-chilengi-minerals-data/</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
       <description>Health Minister Roma Chilengi says Zambia will sign the revised five-year health agreement with the United States on Thursday, after Washington dropped demands on patient specimens and critical minerals. The US will provide US$1.5 billion over five years; Zambia's own health spend over the period is projected at US$2.1 billion.</description>
       <category>Health</category>
     </item>
     <item>
       <title>Nominations day tomorrow: Mandevu and Lumezi pick their candidates as the ECZ opens the road to the 5 November by-elections</title>
       <link>https://lusakabrief.com/news/ecz-nominations-thursday-mandevu-lumezi-mbala-ward-byelections/</link>
-      <guid>https://lusakabrief.com/news/ecz-nominations-thursday-mandevu-lumezi-mbala-ward-byelections/</guid>
-      <pubDate>2026-10-07T07:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/ecz-nominations-thursday-mandevu-lumezi-mbala-ward-byelections/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:59:00 +0200</pubDate>
       <description>The Electoral Commission of Zambia conducts nominations on Thursday for the Mandevu and Lumezi parliamentary by-elections, the Mbala mayoral race and eleven ward contests across five provinces. Campaigns open on Saturday and polling is on 5 November. In Kasempa and Mpika, electoral officers are already preaching peace.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>Friday at Parliament: Hichilema opens the 14th National Assembly — and the country listens for the second term's real agenda</title>
       <link>https://lusakabrief.com/news/hichilema-opens-14th-national-assembly-friday-policy-address-second-term/</link>
-      <guid>https://lusakabrief.com/news/hichilema-opens-14th-national-assembly-friday-policy-address-second-term/</guid>
-      <pubDate>2026-10-07T08:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/hichilema-opens-14th-national-assembly-friday-policy-address-second-term/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:58:00 +0200</pubDate>
       <description>President Hichilema will officially open the First Session of the 14th National Assembly on Friday, setting out the Government's policy direction and priorities for 2026–2027. It is his first address to a House his party dominates — with a budget framework, a drought forecast and a restive opposition all waiting in the foyer.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>Seven percent bigger: Treasury tables a K271.9 billion spending plan for 2027 — and a copper ladder that must finally reach a million tonnes</title>
       <link>https://lusakabrief.com/news/budget-2027-framework-271-9-billion-spending-copper-path-hearings/</link>
-      <guid>https://lusakabrief.com/news/budget-2027-framework-271-9-billion-spending-copper-path-hearings/</guid>
-      <pubDate>2026-10-07T09:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/budget-2027-framework-271-9-billion-spending-copper-path-hearings/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:57:00 +0200</pubDate>
       <description>Total expenditure is projected at K271.9 billion next year, revenue at K218.6 billion and borrowing at K44.9 billion, the finance ministry told public hearings on Monday. Growth this year is seen at 5.3 percent — below the 6.4 percent promised a year ago — and copper output must climb from 890,346 tonnes to 1.08 million in 2027.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>'We will not spare them': Government takes the fake-seed war to warehouses and open markets as planting begins</title>
       <link>https://lusakabrief.com/news/fake-seed-crackdown-cap-236-inspections-planting-season-sikazwe/</link>
-      <guid>https://lusakabrief.com/news/fake-seed-crackdown-cap-236-inspections-planting-season-sikazwe/</guid>
-      <pubDate>2026-10-07T10:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/fake-seed-crackdown-cap-236-inspections-planting-season-sikazwe/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:56:00 +0200</pubDate>
       <description>The Seed Control and Certification Institute says inspectors are moving through warehouses, open markets and agro-dealerships this planting season, armed with Cap 236 powers to apprehend and prosecute counterfeit-seed dealers. Farmers are being told to buy only from known sources — and a tougher law is on the way.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>950 ballot papers, 928 voters, and no answers: Tayali's own witness stumbles in the Ndola Central petition</title>
       <link>https://lusakabrief.com/news/ndola-central-petition-namushi-conflicting-accounts-ballot-reconciliation-tayali/</link>
-      <guid>https://lusakabrief.com/news/ndola-central-petition-namushi-conflicting-accounts-ballot-reconciliation-tayali/</guid>
-      <pubDate>2026-10-07T11:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/ndola-central-petition-namushi-conflicting-accounts-ballot-reconciliation-tayali/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:55:00 +0200</pubDate>
       <description>Carol Namushi, the ECZ presiding officer called by petitioner Frank Tayali, gave two conflicting accounts of the alleged Chibolele polling-station disturbance and could not reconcile her ballot figures under cross-examination, prompting the court to caution her. The petition over the 819-vote margin continues.</description>
       <category>Courts</category>
     </item>
     <item>
       <title>Forty-one buses, sixteen drivers, two arrests: the first numbers of Operation Clear Path — and a warning to commuters too</title>
       <link>https://lusakabrief.com/news/operation-clear-path-41-buses-impounded-16-drivers-court-commuters-warning/</link>
-      <guid>https://lusakabrief.com/news/operation-clear-path-41-buses-impounded-16-drivers-court-commuters-warning/</guid>
-      <pubDate>2026-10-07T12:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/operation-clear-path-41-buses-impounded-16-drivers-court-commuters-warning/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:54:00 +0200</pubDate>
       <description>Police say 41 buses were impounded in Saturday's joint sweep for loading passengers at undesignated places, with 16 drivers scheduled for court and two people arrested for disorderly conduct. Mayor Chitambala Mwewa says commuters who keep boarding on Cha Cha Cha and Freedom Way will also face the law.</description>
       <category>Health</category>
     </item>
     <item>
       <title>Redemption tour opens in Kampala: Banda joins the Copper Queens for Thursday's Olympic qualifier against Uganda</title>
       <link>https://lusakabrief.com/news/copper-queens-uganda-olympic-qualifier-nakivubo-banda-kundananji-haalubono/</link>
-      <guid>https://lusakabrief.com/news/copper-queens-uganda-olympic-qualifier-nakivubo-banda-kundananji-haalubono/</guid>
-      <pubDate>2026-10-07T13:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/copper-queens-uganda-olympic-qualifier-nakivubo-banda-kundananji-haalubono/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:53:00 +0200</pubDate>
       <description>Captain Barbra Banda and four other foreign-based players have joined the Copper Queens camp in Kampala ahead of Thursday's 2028 Olympic qualifier first leg at Hamz Nakivubo Stadium, with Racheal Kundananji, Prisca Chilufya and Mercy Chipasula completing the squad. Interim coach Charles Haalubono must turn a disappointing WAFCON year into a Los Angeles road.</description>
       <category>Sport</category>
     </item>
     <item>
       <title>Court at eight, training after: Mufulira Wanderers' executive answers a mandate challenge this morning</title>
       <link>https://lusakabrief.com/news/wanderers-executive-court-this-morning-mandate-challenge-nsama/</link>
-      <guid>https://lusakabrief.com/news/wanderers-executive-court-this-morning-mandate-challenge-nsama/</guid>
-      <pubDate>2026-10-07T14:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/wanderers-executive-court-this-morning-mandate-challenge-nsama/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:52:00 +0200</pubDate>
       <description>The executive committee of nine-time champions Mufulira Wanderers was due before the court at 08:00 hours on Wednesday, summoned by former physical trainer Davies Nsama and the Mufulira Wanderers Community Pressure Group in a challenge to its continued mandate. The club insists the plaintiffs are not paid-up members — and that football comes first.</description>
       <category>Sport</category>
     </item>
     <item>
       <title>The list is out: Kwacha Music Awards nominees land, voting opens — and the road to 27 November begins</title>
       <link>https://lusakabrief.com/news/kwacha-music-awards-2026-nominees-voting-november-27/</link>
-      <guid>https://lusakabrief.com/news/kwacha-music-awards-2026-nominees-voting-november-27/</guid>
-      <pubDate>2026-10-07T15:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/kwacha-music-awards-2026-nominees-voting-november-27/</guid>
+      <pubDate>Wed, 07 Oct 2026 05:51:00 +0200</pubDate>
       <description>The 2026 Kwacha Music Awards nominees have been announced and voting is officially open, ahead of the ceremony on Friday, 27 November. Built on airplay tracking across 45 radio stations, this year's list carries the theme 'Prestige, Excellence and Honour' — and a warning from the organisers: nobody pays for a nomination.</description>
       <category>Culture</category>
     </item>
     <item>
       <title>No plea, no trial — a question of place: Solwezi reserves its jurisdiction ruling to 13 October, and the sedition case waits again</title>
       <link>https://lusakabrief.com/news/solwezi-jurisdiction-ruling-october-13-no-plea-submissions-thursday/</link>
-      <guid>https://lusakabrief.com/news/solwezi-jurisdiction-ruling-october-13-no-plea-submissions-thursday/</guid>
-      <pubDate>2026-10-06T06:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/solwezi-jurisdiction-ruling-october-13-no-plea-submissions-thursday/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
       <description>Brian Mundubile and Makebi Zulu left the Solwezi Magistrates' Court on Monday as they arrived: unpleaded. The defence says the alleged offence happened in Lusaka, not Solwezi; the State wanted to press on there and then. Principal Resident Magistrate Mambwe Mukonde will rule on 13 October, with written submissions due on Thursday.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>'Healing must start with us leaders': Silumbe calls for a national indaba — and tells the President the Grow Zambia Agenda cannot grow in polarised soil</title>
       <link>https://lusakabrief.com/news/silumbe-national-indaba-healing-must-start-with-leaders-grow-zambia/</link>
-      <guid>https://lusakabrief.com/news/silumbe-national-indaba-healing-must-start-with-leaders-grow-zambia/</guid>
-      <pubDate>2026-10-06T07:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/silumbe-national-indaba-healing-must-start-with-leaders-grow-zambia/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:59:00 +0200</pubDate>
       <description>Leadership Movement president Dr Richard Silumbe has urged President Hichilema to call a genuine national reconciliation indaba, warning that the country is 'building a fertile land for a national crisis'. His argument is economic as much as moral: three million tonnes of copper and ten million tonnes of maize will not come from a nation of vengeance.</description>
       <category>Politics</category>
     </item>
     <item>
       <title>'Don't say we were not told': at Samu Lya Moomba, the President's first ceremony since re-election becomes a drought warning</title>
       <link>https://lusakabrief.com/news/hichilema-samu-lya-moomba-drought-warning-keep-maize-granaries/</link>
-      <guid>https://lusakabrief.com/news/hichilema-samu-lya-moomba-drought-warning-keep-maize-granaries/</guid>
-      <pubDate>2026-10-06T08:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/hichilema-samu-lya-moomba-drought-warning-keep-maize-granaries/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:58:00 +0200</pubDate>
       <description>Speaking in Chief Choongo's country on Sunday, President Hichilema told traditional leaders to make their people keep enough maize for their own tables and to store it in granaries rather than sacks — and pitched rentable FRA sheds at K1.8 million. Between the culture and the caution came a second-term message to MPs: 'I will be tough this term.'</description>
       <category>Politics</category>
     </item>
     <item>
       <title>'A very expensive conveyor belt': the World Bank counts US$28 billion along the Lobito Corridor — and warns the three governments not to stop at rail</title>
       <link>https://lusakabrief.com/news/lobito-28-billion-118-anchor-investments-bjerde-conveyor-belt/</link>
-      <guid>https://lusakabrief.com/news/lobito-28-billion-118-anchor-investments-bjerde-conveyor-belt/</guid>
-      <pubDate>2026-10-06T09:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/lobito-28-billion-118-anchor-investments-bjerde-conveyor-belt/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:57:00 +0200</pubDate>
       <description>The IFC has identified 118 anchor investments worth more than US$28 billion across mining, energy, agribusiness, logistics and forestry, Anna Bjerde told the Second Lobito Corridor Coordination Meeting in Lusaka on Monday. Her condition: coordinate on power, water, skills and secondary cities — or build an expensive conveyor belt.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>An order, a denial and 18 kilometres of river: the State tells KCM to restore the Kafue — the mine says it was the one who reported the discolouration</title>
       <link>https://lusakabrief.com/news/kcm-restoration-order-kafue-pollution-dispute-hippo-pool-cej/</link>
-      <guid>https://lusakabrief.com/news/kcm-restoration-order-kafue-pollution-dispute-hippo-pool-cej/</guid>
-      <pubDate>2026-10-06T10:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/kcm-restoration-order-kafue-pollution-dispute-hippo-pool-cej/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:56:00 +0200</pubDate>
       <description>Government has hit Konkola Copper Mines with an Environmental Restoration Order and a Cost Order over the 28 September pollution incident on the Kafue River. KCM rejects the attribution — it first reported discoloured water at Hippo Pool, 18 kilometres away — and wants an evidence-based probe. Civil society has now entered the argument.</description>
       <category>Economy</category>
     </item>
     <item>
       <title>'My spine is failing me': Katele Kalumba, 74, comes to court on a walker — and leaves without a plea, waiting on the DPP's consent</title>
       <link>https://lusakabrief.com/news/katele-kalumba-spine-failing-sedition-plea-dpp-consent-october-15/</link>
-      <guid>https://lusakabrief.com/news/katele-kalumba-spine-failing-sedition-plea-dpp-consent-october-15/</guid>
-      <pubDate>2026-10-06T11:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/katele-kalumba-spine-failing-sedition-plea-dpp-consent-october-15/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:55:00 +0200</pubDate>
       <description>The former finance minister and Chienge traditional leader appeared at the Lusaka Magistrates' Court on Friday on sedition charges over Facebook remarks about the President. The State has not yet obtained the Director of Public Prosecutions' consent, so plea could not be taken; the matter returns on 15 October.</description>
       <category>Courts</category>
     </item>
     <item>
       <title>Phase Two fixes its eyes on Katondo Street: the mayor's clean-up moves to the CBD's toughest strip — phones, wheelbarrows and all</title>
       <link>https://lusakabrief.com/news/operation-clear-path-phase-two-katondo-street-buses-wheelbarrow-traders/</link>
-      <guid>https://lusakabrief.com/news/operation-clear-path-phase-two-katondo-street-buses-wheelbarrow-traders/</guid>
-      <pubDate>2026-10-06T12:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/operation-clear-path-phase-two-katondo-street-buses-wheelbarrow-traders/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:54:00 +0200</pubDate>
       <description>The Lusaka City Council has rolled out Phase Two of Operation Clear Path, targeting Katondo Street's phone traders and car-sale displays, relocating buses with RTSA and police help, and directing wheelbarrow traders to register at Soweto, City and Simon Mwewa markets. The cholera arithmetic behind the sweep has not gone away.</description>
       <category>Health</category>
     </item>
     <item>
       <title>Four goals at Shinde and a weekend of statements: Green Eagles top Stream B as the Transition League's first week closes loud</title>
       <link>https://lusakabrief.com/news/transition-league-week-one-green-eagles-four-wanderers-shinde-scorecard/</link>
-      <guid>https://lusakabrief.com/news/transition-league-week-one-green-eagles-four-wanderers-shinde-scorecard/</guid>
-      <pubDate>2026-10-06T13:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/transition-league-week-one-green-eagles-four-wanderers-shinde-scorecard/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:53:00 +0200</pubDate>
       <description>Green Eagles produced the biggest win of opening week, thumping nine-time champions Mufulira Wanderers 4-1 at Shinde Stadium. Red Arrows won 3-1 at Mutondo Stars, promoted Roan United won at Nkwazi, and Green Buffaloes edged Chirundu United — while Kabwe Warriors and ZESCO United shared the points in Kabwe.</description>
       <category>Sport</category>
     </item>
     <item>
       <title>Summoned at 08:00 on Wednesday: Mufulira Wanderers' executive is dragged to court — on the weekend the team lost 4-1 at home</title>
       <link>https://lusakabrief.com/news/mufulira-wanderers-exco-court-summons-october-7-nsama-pressure-group/</link>
-      <guid>https://lusakabrief.com/news/mufulira-wanderers-exco-court-summons-october-7-nsama-pressure-group/</guid>
-      <pubDate>2026-10-06T14:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/mufulira-wanderers-exco-court-summons-october-7-nsama-pressure-group/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:52:00 +0200</pubDate>
       <description>Nine-time champions Mufulira Wanderers have confirmed receipt of a summons requiring the executive committee to appear in court on 7 October, in an action brought by former physical trainer Davies Nsama and the Mufulira Wanderers Community Pressure Group. The club's reply: the plaintiffs are not paid-up members — and Mopani's lawyers are reviewing the papers.</description>
       <category>Sport</category>
     </item>
     <item>
       <title>The ceremony that fed a revolution: Samu Lya Moomba returns to Bweengwa — a reminder that a nation is built by sacrifice, not political songs</title>
       <link>https://lusakabrief.com/news/samu-lya-moomba-heritage-independence-struggle-chief-choongo-ceremony/</link>
-      <guid>https://lusakabrief.com/news/samu-lya-moomba-heritage-independence-struggle-chief-choongo-ceremony/</guid>
-      <pubDate>2026-10-06T15:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/samu-lya-moomba-heritage-independence-struggle-chief-choongo-ceremony/</guid>
+      <pubDate>Tue, 06 Oct 2026 05:51:00 +0200</pubDate>
       <description>Thousands gathered in Chief Choongo's country at the weekend for the 2026 Samu Lya Moomba traditional ceremony. Beneath the drums and the season's politics sits an older claim on the national memory: parliamentary records remember Bweengwa as the place where villagers contributed cattle to fund the independence struggle.</description>
       <category>Culture</category>
     </item>
     <item>
       <title>The road to Solwezi: a prison bus, a police escort, and a plea waiting at the end of the highway</title>
       <link>https://lusakabrief.com/news/mundubile-zulu-solwezi-road-transfer-sedition-plea-monday/</link>
-      <guid>https://lusakabrief.com/news/mundubile-zulu-solwezi-road-transfer-sedition-plea-monday/</guid>
-      <pubDate>2026-10-05T06:00:00+02:00</pubDate>
+      <guid isPermaLink="true">https://lusakabrief.com/news/mundubile-zulu-solwezi-road-transfer-sedition-plea-monday/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
       <description>Brian Mundubile and Makebi Zulu spent Sunday on the North-Western highway under prison and police escort, bound for the Solwezi Magistrates' Court, where they are due to take a formal plea this morning — and where the State must finally say whether it is ready to try the seditious-practices case. The treason case, the graver one, still has no courtroom at all.</description>
       <category>Politics</category>
-    </item>
-    <item>
-      <title>'Immediate effect', and no reason given: the President removes his deputy police chief — a day after her discipline tour</title>
-      <link>https://lusakabrief.com/news/hichilema-fires-deputy-police-ig-munganga-article-270-no-reason/</link>
-      <guid>https://lusakabrief.com/news/hichilema-fires-deputy-police-ig-munganga-article-270-no-reason/</guid>
-      <pubDate>2026-10-05T07:00:00+02:00</pubDate>
-      <description>State House announced on Sunday that Charity Munganga's appointment as Deputy Inspector General of Police (Administration) is terminated under Article 270 of the Constitution. On Saturday she was in Northern Province telling officers the badge is public trust. No reason was given — and the rumours of a wider command shake-up remain just that.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>The region's bishops close ranks around Alick Banda: due process, a fair hearing — and a pointed question from Lusaka about public interest</title>
-      <link>https://lusakabrief.com/news/bishops-malawi-zambia-zimbabwe-secam-archbishop-banda-due-process/</link>
-      <guid>https://lusakabrief.com/news/bishops-malawi-zambia-zimbabwe-secam-archbishop-banda-due-process/</guid>
-      <pubDate>2026-10-05T08:00:00+02:00</pubDate>
-      <description>The Catholic bishops of Malawi, Zambia and Zimbabwe have issued a joint communiqué over the arrest of the Archbishop of Lusaka, calling for a fair, transparent and lawful process — days after the continent's bishops' symposium did the same. At home, the Movement for Economic Emancipation asks what public interest the prosecution serves.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>How long may the State hold a treason suspect? Lubinda asks the question aloud — and the DPP reaches back to Shamwana for an answer</title>
-      <link>https://lusakabrief.com/news/lubinda-laz-dpp-treason-detention-clock-shamwana-precedent/</link>
-      <guid>https://lusakabrief.com/news/lubinda-laz-dpp-treason-detention-clock-shamwana-precedent/</guid>
-      <pubDate>2026-10-05T09:00:00+02:00</pubDate>
-      <description>Given Lubinda has returned to the public argument asking how long treason suspects can be kept from a courtroom. The Law Association of Zambia has called for the release of detainees not brought before a court. The Director of Public Prosecutions answers that due diligence takes time — and cites the longest treason trial in the country's memory.</description>
-      <category>Courts</category>
-    </item>
-    <item>
-      <title>The Atlantic comes to the InterContinental: Hichilema opens the Lobito 'engine room' today — with the World Bank's operations chief at the table</title>
-      <link>https://lusakabrief.com/news/lobito-corridor-engine-room-lusaka-hichilema-bjerde-angola-drc/</link>
-      <guid>https://lusakabrief.com/news/lobito-corridor-engine-room-lusaka-hichilema-bjerde-angola-drc/</guid>
-      <pubDate>2026-10-05T10:00:00+02:00</pubDate>
-      <description>Zambia and the World Bank host the Second Lobito Corridor Coordination Meeting today and tomorrow in Lusaka, bringing Angola, the Democratic Republic of Congo, development partners and private capital into one room. The ambition: a working economic ecosystem from the Copperbelt to the Atlantic — not just a railway.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>Five million guests by 2031: the Vice-President's funfair speech puts a number on culture — and treats it as an engine, not a sideshow</title>
-      <link>https://lusakabrief.com/news/five-million-tourists-2031-diplomatic-funfair-nalumango-culture-economy/</link>
-      <guid>https://lusakabrief.com/news/five-million-tourists-2031-diplomatic-funfair-nalumango-culture-economy/</guid>
-      <pubDate>2026-10-05T11:00:00+02:00</pubDate>
-      <description>Mutale Nalumango has reaffirmed the five-million-tourist target at the sixth Diplomatic Funfair in Lusaka, framing cultural tourism as economic strategy. The arithmetic behind the ambition: 2.3 million arrivals last year, a two-and-a-half-million target for this one, and a billion dollars in receipts by 2031.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>304 cases, 11 funerals, seven districts: the cholera outbreak is now official — and Lusaka's swept pavements are its front line</title>
-      <link>https://lusakabrief.com/news/cholera-outbreak-declared-304-cases-11-deaths-seven-districts-clear-path/</link>
-      <guid>https://lusakabrief.com/news/cholera-outbreak-declared-304-cases-11-deaths-seven-districts-clear-path/</guid>
-      <pubDate>2026-10-05T12:00:00+02:00</pubDate>
-      <description>The Ministry of Health declared a new cholera outbreak on 30 September, with 304 suspected cases — 62 laboratory-confirmed — and 11 deaths across seven districts in five provinces as of 29 September. Chibombo carries the heaviest count; Lusaka District's 130 cases explain why Operation Clear Path emptied the CBD's stalls this weekend.</description>
-      <category>Health</category>
-    </item>
-    <item>
-      <title>Sixty seconds to shake the champions: Blades beat Power with a first-minute goal and a cruel late own goal — and the Transition League has its storyline</title>
-      <link>https://lusakabrief.com/news/konkola-blades-stun-champions-power-opening-day-zanaco-nkana-away-wins/</link>
-      <guid>https://lusakabrief.com/news/konkola-blades-stun-champions-power-opening-day-zanaco-nkana-away-wins/</guid>
-      <pubDate>2026-10-05T13:00:00+02:00</pubDate>
-      <description>Konkola Blades scored the season's first goal inside sixty seconds and beat champions Power Dynamos 2-1 in Chililabombwe, with Wilson Chisala's late own goal settling it after Amine Hiver's equaliser. Zanaco won at Nchanga Rangers, Nkana won at promoted Trident — the short season is already loud.</description>
-      <category>Sport</category>
-    </item>
-    <item>
-      <title>Two teams, two airports, one week: the Copper Queens fly at Uganda's Olympic gate while the futsal men measure themselves against Egypt</title>
-      <link>https://lusakabrief.com/news/copper-queens-kampala-olympic-qualifier-futsal-cairo-egypt-friendlies/</link>
-      <guid>https://lusakabrief.com/news/copper-queens-kampala-olympic-qualifier-futsal-cairo-egypt-friendlies/</guid>
-      <pubDate>2026-10-05T14:00:00+02:00</pubDate>
-      <description>The Copper Queens have jetted out to Kampala for Thursday's Olympic qualifier against Uganda, chasing a third consecutive Games with an all-local interim bench. In Cairo, Andrea Cristoforetti's futsal side plays the first of two friendlies against Egypt, eight days before the AFCON in Morocco.</description>
-      <category>Sport</category>
-    </item>
-    <item>
-      <title>'We did not find any head': the Chivayo family confirms the unthinkable — Thursday's burial at Glen Forest will go ahead without them</title>
-      <link>https://lusakabrief.com/news/chivayo-burial-thursday-without-heads-glen-forest-family-confirms/</link>
-      <guid>https://lusakabrief.com/news/chivayo-burial-thursday-without-heads-glen-forest-family-confirms/</guid>
-      <pubDate>2026-10-05T15:00:00+02:00</pubDate>
-      <description>Wicknell Chivayo and Lucy Muteke will be buried side by side on Thursday at Harare's Glen Forest Cemetery — without their heads, the family has confirmed, and without body viewing. The funeral will be public; the DNA process continues; the region that watched the crash now watches the farewell.</description>
-      <category>Culture</category>
-    </item>
-    <item>
-      <title>Unopposed at the top, a ballot for the second chair: Mutti keeps the gavel, Chisangano beside her — and Mufumbwe's independent takes the third seat</title>
-      <link>https://lusakabrief.com/news/mutti-reelected-speaker-unopposed-muzungu-second-deputy-166-votes/</link>
-      <guid>https://lusakabrief.com/news/mutti-reelected-speaker-unopposed-muzungu-second-deputy-166-votes/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>The Fourteenth Assembly completed its only item of business on Friday: Dr Nelly Mutti was re-elected Speaker unopposed, Attractor Malungo Chisangano returned as First Deputy Speaker unopposed, and Mufumbwe MP Nshamba Muzungu beat Chipangali's Vincent Mwale by 166 votes to 58 for Second Deputy Speaker. Hours later the President received the trio at State House — and set them a legislative task.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>'It is well with my soul': the man who built the Tonse Alliance walks out of it — while its leader sits in custody</title>
-      <link>https://lusakabrief.com/news/zumani-zimba-resigns-tonse-alliance-suspension-letter-mundubile-custody/</link>
-      <guid>https://lusakabrief.com/news/zumani-zimba-resigns-tonse-alliance-suspension-letter-mundubile-custody/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>Dr Chris Zumani Zimba founded the Tonse Alliance, engineered its January congress and put Brian Mundubile on its ballot. On Friday he resigned in a first-person note — leaving a coalition whose president is in a maximum-security cell and whose factions he accuses of rehearsing an old betrayal.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>A pastoral letter, a State House rebuttal: the bishops warn of crisis, the presidency prefers dialogue — and the detainees wait in Kabwe</title>
-      <link>https://lusakabrief.com/news/catholic-bishops-pastoral-letter-state-house-rejects-crisis-detainees-dialogue/</link>
-      <guid>https://lusakabrief.com/news/catholic-bishops-pastoral-letter-state-house-rejects-crisis-detainees-dialogue/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>The Zambia Conference of Catholic Bishops closed September with a pastoral letter raising alleged arbitrary arrests and questioning the management of the 2026 election. State House has rejected what it calls a crisis portrayal; the Tonse-Pamodzi Alliance has rallied to the bishops; and the churches' central demand — humane treatment, named charges, a competent court — now has a date in the High Court.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>October 26 to November 6: three High Court judges will hear the detention petition — 42 days after the cell door closed</title>
-      <link>https://lusakabrief.com/news/mundubile-zulu-detention-petition-high-court-october-26-three-judges/</link>
-      <guid>https://lusakabrief.com/news/mundubile-zulu-detention-petition-high-court-october-26-three-judges/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>The constitutional challenge by Brian Mundubile, Makebi Zulu and 16 other detainees finally has a courtroom and a calendar. The petition asks whether arrests, transfers and restrictions at Mukobeko breached Articles 1, 13, 15 and 18 of the Constitution — and it is not, the courts desk notes, the treason case itself.</description>
-      <category>Courts</category>
-    </item>
-    <item>
-      <title>K20,000 bail and a weekly report to police: Tonse-Pamodzi's secretary general denies forging a businessman's signature over ZRIMS Farm shares</title>
-      <link>https://lusakabrief.com/news/mukandila-denies-forgery-zrims-farm-shares-k20000-bail-weekly-reporting/</link>
-      <guid>https://lusakabrief.com/news/mukandila-denies-forgery-zrims-farm-shares-k20000-bail-weekly-reporting/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>Celestine Mukandila, lawyer and alliance secretary general, has pleaded not guilty to two counts of forgery and two of uttering false documents over the surrender of shares in ZRIMS Farm Limited. The State called him a flight risk; the court set bail — and a trial later this month.</description>
-      <category>Courts</category>
-    </item>
-    <item>
-      <title>Operation Clear Path: the CBD wakes to a Saturday without its stalls — a city trades its pavements for a cholera fight</title>
-      <link>https://lusakabrief.com/news/operation-clear-path-lusaka-cbd-street-vendors-cholera-saturday-dawn/</link>
-      <guid>https://lusakabrief.com/news/operation-clear-path-lusaka-cbd-street-vendors-cholera-saturday-dawn/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>From this morning, Lusaka City Council and the Zambia Police are removing street vendors and unauthorised bus stops from the capital's centre. The mayor says it is order, not punishment; the outbreak numbers say why the city chose this weekend.</description>
-      <category>Health</category>
-    </item>
-    <item>
-      <title>Tear up the monthly calendar: the President wants fuel priced in seasons, not weeks — and ADNOC wants to be in the room</title>
-      <link>https://lusakabrief.com/news/hichilema-adnoc-fuel-pricing-monthly-reviews-two-three-month-window/</link>
-      <guid>https://lusakabrief.com/news/hichilema-adnoc-fuel-pricing-monthly-reviews-two-three-month-window/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>Forty-eight hours into the K31.46 era, the argument has moved from the pump to the mechanism. President Hichilema told ADNOC's trading chief in Abu Dhabi that monthly price changes are no longer working; Lusaka is now weighing two- and three-month pricing windows, with VAT's December return hanging over all of it.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>The empty half of the basket: Zambia's student-loans board takes a 45-per-cent funding gap to the capital markets</title>
-      <link>https://lusakabrief.com/news/helsb-private-investment-student-loans-45-percent-unfunded-capital-markets/</link>
-      <guid>https://lusakabrief.com/news/helsb-private-investment-student-loans-45-percent-unfunded-capital-markets/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>Nearly half of student-financing need went unfunded last year. Now the Higher Education Loans and Scholarships Board is asking banks, pension funds and insurers to buy into the business of sending Zambia to university — carefully, and with no bond on the table yet.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>The Transition League kicks off today — champions Power open at Konkola, while Hamburg wires home word of Daka's torn thigh</title>
-      <link>https://lusakabrief.com/news/transition-league-matchday-one-konkola-power-daka-thigh-tear-togo-win/</link>
-      <guid>https://lusakabrief.com/news/transition-league-matchday-one-konkola-power-daka-thigh-tear-togo-win/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>The Transition League begins this afternoon with a single national kick-off time, champions Power Dynamos opening their defence away to Konkola Blades. The week's other football news is less welcome: Hamburger SV has confirmed a torn muscle fibre in Patson Daka's left thigh, suffered on Chipolopolo duty.</description>
-      <category>Sport</category>
-    </item>
-    <item>
-      <title>Derulo at dusk: the Stanbic Music Festival takes the Polo Field tonight — with its best circle already sold out</title>
-      <link>https://lusakabrief.com/news/stanbic-music-festival-derulo-polo-field-tonight-yo-maps-mampi-tamy-moyo/</link>
-      <guid>https://lusakabrief.com/news/stanbic-music-festival-derulo-polo-field-tonight-yo-maps-mampi-tamy-moyo/</guid>
-      <pubDate>2026-10-03T06:00:00+02:00</pubDate>
-      <description>Jason Derulo headlines the Stanbic Music Festival at the Lusaka Showgrounds this evening, on a bill with Yo Maps, Mampi, Danny Kaya and Zimbabwe's Tamy Moyo. Gates at Polo Field A run from 12:30 to 23:30 — and the premium EN Circle is gone.</description>
-      <category>Culture</category>
-    </item>
-    <item>
-      <title>The Clerk, the gavel and 266 seats: the Fourteenth Assembly sits for the first time today — and can do nothing until it has a Speaker</title>
-      <link>https://lusakabrief.com/news/fourteenth-assembly-first-sitting-speaker-election-presiding-officers/</link>
-      <guid>https://lusakabrief.com/news/fourteenth-assembly-first-sitting-speaker-election-presiding-officers/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>The Order Paper for Friday carries a single line of business: the election of the Speaker and two deputies. Until that is done, the expanded National Assembly — 226 constituency seats and 40 proportional-representation seats created by the 2025 amendments — cannot transact anything at all. The President opens the session next Friday.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>Home to the K31.46 morning: Hichilema lands from Abu Dhabi with US$2.14 billion in commitments — and says more is being finalised</title>
-      <link>https://lusakabrief.com/news/hichilema-returns-abu-dhabi-2-14-billion-commitments-health-city/</link>
-      <guid>https://lusakabrief.com/news/hichilema-returns-abu-dhabi-2-14-billion-commitments-health-city/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>The President returned to Kenneth Kaunda International Airport on Thursday evening quoting a figure of more than US$2.1 billion from his Abu Dhabi working visit — health, agriculture, tourism and energy, with a 100-hectare health city among the plans — while the forum's own count of signed instruments ran higher still. He arrived to the first full day of the new fuel prices.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>Six aboard, no survivors: the Marondera helicopter crash that killed Wicknell Chivayo — and the DNA wait now holding the region's attention</title>
-      <link>https://lusakabrief.com/news/wicknell-chivayo-helicopter-crash-marondera-six-aboard-dna-identification/</link>
-      <guid>https://lusakabrief.com/news/wicknell-chivayo-helicopter-crash-marondera-six-aboard-dna-identification/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>Zimbabwe police confirm six people were aboard the helicopter that went down at Kudenga Farm near Marondera on Wednesday evening; the civil aviation authority's preliminary account says the tail struck first. Identification of the victims awaits DNA analysis. Tributes have come from Presidents Mnangagwa and Ruto — and the story has been followed as closely in Lusaka as in Harare.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>Solar rows and a copper shaft: Britain's Africa trade commissioner ends a five-day Zambia pitch today</title>
-      <link>https://lusakabrief.com/news/uk-trade-commissioner-alastair-long-zambia-visit-greenco-fqm-trident/</link>
-      <guid>https://lusakabrief.com/news/uk-trade-commissioner-alastair-long-zambia-visit-greenco-fqm-trident/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>Alastair Long's Zambia programme closes on Friday after a week that took the UK Trade Commissioner for Africa from a GreenCo solar site to First Quantum's Trident mine — with the Green Growth Compact and British International Investment's strategy doing the framing, and a Terzeon reception doing the networking.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>K3.3 billion in the furrows: on the eve of planting season, Indo Zambia Bank reveals the biggest farm book in its history</title>
-      <link>https://lusakabrief.com/news/indo-zambia-bank-k3-3-billion-agriculture-portfolio-planting-season/</link>
-      <guid>https://lusakabrief.com/news/indo-zambia-bank-k3-3-billion-agriculture-portfolio-planting-season/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>The bank's agriculture portfolio has reached K3.3 billion, it disclosed this week — K400 million of it through the smallholder facility that has reached more than 3,600 farmers — with earmarks behind it for soybeans, wheat and energy, timed to the season that starts with the first rains.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>Day one at K31.46: the commuter arithmetic of a 24-per-cent jump, a kwacha at K19.61 — and December's VAT question</title>
-      <link>https://lusakabrief.com/news/fuel-k31-46-first-full-day-commuter-arithmetic-kwacha-vat-december/</link>
-      <guid>https://lusakabrief.com/news/fuel-k31-46-first-full-day-commuter-arithmetic-kwacha-vat-december/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>The first full day of the new pump prices dawned on the ranks and the filling stations with fares yet to move. But the arithmetic has moved: at long-distance consumption rates, the diesel line alone adds about K820 to a one-way Lusaka–Ndola run — and the VAT reinstatement dated for 1 December is still in the post.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>739 bags of suspected fake fertiliser, four men in custody: the DEC unearths an unregistered plant weeks before planting</title>
-      <link>https://lusakabrief.com/news/dec-counterfeit-fertiliser-plant-9-miles-meanwood-739-bags-four-charged/</link>
-      <guid>https://lusakabrief.com/news/dec-counterfeit-fertiliser-plant-9-miles-meanwood-739-bags-four-charged/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>The Drug Enforcement Commission has uncovered a manufacturing operation spanning 9 Miles and Meanwood Vorna Valley, seizing 739 bags of suspected counterfeit fertiliser, raw materials and equipment. An agricultural consultant and three businessmen face charges including money laundering — and the timing, at the gates of the planting season, is the point.</description>
-      <category>Courts</category>
-    </item>
-    <item>
-      <title>304 cases, eleven dead, seven districts: Zambia declares a cholera outbreak weeks after the last one was declared over</title>
-      <link>https://lusakabrief.com/news/cholera-outbreak-declared-304-cases-11-deaths-seven-districts/</link>
-      <guid>https://lusakabrief.com/news/cholera-outbreak-declared-304-cases-11-deaths-seven-districts/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>Eight of the eleven deaths happened in the community — people reaching care too late. Acting Health Minister Gilbert Siame declared the outbreak on Wednesday: 304 cases across five provinces as of Tuesday, with Lusaka and Chibombo carrying the heaviest loads and a vaccination decision under assessment.</description>
-      <category>Health</category>
-    </item>
-    <item>
-      <title>Ten matches, one kick-off: the Transition League begins tomorrow — champions Power Dynamos open at Konkola Blades</title>
-      <link>https://lusakabrief.com/news/transition-league-kickoff-saturday-ten-matches-1500-power-dynamos-konkola-blades/</link>
-      <guid>https://lusakabrief.com/news/transition-league-kickoff-saturday-ten-matches-1500-power-dynamos-konkola-blades/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>Every opening-round fixture kicks off at 15:00 on Saturday in a season built to move Zambian football's calendar: two streams drawn from last season's final standings, a new national cup alongside, and the champions beginning their defence in Chililabombwe.</description>
-      <category>Sport</category>
-    </item>
-    <item>
-      <title>Derulo at the Polo Field, thirty countries at the Showgrounds: a diary for a city in jacaranda season</title>
-      <link>https://lusakabrief.com/news/lusaka-weekend-diary-derulo-stanbic-diplomatic-fun-fair-october-arts/</link>
-      <guid>https://lusakabrief.com/news/lusaka-weekend-diary-derulo-stanbic-diplomatic-fun-fair-october-arts/</guid>
-      <pubDate>2026-10-02T06:00:00+02:00</pubDate>
-      <description>Saturday belongs to the big stages: Jason Derulo headlines the Stanbic Music Festival from half past noon while the Diplomatic Fun Fair fills the Showgrounds. Beyond the weekend, October is stacked — theatre turns forty in Chingola, Barefeet turns twenty, and the virtual festival runs all month.</description>
-      <category>Culture</category>
-    </item>
-    <item>
-      <title>K31.46 at the pump: the tax holiday ends, excise returns — and Zambia wakes to its steepest fuel-price jump of the year</title>
-      <link>https://lusakabrief.com/news/fuel-prices-october-31-46-erb-excise-reinstated-vat-december/</link>
-      <guid>https://lusakabrief.com/news/fuel-prices-october-31-46-erb-excise-reinstated-vat-december/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>No statutory instrument appeared before midnight, so the six-month fuel-tax relief died on schedule. The Energy Regulation Board's October review restores excise duty and passes on dearer oil and a weaker kwacha: petrol up 24 per cent to K31.46, diesel up 24 to K33.27 — with VAT's return dated for 1 December.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>“Instruments of justice and service, not sources of fear”: the Catholic bishops and the CCZ close ranks on the state of the nation</title>
-      <link>https://lusakabrief.com/news/zccb-ccz-church-statements-election-credibility-kafwaya-probe/</link>
-      <guid>https://lusakabrief.com/news/zccb-ccz-church-statements-election-credibility-kafwaya-probe/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>In separate but aligned statements on one Wednesday, Zambia's two largest church bodies questioned the credibility of the 2026 elections, decried arbitrary arrests and force that has cost civilian lives, and demanded an independent investigation into the killing of former minister Mutotwe Kafwaya. October, the bishops declared, will be a month of rosary prayers for peace.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>“The outcome was never in doubt — the process is”: Antonio Mwanza gives the ECZ three questions, and a warning about 2031</title>
-      <link>https://lusakabrief.com/news/mwanza-ecz-report-suspended-count-mandevu-ballots-reform/</link>
-      <guid>https://lusakabrief.com/news/mwanza-ecz-report-suspended-count-mandevu-ballots-reform/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>The Democratic Progressive Party leader accepts that President Hichilema won — and says that is precisely why the Electoral Commission must now account for the suspended count, Mandevu's stolen ballots and a dead election agent. His prescription: commissioners chosen independently, a timetable that binds the incumbent, and public media that covers everyone.</description>
-      <category>Politics</category>
-    </item>
-    <item>
-      <title>Two hundred and fifty basis points: the Bank of Zambia delivers its biggest cut in more than a decade</title>
-      <link>https://lusakabrief.com/news/boz-mpr-cut-250-basis-points-10-75-inflation-turn/</link>
-      <guid>https://lusakabrief.com/news/boz-mpr-cut-250-basis-points-10-75-inflation-turn/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>Economists expected twenty-five. The Monetary Policy Committee delivered two hundred and fifty, taking the policy rate to 10.75 per cent — a fourth consecutive cut, powered by 6.1 per cent inflation, a record maize harvest and a firmer kwacha. The committee's own risk list, though, reads like next month's news.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>K212 billion for creditors: the Green Paper prices the new term — and debt service outbids FISP, CDF and free education combined</title>
-      <link>https://lusakabrief.com/news/green-paper-k212-billion-debt-service-2027-2029/</link>
-      <guid>https://lusakabrief.com/news/green-paper-k212-billion-debt-service-2027-2029/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>The 2027–2029 Medium-Term Budget Plan, the Treasury's first blueprint of the new mandate, sets aside K212.2 billion for debt service — K63.6 billion more than the entire transfers budget for farmers, constituencies, pupils and school meals. The bill falls as a share of GDP only if the growth promises are true.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>The Fund is back in town: Zambia opens successor-programme talks — and wants a deal before the year ends</title>
-      <link>https://lusakabrief.com/news/imf-mission-lusaka-successor-ecf-talks-october-10/</link>
-      <guid>https://lusakabrief.com/news/imf-mission-lusaka-successor-ecf-talks-october-10/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>An IMF mission led by Edward Gemayel is in Lusaka until 10 October, negotiating a successor to the US$1.7 billion programme that ended in January. The government is selling growth; the Fund is checking the sustainability file. Both are reading the same Green Paper.</description>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>“Not the Judiciary — the security services”: the State's answer for the three days the courts went dark</title>
-      <link>https://lusakabrief.com/news/court-shutdown-august-security-agencies-attorney-general-chapter-one/</link>
-      <guid>https://lusakabrief.com/news/court-shutdown-august-security-agencies-attorney-general-chapter-one/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>Attorney-General Mulilo Kabesha has told the Constitutional Court that August's closure of the courts was ordered by the defence and national security services, and merely communicated by the Judiciary. The admission — the first official attribution of responsibility — comes as the State asks that the Chapter One Foundation petition be dismissed with costs.</description>
-      <category>Courts</category>
-    </item>
-    <item>
-      <title>Five more carcasses in Nabwalya, twenty-six people on the register: the anthrax response races the river</title>
-      <link>https://lusakabrief.com/news/nabwalya-anthrax-five-more-wildlife-deaths-26-human-cases/</link>
-      <guid>https://lusakabrief.com/news/nabwalya-anthrax-five-more-wildlife-deaths-26-human-cases/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>Three more hippos and two more elephants have died of anthrax in the Nabwalya Game Management Area, taking the wildlife toll to 49 hippos, nine elephants and six buffaloes. Twenty-six human cases have now been reported — and investigators keep finding evidence that people are reaching the carcasses first.</description>
-      <category>Health</category>
-    </item>
-    <item>
-      <title>0.2 seconds at 18:21: ZESCO explains the night Levy Mwanawasa went dark — and promises new lights</title>
-      <link>https://lusakabrief.com/news/zesco-levy-mwanawasa-blackout-0-2-seconds-floodlight-redesign/</link>
-      <guid>https://lusakabrief.com/news/zesco-levy-mwanawasa-blackout-0-2-seconds-floodlight-redesign/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>The blackout that stopped Zambia's 2-0 win over Togo for eighteen minutes lasted, on the utility's account, a fifth of a second. The floodlights simply could not forgive it: their design demands about twenty minutes to return to full brightness. ZESCO will now engage the Ministry of Youth, Sport and Arts on a redesign.</description>
-      <category>Sport</category>
-    </item>
-    <item>
-      <title>Ten years of the Lusaka July — in October: “The Tale of a Ruby” opens at the National Museum on the 16th</title>
-      <link>https://lusakabrief.com/news/lusaka-july-2026-tale-of-ruby-tenth-edition-october/</link>
-      <guid>https://lusakabrief.com/news/lusaka-july-2026-tale-of-ruby-tenth-edition-october/</guid>
-      <pubDate>2026-10-01T06:00:00+02:00</pubDate>
-      <description>The capital's most dressed-up weekend has a theme, a date and a tenth birthday. Lusaka July 2026 runs 16–18 October across three signature events, opening with a Night of Culture at the Lusaka National Museum — the social season's anchor, transplanted to the year's busiest cultural month.</description>
-      <category>Culture</category>
     </item>
   </channel>
 </rss>
