@@ -1,0 +1,300 @@
+{
+  "date": "2026-10-13",
+  "strapline": "The maize bill reaches CDF, food stopped at Mukobeko's gate, and ninety minutes in Ndola",
+  "stories": [
+    {
+      "lead": true,
+      "developing": true,
+      "slug": "cdf-cut-2027-maize-overspend-fra-treasury-musokotwane-september-figures",
+      "section": "Economy",
+      "title": "The bill for the maize: next year's CDF will be cut as the Treasury counts the cost of a bigger harvest",
+      "excerpt": "Finance Minister Situmbeko Musokotwane says the 2027 Constituency Development Fund allocation will fall below what was initially budgeted, as the Treasury moves to contain this year's overspend — heavier-than-planned maize purchases chief among it. The Food Reserve Agency has been told to expect no Treasury money next season, and road funding is also under pressure.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "cdf-cut",
+        "motif": "coins",
+        "label": "The bill for the maize",
+        "caption": "The Food Reserve Agency has bought well beyond its maize target this marketing season; the Treasury says the bill now reaches the Constituency Development Fund."
+      },
+      "body": [
+        "Government will reduce next year's Constituency Development Fund allocation below the level initially budgeted, Finance and National Planning Minister Dr Situmbeko Musokotwane has said, as the Treasury moves to contain overspending recorded this year — including maize purchases for the strategic food reserve that ran far beyond plan.",
+        "Dr Musokotwane said the Treasury would communicate the revised allocations to local authorities, to prevent councils from over-procuring and building up arrears on the strength of figures that will no longer hold. The exact size of the reduction will only be confirmed when the 2027 National Budget is tabled in Parliament.",
+        "The cut lands on one of the administration's most visible programmes. CDF has risen from K1.6 million per constituency in 2021 to K40 million in 2026, a national envelope of about K6.245 billion, which constituencies have used for classrooms, boreholes, bursaries and local empowerment schemes. Only on Friday, opening the 14th National Assembly, President Hakainde Hichilema cited that rise as evidence of development decisions moving closer to communities.",
+        {"type": "subhead", "text": "No Treasury money for the FRA"},
+        "The pressure is clearest on the food reserve line. The Food Reserve Agency expanded its buying from a 500,000-tonne target to about one million tonnes this marketing season, and the Minister said there would be no Treasury funds for the agency next season. In Northern Province alone, the FRA has bought 234,000 tonnes of maize.",
+        {"type": "quote", "text": "What has happened this year, it is like we have spent money not just for 2026 but also to cover for food security in 2027.", "attribution": "Dr Situmbeko Musokotwane, Finance Minister, speaking on Friday, quoted by the Zambian Observer"},
+        "Dr Musokotwane argued the stockpile, together with an anticipated poor harvest next year as El Niño bites, means the FRA will face less pressure to buy — and can sell from its stocks to fund any return to the market. Critics will note the same logic leaves farmers facing a thinner state market next season.",
+        "The squeeze does not end with CDF. The Minister said Government's limited cash position could also affect funding for road construction, and warned that spending must urgently be aligned with available revenue — which, if not corrected, could touch priority sectors including free education.",
+        {"type": "subhead", "text": "September's ledger"},
+        "The September Treasury figures show how tightly the budget is already drawn. Of the K14.6 billion released that month, K5.4 billion went to the public service wage bill and another K5.4 billion to debt service and arrears — K4.1 billion to domestic debt, K625.1 million to external debt and K674.2 million to clear domestic arrears. Capital expenditure received K526.9 million, of which K459.9 million went to roads.",
+        "Transfers, subsidies and social benefits took K1.8 billion: K857 million for grant-aided institutions such as hospitals and universities, K435.8 million for the Social Cash Transfer, K200 million for the Food Security Pack and K120.8 million for the Local Authorities Equalisation Fund.",
+        {"type": "quote", "text": "The excise duty on fuel has been restored to help ease fiscal pressures arising from the war in the Middle East.", "attribution": "Dr Musokotwane, who said the measure would help sustain free education, school feeding and the Social Cash Transfer — Lusaka Times"},
+        "The Minister spoke on Friday, the day Government and the International Monetary Fund reached a staff-level agreement on a new three-year Extended Credit Facility, reported by the Zambian Observer at about US$1.5 billion. Public submissions on the 2027 budget and the 2027–2029 Medium-Term Budget Plan have closed; the Treasury says it will analyse them for expenditure prioritisation and value for money.",
+        {"type": "box", "title": "The numbers", "items": [
+          "CDF per constituency: K1.6 million (2021) → K40 million (2026); national envelope about K6.245 billion",
+          "FRA buying this season: about one million tonnes against a 500,000-tonne target; 234,000 tonnes in Northern Province",
+          "September releases: K14.6 billion — K5.4 billion wages, K5.4 billion debt service and arrears, K1.8 billion transfers and subsidies, K526.9 million capital",
+          "Unknown until the 2027 Budget: the size of the CDF cut"
+        ]},
+        {"type": "confirmed",
+         "confirmed": "That Dr Musokotwane announced a reduction in the 2027 CDF allocation, no Treasury funds for the FRA next season, and pressure on road funding — reported by Lusaka Times and News Diggers; the September Treasury release figures as published; the CDF's rise from K1.6 million to K40 million per constituency.",
+         "unverified": "The size of the CDF cut, which will only be known when the 2027 Budget is tabled; whether road and free-education funding will in fact be trimmed; and the assumption that FRA stocks can fund the agency's return to the market."}
+      ],
+      "sources": [
+        {"outlet": "Lusaka Times", "title": "Government To Cut Next Year's CDF As Maize Overspend Squeezes Treasury", "date": "12 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/12/government-to-cut-next-years-cdf-as-maize-overspend-squeezes-treasury/"},
+        {"outlet": "News Diggers", "title": "No treasury funds for FRA next season – Musokotwane", "date": "12 Oct 2026", "url": "https://diggers.news/business/2026/10/12/no-treasury-funds-for-fra-next-season-musokotwane/"},
+        {"outlet": "Zambian Observer", "title": "Next year's CDF to reduce – Government running low on cash, says Musokotwane", "date": "11 Oct 2026", "url": "https://zambianobserver.com/next-years-cdf-to-reduce-government-running-low-on-cash-says-musokotwane/"}
+      ]
+    },
+    {
+      "developing": true,
+      "slug": "state-house-mundubile-detention-criminal-matter-not-barrier-reconciliation-ngoma-mwila",
+      "section": "Politics",
+      "tag": "Politics · Reconciliation",
+      "title": "'A criminal matter, not a barrier to reconciliation': State House answers the camp that says there is no peace without release",
+      "excerpt": "State House has rejected claims that President Hichilema's call for national reconciliation cannot succeed while Brian Mundubile remains in detention. Political Advisor Levy Ngoma says reducing the incarceration to a political issue is misplaced because Mr Mundubile is accused of committing a crime. The opposition reads the same moment very differently.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "reconcile",
+        "motif": "columns",
+        "label": "The reconciliation question",
+        "caption": "State House says the treason case must run its course in the courts; the opposition says there can be no reconciliation while the detainees remain behind bars."
+      },
+      "body": [
+        "State House has rejected claims that President Hakainde Hichilema's call for national reconciliation cannot succeed while opposition leader Mr Brian Mundubile remains in detention. The President's Political Advisor, Mr Levy Ngoma, said reducing Mr Mundubile's incarceration to a political issue is misplaced because he is accused of committing a crime.",
+        "Mr Ngoma was responding to Mr Davies Mwila, National Chairperson of the BM8-ECL Movement and a former Patriotic Front Secretary General, who said on Saturday there can be no reconciliation in the country as long as Mr Mundubile, Mr Makebi Zulu and 16 others remain in prison. News Diggers carried Mr Mwila's position on Sunday, and State House's rebuttal on Monday.",
+        "The exchange cuts to the heart of the President's message since he opened the 14th National Assembly on Friday. In a prayer posted on his Facebook page, President Hichilema asked God to guide public servants to serve with humility, gratitude and love.",
+        {"type": "quote", "text": "May we cherish our peace and remember with gratitude the quiet sacrifices that sustain it. May we all place service to our country and her interests above our own.", "attribution": "President Hakainde Hichilema, in a prayer on his Facebook page, carried by Lusaka Times"},
+        "The opposition reads the same moment very differently. Mr Mwila has called for an independent, credible and transparent inquiry into the death of former Transport Minister Mr Mutotwe Kafwaya, who was killed during a security operation at Mr Mundubile's residence after the August polls, and demanded the release of the detained leaders.",
+        {"type": "quote", "text": "There is no way the head of state can say we need to heal when people have a lot of questions like what happened during the elections.", "attribution": "Dr Neo Simutanyi, governance expert, who urged a truth and reconciliation commission — Lusaka Times"},
+        "Dr Simutanyi also questioned why a full Cabinet had not been appointed a month after the President's re-election. State House's position is that the detentions belong to the justice system: Mr Mundubile and Mr Zulu face treason charges and were later also charged with seditious practices, and Director of Public Prosecutions Mr Gilbert Phiri has said complex cases such as treason require time to investigate.",
+        "The reconciliation language has also spilled into the row over the National Day of Prayer. Tonse Alliance spokesperson Dr Lawrence Mwelwa said Government could not confidently stand before God in prayer while questions about Mr Kafwaya's death and the treason detentions remained unanswered.",
+        {"type": "quote", "text": "What exactly would the government be celebrating? On its head there is Kafwaya's blood. On its shoulders there is the incarceration of opposition leaders on trumped-up treason charges.", "attribution": "Dr Lawrence Mwelwa, Tonse Alliance spokesperson — Lusaka Times"},
+        "Church mother bodies said in August they were considering a broader, longer-term national healing and reconciliation process. The detained leaders' lawyers, meanwhile, are seeking the court's intervention over the prolonged detention in a hearing scheduled to run from 26 October to 6 November. For now, State House maintains that the President's appeal for peace stands on its own, and that the treason case must run its course."
+      ],
+      "sources": [
+        {"outlet": "Lusaka Times", "title": "Mundubile's Detention Is A Criminal Matter, Not A Barrier To Reconciliation, Says State House", "date": "12 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/12/mundubiles-detention-is-a-criminal-matter-not-a-barrier-to-reconciliation-says-state-house/"},
+        {"outlet": "News Diggers", "title": "HH's call for reconciliation is not about Mundubile – State House", "date": "12 Oct 2026", "url": "https://diggers.news/local/2026/10/12/hhs-call-for-reconciliation-is-not-about-mundubile-state-house/"},
+        {"outlet": "News Diggers", "title": "No reconciliation can happen when Mundubile is in prison – Mwila", "date": "11 Oct 2026", "url": "https://diggers.news/local/2026/10/11/no-reconciliation-can-happen-when-mundubile-is-in-prison-mwila/"}
+      ]
+    },
+    {
+      "developing": true,
+      "slug": "mukobeko-food-seizure-sikota-cof-treason-detention-solwezi-ruling-day",
+      "section": "Courts",
+      "tag": "Courts · Treason case",
+      "title": "Food stopped at the prison gate: Sikota appeals to the President as the treason detainees' clock reaches 51 days",
+      "excerpt": "Senior counsel Sakwiba Sikota says food parcels sent by the families of the 18 treason detainees through the Anglican Cathedral were confiscated at Mukobeko's gate, as Chapter One Foundation tells the DPP that the seriousness of a charge is no answer to detention without judicial oversight. The Correctional Service had not responded.",
+      "dateline": "KABWE",
+      "image": {
+        "key": "mukobeko",
+        "motif": "scales",
+        "label": "Food at the gate",
+        "caption": "Mukobeko Maximum Security Correctional Facility in Kabwe, where lawyers say food sent by the detainees' families was seized at the gate."
+      },
+      "body": [
+        "Rights group Chapter One Foundation has told the State that the seriousness of an offence does not justify prolonged detention without judicial oversight — a direct answer to Director of Public Prosecutions Mr Gilbert Phiri, who has attributed delays in prosecuting the treason case to ongoing investigations and said complicated matters such as treason take time.",
+        "COF Executive Director Mr Josiah Kalala's position is that time spent investigating cannot be time spent in prison without a court overseeing the detention. Mr Phiri has previously said investigators must gather witness statements, medical reports and other evidence before a fully supported case can go to court, citing the historic treason trial of Mr Edward Jack Shamwana as an example of how long such cases can take. The 18 detainees have yet to appear before a court on the treason charge.",
+        "The question of how they are being treated in custody has now sharpened. Senior counsel Mr Sakwiba Sikota has appealed to President Hakainde Hichilema to intervene after authorities at Mukobeko Maximum Security Correctional Facility in Kabwe allegedly blocked food meant for Mr Brian Mundubile and 17 others. He said the families sent the food to the prison through the Anglican Cathedral of the Holy Cross on Wednesday 7 October, and that it was confiscated at the gate without explanation and never reached the detainees — who include retired Anglican bishop Mr Trevor Mwamba.",
+        {"type": "quote", "text": "These are persons presumed innocent until proven guilty. Denying them food from their families is cruel and degrading. This is an embarrassment to the State.", "attribution": "Mr Sakwiba Sikota, senior counsel for the detainees — Lusaka Times"},
+        "Mr Sikota described the seizure as inhumane, unconstitutional and politically motivated, and urged the President to order the Zambia Correctional Service to stop the practice, calling it a test of his rule-of-law commitment. The Correctional Service had not responded to queries at the time of publication. It is not the first dispute over meals: in September, Mr Sikota said Mr Mundubile and Mr Zulu had asked to receive food from outside the facility rather than eat what was prepared internally, a request prison authorities turned down.",
+        "The length of detention varies across the group. Mr Mundubile and Mr Zulu had been held for 51 days without appearing before a court; Lusaka businessman Mr Valden Harry Findlay for more than 68 days. The detainees have petitioned the State over violations of their constitutional rights arising from detention without trial — a petition that also cites the alleged torture of three detainees said to have been moved to Mwembeshi Correctional Facility and back on 7 September without their lawyers' consent. The Law Association of Zambia has called for the release of detainees who have not been taken to court.",
+        {"type": "subhead", "text": "The legal calendar"},
+        "Today, attention turns back to Solwezi, where Principal Resident Magistrate Mambwe Mukonde is due to rule on whether her court has jurisdiction to hear the separate seditious practices case against Mr Mundubile and Mr Zulu — and could take plea. The pair arrived in Solwezi on Sunday for the sitting. From 26 October to 6 November, the High Court hears the detainees' application over the prolonged detention itself.",
+        {"type": "box", "title": "The legal calendar", "items": [
+          "Tuesday 13 October — Solwezi jurisdiction ruling in the sedition case; plea possible",
+          "26 October – 6 November — High Court hearing of the detainees' prolonged-detention application",
+          "Treason charge — the 18 accused have yet to appear before a court"
+        ]},
+        {"type": "confirmed",
+         "confirmed": "Chapter One Foundation's statement answering the DPP; Mr Sikota's account of the Wednesday food seizure as reported by Lusaka Times; the detention durations (51 days for Mr Mundubile and Mr Zulu, more than 68 for Mr Findlay); the Solwezi ruling date and the 26 October – 6 November High Court window.",
+         "unverified": "The alleged gate seizure itself, which the Zambia Correctional Service had not answered; the torture allegations in the petition, which remain untested; and the outcome of today's Solwezi ruling, still pending at press time."}
+      ],
+      "sources": [
+        {"outlet": "Lusaka Times", "title": "Seriousness Of Treason Charges Does Not Justify Prolonged Detention, Says COF, As Food Is Seized At Mukobeko", "date": "12 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/12/seriousness-of-treason-charges-does-not-justify-prolonged-detention-says-cof-as-food-is-seized-at-mukobeko/"},
+        {"outlet": "Zambian Observer", "title": "Mundubile, Makebi Zulu arrive in Solwezi ahead of Tuesday court appearance", "date": "12 Oct 2026", "url": "https://zambianobserver.com/mundubile-makebi-zulu-arrive-in-solwezi-ahead-of-tuesday-court-appearance/"},
+        {"outlet": "Times of Zambia", "title": "Court rejects oral submissions in Mundubile case", "date": "6 Oct 2026", "url": "https://times.co.zm/court-rejects-oral-submissions-in-mundubile-case/"},
+        {"outlet": "Lusaka Times", "title": "Mundubile And Zulu Detention Heads To The High Court From October 26", "date": "2 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/02/mundubile-and-zulu-detention-heads-to-the-high-court-from-october-26/"}
+      ]
+    },
+    {
+      "slug": "ecz-pr-seats-defence-kasaro-nrpup-upnd-terzeon-opposition-oversight",
+      "section": "Politics",
+      "tag": "Politics · Electoral Commission",
+      "title": "'A requirement of the law, not favouritism': the ECZ answers the PR seats row as Britain's envoy makes the case for opposition",
+      "excerpt": "The Electoral Commission says the NRPUP lost its vacant proportional representation seats by missing the statutory seven-day window for submitting its party list, dismissing Emmanuel Mwamba's collusion claims as untrue and unfounded. The row lands as the British High Commissioner urges that Parliament's opposition be allowed to hold the Executive to account.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "pr-seats",
+        "motif": "ballot",
+        "label": "The PR seats row",
+        "caption": "Forty proportional representation seats joined the National Assembly this term; who fills the vacancies left by an unsubmitted list is now in dispute."
+      },
+      "body": [
+        "The Electoral Commission of Zambia has rejected claims that it unlawfully handed proportional representation seats belonging to the opposition NRPUP to the ruling UPND. The Commission says the opposition party lost the seats by failing to submit a full list of nominees within the period set by law.",
+        "The row began with allegations by former diplomat Mr Emmanuel Mwamba, who accused the Commission on his Facebook page of unlawfully allocating the seats — a reallocation he framed as the product of political collusion or deliberate manipulation of the PR process.",
+        {"type": "quote", "text": "The redistribution of seats arising from a failure to submit a party list is a requirement of the law and not an act of political favouritism or manipulation.", "attribution": "Mr Brown Kasaro, Chief Electoral Officer, in the Commission's statement"},
+        "Mr Kasaro pointed to Section 36C(1) of the Electoral Process (Amendment) Act No. 12 of 2026, which requires a qualifying party to submit its party list within seven days of the distribution of PR seats, and to Section 36C(9), which directs the Commission to redistribute a vacant seat to another qualifying party using the formula in Section 36B where that window is missed. The Commission said it met both qualifying parties to explain the requirements, and that the NRPUP knew how many seats it was entitled to but submitted fewer nominees than required.",
+        "The dispute concerns seats in the new National Assembly, whose First Session President Hichilema opened on Friday 9 October with a tribute to the 20 women, 15 youths and five persons with disabilities allocated under the Mixed-Member Proportional Representation system. Opposition unease runs wider than the mechanics: National Democratic Congress president Ms Saboi Imboela said the current Parliament was basically a one-party state because members of other parties had been compromised — an increased Parliament, she said, with a reduced voice.",
+        "It is against that backdrop that British High Commissioner Ms Rebecca Terzeon, speaking shortly after Friday's opening, said the opposition in Parliament must be allowed to operate effectively so that it can hold the Executive to account. She also urged that recommendations from election observation missions be taken seriously — several international missions, including a European Union mission that deployed 100 observers, monitored the August elections and committed to issuing recommendations once post-election processes conclude.",
+        "The President, for his part, told the House his administration would protect democratic institutions, uphold the rule of law and tolerate no lawlessness regardless of political affiliation. The opposition's footprint in the Chamber is also being tested in the courts: election petitions in Kwacha, Zambezi East and Zambezi Central are due for judgment in November, one of them challenging the election of an NRPUP MP."
+      ],
+      "sources": [
+        {"outlet": "Lusaka Times", "title": "ECZ Defends Handing NRPUP's Vacant Proportional Representation Seats To UPND", "date": "12 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/12/ecz-defends-handing-nrpups-vacant-proportional-representation-seats-to-upnd/"},
+        {"outlet": "Zambian Observer", "title": "ECZ dismisses allegations of manipulation of proportional representation seats", "date": "12 Oct 2026", "url": "https://zambianobserver.com/ecz-dismisses-allegations-of-manipulation-of-proportional-represenation-seats/"},
+        {"outlet": "Lusaka Times", "title": "Let The Opposition Hold The Executive To Account, British High Commissioner Says", "date": "12 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/12/let-the-opposition-hold-the-executive-to-account-british-high-commissioner-says/"},
+        {"outlet": "News Diggers", "title": "ECZ dismisses manipulation of PR seats: “NRPUP failed to submit a party list”", "date": "12 Oct 2026", "url": "https://diggers.news/local/2026/10/12/ecz-dismisses-manipulation-of-pr-seats-nrpup-failed-to-submit-a-party-list/"}
+      ]
+    },
+    {
+      "slug": "zccm-ih-183-million-dividend-2025-eleventh-consecutive-musonda-glencore-billion",
+      "section": "Economy",
+      "tag": "Economy · Mining investment",
+      "title": "Eleven straight years of dividends — but K346 million lighter: ZCCM-IH declares K183 million for 2025",
+      "excerpt": "ZCCM Investments Holdings has declared a final dividend of about K183 million for the 2025 financial year — down from a record K529 million — after a provision for a legacy legal matter and a stronger kwacha cut the local value of its dollar assets. The state investment arm says investment income rose 40 per cent and its market value has passed US$1 billion.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "zccm",
+        "motif": "ingots",
+        "label": "Eleven straight years",
+        "caption": "ZCCM-IH's dividend cheque handover in Lusaka on Monday — the company's 11th consecutive annual payout, though well below last year's record."
+      },
+      "body": [
+        "ZCCM Investments Holdings has declared a total dividend of approximately K183 million for the 2025 financial year, its 11th consecutive annual payout since 2015 — but a marked step down from the record K529 million declared for 2024, a fall of K346 million, or about 65 per cent.",
+        "Board Chairperson Mr Phesto Musonda, speaking at the dividend cheque handover ceremony in Lusaka on Monday 12 October, attributed the lower payout to a full provision made for a legacy legal matter and the appreciation of the kwacha, which reduced the local-currency value of the company's dollar-denominated assets. Neither factor, he said, affected the cash generated by the company's investments — investment income rose 40 per cent in 2025, supported by returns from Kansanshi, Maamba Energy and Copperbelt Energy Corporation.",
+        "Of the K183 million, majority shareholder the Industrial Development Corporation is expected to receive about K109.5 million, the Ministry of Finance and National Planning about K31.2 million, and the National Pension Scheme Authority about K27 million, with the balance shared among roughly 5,000 other shareholders in Zambia and abroad. Over the past 11 years, the company says it has returned approximately K2.4 billion to shareholders.",
+        "Mr Musonda also disclosed that ZCCM-IH repaid US$150 million to Glencore in April, settling its legacy debt, and that the company's market valuation has surpassed US$1 billion.",
+        "Permanent Secretary for Economic Management and Investments Mr Mulele Mulele commended the board, management and staff for strengthening the company's financial performance, saying the payment showed how prudent investment management and sound corporate governance turn public investments into tangible returns for Zambians. IDC Group Chief Executive Officer Mr Cornwell Muleya called on the company to rebuild its earnings and cash generation for stronger, more sustainable dividends, and said the forthcoming ten-year strategy should align investments with national targets — three million tonnes of copper and 10,000 megawatts of electricity."
+      ],
+      "sources": [
+        {"outlet": "5FM Radio Zambia", "title": "ZCCM-IH Returns K2.4 Billion to Shareholders in 11 Years", "date": "13 Oct 2026", "url": "https://5fmradiozambia.com/zccm-ih-returns-k2-4-billion-to-shareholders-in-11-years/"},
+        {"outlet": "Diamond TV", "title": "ZCCM-IH dividend falls by K346 million", "date": "12 Oct 2026", "url": "https://diamondtvzambia.com/zccm-ih-dividend-falls-by-k346-million/"},
+        {"outlet": "ZANIS", "title": "ZCCM-IH declares K183 million dividend", "date": "12 Oct 2026", "url": "https://www.facebook.com/zambianewsandinformationservices/posts/zccm-ih-declares-k183-million-dividendzccm-investments-holdings-zccm-ih-has-decl/1108043425490412/"}
+      ]
+    },
+    {
+      "slug": "nalumango-icglr-illegal-mineral-exploitation-regional-certification-lusaka-meeting",
+      "section": "Economy",
+      "tag": "Economy · Regional minerals",
+      "title": "'No country can do it alone': Nalumango presses Great Lakes states on a decade-old promise to clean up the minerals trade",
+      "excerpt": "Opening the ICGLR Council of Ministers Responsible for Mines in Lusaka, Vice President Mutale Nalumango said only five member states have fully implemented the regional certification mechanism adopted in 2010 — and urged coordinated action, information sharing and value addition so that minerals fund peace rather than conflict.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "icglr",
+        "motif": "globe",
+        "label": "Minerals across borders",
+        "caption": "The 10th meeting of the ICGLR Council of Ministers Responsible for Mines opened in Lusaka on Monday, with certification a decade behind schedule."
+      },
+      "body": [
+        "Vice President Mutale Nalumango has called for stronger regional cooperation among Great Lakes countries to combat the illegal exploitation of minerals, telling member states that no country can effectively address the problem in isolation.",
+        "Mrs Nalumango, represented by Deputy Secretary to the Cabinet for Finance and Economic Development Mr Siazongo Siakalenge, was speaking on Monday at the official opening of the 10th Meeting of the International Conference on the Great Lakes Region Council of Ministers Responsible for Mines in Lusaka. She urged member states to curb the illegal cross-border trade in minerals while ensuring natural resources contribute to peace, economic growth and sustainable development.",
+        "The Vice President said progress in implementing the six tools of the Regional Initiative on Natural Resources had remained uneven, with only five member states having fully implemented the regional certification mechanism — more than a decade after the adoption of the Lusaka Declaration in December 2010. That, she said, highlighted the need to address persistent implementation challenges and strengthen accountability in the management of natural resources.",
+        "She said the proposed inclusion of mineral value addition and cross-border trade in the revised Regional Initiative would broaden the regional approach beyond traceability and certification, helping member states derive greater economic benefit from their mineral wealth through investment, industrial development, employment creation and participation in mineral value chains.",
+        "ICGLR Committee Chairperson Mr Louis Kabamba urged member states to translate their commitments into concrete action so that minerals traded across borders are legally sourced. European Union Ambassador to Zambia Ms Karolina Stasiak said illegal mineral activities deprived governments of public revenue and contributed to corruption, organised crime, human exploitation, environmental degradation and conflict.",
+        "The ministerial meeting follows last week's 33rd meeting of the ICGLR regional committee against illegal exploitation, where Ministry of Mines and Minerals Permanent Secretary Dr Hapenga Kabeta said Zambia had put measures in place including support for artisanal and small-scale mining, stronger inspections and a mineral tracking system. The push dovetails with the Government's Grow Zambia targets, which count on mining — and a legal, formalised small-scale sector — to help lift copper output towards three million tonnes a year."
+      ],
+      "sources": [
+        {"outlet": "Lusaka Times", "title": "Nalumango Calls For Regional Unity To Curb Illegal Mineral Exploitation", "date": "12 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/12/nalumango-calls-for-regional-unity-to-curb-illegal-mineral-exploitation/"},
+        {"outlet": "ZNBC", "title": "Nalumango Calls for Stronger Cooperation on Combating Illegal Exploitation of Natural Resources", "date": "13 Oct 2026", "url": "https://www.facebook.com/znbctoday/posts/nalumango-calls-for-stronger-cooperation-on-combating-illegal-exploitation-of-na/1463966335835327/"},
+        {"outlet": "Lusaka Times", "title": "Govt. Commits To Addressing Illegal Exploitation Of Natural Resources", "date": "9 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/08/govt-commits-to-addressing-illegal-exploitation-of-natural-resources/"}
+      ]
+    },
+    {
+      "slug": "chuungu-ceremony-kalomo-hichilema-chiefs-grow-zambia-agenda-thanksgiving",
+      "section": "Culture",
+      "tag": "Culture · Traditional ceremonies",
+      "title": "A thanksgiving in Kalomo: the President puts traditional leaders at the front of the Grow Zambia Agenda",
+      "excerpt": "At the Chuungu traditional ceremony in Chief Chikanta's area, President Hichilema — in a speech delivered on his behalf — said every component of the Grow Zambia Agenda is found in the chiefdoms, asking traditional leaders to take a leading role while guarding the peace that growth depends on.",
+      "dateline": "KALOMO",
+      "image": {
+        "key": "chuungu",
+        "motif": "sun",
+        "label": "A thanksgiving in Kalomo",
+        "caption": "The Chuungu ceremony in Chief Chikanta's area, Kalomo — a thanksgiving for the previous season's yields, and this year a stage for the Grow Zambia message."
+      },
+      "body": [
+        "President Hakainde Hichilema has called on traditional leaders across the country to take a leading role in supporting the Grow Zambia Agenda, telling subjects gathered for the Chuungu traditional ceremony in Chief Chikanta's area in Kalomo that all components of the growth agenda are found in the chiefdoms.",
+        "The Chuungu ceremony is a thanksgiving event at which subjects celebrate the crop yields of the previous farming season and prepare for the next agricultural season — a fitting stage for a growth plan whose first target is ten million tonnes of maize a year.",
+        {"type": "quote", "text": "As the Government pursues the Grow Zambia Agenda, we call upon all citizens, traditional leaders, farmers, young people, businesses and other stakeholders to play their part in building a more productive and prosperous Zambia.", "attribution": "President Hichilema, in a speech read on his behalf by Southern Province Acting Permanent Secretary Mr Gift Monde — Zambia Daily Mail"},
+        "The President paired the development message with a warning on order, saying Zambians must sustain peace as a cornerstone for economic growth. “We must never take our peace for granted and no lawlessness shall be tolerated, regardless of political or other affiliation,” he said, adding that a peaceful and stable Zambia is what attracts local and foreign investment, creates jobs and secures a better future.",
+        "He said that since assuming office in 2021, the New Dawn administration has worked to restore confidence in democratic institutions and strengthen respect for the rule of law. The state news agency ZANIS carried the call to traditional leaders in its Monday evening bulletin, placing it among the day's leading items.",
+        "The Grow Zambia Agenda, unveiled when the President opened the 14th National Assembly on Friday, sets eight annual targets — among them ten million tonnes of maize, 10,000 megawatts of electricity, three million tonnes of copper, five million tourist arrivals and US$1 billion in beef exports. Much of that production is expected to come from the rural areas whose chiefs hosted the weekend's ceremonies."
+      ],
+      "sources": [
+        {"outlet": "Zambia Daily Mail", "title": "HH thanks God for privilege to serve", "date": "12 Oct 2026", "url": "https://www.daily-mail.co.zm/2026/10/12/hh-thanks-god-for-privilege-to-serve/"},
+        {"outlet": "ZANIS", "title": "ZANIS News at 20:00hrs, 12 October 2026", "date": "12 Oct 2026", "url": "https://www.facebook.com/zambianewsandinformationservices/videos/zanis-news-at-2000hrs-12-10-2026/2007042336608342/"},
+        {"outlet": "Mwebantu", "title": "Hichilema Unveils Grow Zambia Agenda, Sets Eight National Targets", "date": "9 Oct 2026", "url": "https://www.mwebantu.com/hichilema-unveils-grow-zambia-agenda-sets-eight-national-targets/"}
+      ]
+    },
+    {
+      "developing": true,
+      "slug": "copper-queens-uganda-decider-tonight-haalubono-attitude-banda-crested-cranes-double",
+      "section": "Sport",
+      "tag": "Sport · Olympic qualifiers",
+      "title": "'We gave them too much space': the Copper Queens chase redemption — and a third straight Olympics — against Uganda tonight",
+      "excerpt": "Zambia trail 2-1 from Kampala and must overturn the Crested Cranes at Levy Mwanawasa Stadium at 18:00 to keep a third successive Olympic appearance alive. Interim coach Charles Haalubono has fixed on attitude; Uganda say they have come to complete a double.",
+      "dateline": "NDOLA",
+      "image": {
+        "key": "queens",
+        "motif": "pitch",
+        "label": "Redemption at 18:00",
+        "caption": "Levy Mwanawasa Stadium, Ndola — the Copper Queens must overturn a 2-1 first-leg deficit against Uganda to stay on the road to Los Angeles 2028."
+      },
+      "body": [
+        "Ninety minutes tonight will decide whether the Copper Queens remain on course for a third successive Olympic Games. Zambia host Uganda in the return leg of their second-round 2028 Olympic qualifier at Levy Mwanawasa Stadium in Ndola at 18:00, trailing 2-1 from the first leg played in Kampala last Thursday.",
+        "Zambia, who competed at the Tokyo 2020 and Paris 2024 Olympic Games, are seeking a third successive appearance — this time at Los Angeles 2028. The winner over the two legs will face either Ghana or Mauritius in the next round.",
+        {"type": "quote", "text": "We gave them too much space when they had the ball. That is why I said the attitude was not good. We have worked on it, we have to press and work extra hard.", "attribution": "Charles Haalubono, Copper Queens interim head coach, ahead of the match — Lusaka Times"},
+        "Haalubono said he was sure the team would perform better at home, on a pitch the players are used to. Captain Barbra Banda struck the same note of resolve.",
+        {"type": "quote", "text": "It is important for us as a team to go back to the Olympics for a third time, but it takes attitude and determination. We know what it takes but it will not be easy but definitely we are looking for a win.", "attribution": "Barbra Banda, Copper Queens captain — Lusaka Times"},
+        "Uganda, however, say they are in Ndola to complete a double over Zambia. Assistant coach Ahumuza Collins said the Crested Cranes travelled to win again: “Having won the game at home, we will still play to win the game in Zambia.” Captain Nadia Nankya said determination, which helped Uganda in the first leg, will be key again tonight.",
+        "The tie is the centrepiece of a busy fortnight for the women's game, and the federation will hope the Ndola crowd gives the home side the edge that was missing in Kampala. Kick-off is 18:00 CAT."
+      ],
+      "sources": [
+        {"outlet": "Lusaka Times", "title": "Copper Queens Seek Redemption Against Uganda", "date": "12 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/12/copper-queens-seek-redemption-against-uganda/"}
+      ]
+    },
+    {
+      "slug": "zpl-suspends-midweek-fixtures-nkana-napsa-off-konkola-power-weekend-roundup",
+      "section": "Sport",
+      "tag": "Sport · Super League",
+      "title": "No midweek football: the ZPL shelves every Monday-to-Friday fixture — and Nkana's top clash with NAPSA is the casualty",
+      "excerpt": "The Zambian Premier League has suspended all midweek fixtures across its four divisions until further notice, giving no reason, two days after Nkana and Konkola Blades seized the early Stream A lead. Weekend matches on 17–18 October go ahead as planned — for now.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "zpl",
+        "motif": "pitch",
+        "label": "No midweek football",
+        "caption": "Wednesday's Stream A top-of-the-table meeting between Nkana and NAPSA Stars is among the fixtures suspended by the league's Memo 115."
+      },
+      "body": [
+        "The Zambian Premier League has suspended all midweek matches under its umbrella scheduled between Monday 12 and Friday 16 October, for reasons yet to be disclosed. The suspension covers the MTN Super League, the Women's Super-Division, the Men's National Division and the Women's National Division, and takes in the Stream A top-of-the-table clash between leaders Nkana and NAPSA Stars that was set for Wednesday 14 October.",
+        {"type": "quote", "text": "With immediate effect, all midweek matches (Monday to Friday) in the MTN Super League, the Women's Super-Division, the Men's National Division and the Women's National Division are suspended until further notice. This includes rescheduled and postponed matches allocated to midweek dates.", "attribution": "ZPL Chief Executive Officer Joseph Chimpampwe, in Memo 115 of the 2026 Transition Season, dated 11 October"},
+        "Mr Chimpampwe said new dates would be assigned to the suspended matches, and warned clubs against making independent arrangements to play them, directing clubs to inform players, officials, supporters and service providers immediately. Matches scheduled for the weekend of 17–18 October are not affected and will be played as scheduled, although clubs have been told to remain on standby for further developments.",
+        "The suspension lands on a transitional season that has just found its early pace-setters. On Sunday, Konkola Blades came from behind to beat Zanaco 3-2 at Sunset Stadium — Clive Biyeta's opener answered by a Dominic Kanda penalty and an Araina Lambert strike before half-time, then a Boyd Musonda penalty and Jackson Phiri's 66th-minute winner — to move level on six points with Nkana, who lead Stream A on goal difference.",
+        "Defending champions Power Dynamos recorded their first win of the campaign, edging Nchanga Rangers 1-0 at Arthur Davies Stadium through Joshua Mutale's 14th-minute free-kick. Nchanga are bottom without a point after two rounds; FC MUZA sit third on four.",
+        "Why the league has cleared its midweek calendar is, for now, unanswered: the memo gives no reason, and none has been offered since. What clubs know is that the backlog will have to land somewhere in an already compressed transitional calendar."
+      ],
+      "sources": [
+        {"outlet": "Lusaka Times", "title": "ZPL Suspends Midweek Fixtures", "date": "12 Oct 2026", "url": "https://www.lusakatimes.com/2026/10/12/zpl-suspends-midweek-fixtures/"},
+        {"outlet": "ZamFoot", "title": "Konkola Blades stun Zanaco as Power Dynamos return to winning ways", "date": "12 Oct 2026", "url": "https://zambianfootball.co.zm/konkola-blades-stun-zanaco-as-power-dynamos-return-to-winning-ways/"}
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "desk": "Economy",
+      "title": "The squeeze meets the speech",
+      "body": "Four days separate two messages. On Friday, the President told the new National Assembly that CDF's rise from K1.6 million to K40 million per constituency proved development was moving closer to communities. On Monday, his Finance Minister said that same fund will be cut next year. Both can be true at once — and that is the argument now starting. The Treasury's case is arithmetic: maize bought beyond plan, debt and wages consuming most of September's K14.6 billion, an IMF programme freshly agreed, and councils that must not contract against figures that will not hold. The other side is just as concrete: CDF is the one state presence most voters can point at, and a cut lands on classrooms, boreholes and bursaries mid-term. What to watch: the revised allocations councils receive before the Budget, whether the FRA really can fund itself from stock sales, and how deep the cut goes when the 2027 Budget is tabled."
+    },
+    {
+      "desk": "Politics",
+      "title": "Reconciliation with a court date",
+      "body": "The reconciliation debate now has two fixed positions. State House says detention is a criminal matter in the courts' hands, not a political lever the President can pull — and that an appeal for peace stands on its own. The Mwila camp, backed by Dr Simutanyi and the Tonse Alliance, says words about healing cannot land while 18 people sit in Mukobeko without facing a court, and while the Kafwaya shooting has no independent inquiry. Each side's strongest point is real: the State cannot be seen to trade charges for calm, and the opposition cannot be expected to treat detention-without-trial as a detail. What neither has answered is the mechanical question — what process, short of the cases collapsing, would both sides accept as movement? The 26 October to 6 November High Court hearing is the first place that question gets an airing."
+    },
+    {
+      "desk": "Courts",
+      "title": "Two tracks, one clock",
+      "body": "The Mundubile–Zulu legal fight runs on two tracks that should not be confused. In Solwezi today, a magistrate rules on jurisdiction in the sedition case — whether the pair are tried in North-Western Province at all, and possibly takes plea. Whatever she decides, the treason track is untouched: 18 detainees, no court appearance, 51 days and counting for the two leaders. That second track is where the constitutional temperature is taken — a petition already before the courts, a rights group telling the DPP that seriousness is no answer to detention without oversight, and now a row over food parcels at the prison gate. The Correctional Service's silence on the seizure claim is itself now part of the story. Watch the ruling first, then the remand question: plea in Solwezi would start one clock; the High Court hearing from 26 October decides the other."
+    }
+  ]
+}
