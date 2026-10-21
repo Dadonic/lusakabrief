@@ -50,6 +50,37 @@ BADGE = ('\n      <span class="badge" style="display:inline-block;margin-left:10
          'vertical-align:middle">Developing</span>')
 SOURCES_STYLE = ("font-size:13.5px;color:#6b6558;border-top:1px solid #ddd;"
                  "padding-top:14px;margin-top:26px")
+# Content kinds. "report" is independent reporting compiled from published sources and
+# carries no label. Everything else is labelled on the page, on cards and in the feed,
+# and (except opinion) must name the person it concerns in "people".
+KINDS = {
+    "report": None, "feature": "Feature", "interview": "Interview",
+    "project-update": "Project update", "press-release": "Press release",
+    "supplied": "Supplied content", "opinion": "Opinion",
+}
+SUPPLIED_KINDS = {"press-release", "supplied", "project-update", "interview"}
+DISCLOSURE = {
+    "press-release": "This is a press release issued by {who}{rel}. It is published as supplied, "
+                     "edited only for house style, and its claims have not been independently "
+                     "verified by Lusaka Brief.",
+    "supplied": "This article is based on material supplied by {who}{rel}. Lusaka Brief has "
+                "checked it for internal consistency but has not independently verified its "
+                "claims except where a source is cited.",
+    "project-update": "This update draws on documentation provided by {who}{rel}. Figures and "
+                      "outcomes are as reported by the project unless a source is cited.",
+    "interview": "This interview was supplied by {who}{rel}. Questions and answers were "
+                 "exchanged in writing and have been edited for length and clarity.",
+    "opinion": "Opinion articles reflect the views of their author, {who}{rel}, and not those "
+               "of Lusaka Brief.",
+}
+RELATIONSHIP = {
+    "owner": ", who owns Lusaka Brief",
+    "commissioned": ", who commissioned this coverage",
+    "sponsor": ", whose organisation sponsors content on Lusaka Brief",
+    "partner": ", a partner organisation of Lusaka Brief",
+    "none": "",
+}
+LOGO = f"{SITE}/assets/lusaka-brief-mark.svg"
 # Phrases that claim first-hand reporting. Editions are compiled from published
 # reporting, so copy must never imply interviews or enquiries that did not happen.
 BANNED = [
@@ -137,6 +168,38 @@ def body_text(story):
     return "\n".join(out)
 
 
+def load_profile(slug):
+    path = os.path.join(HERE, "people", f"{slug}.json")
+    if not os.path.exists(path):
+        return None
+    return json.loads(read(path))
+
+
+def domain(url):
+    m = re.match(r"https?://(?:www\.)?([^/]+)", url or "")
+    return m.group(1).lower() if m else ""
+
+
+def subject_domains(profile):
+    out = set()
+    for u in (profile.get("links") or {}).values():
+        if domain(u):
+            out.add(domain(u))
+    return out
+
+
+def disclosure_for(story, profile):
+    """The disclosure paragraph for a labelled story (plain text), or ''."""
+    kind = story.get("kind", "report")
+    if kind not in DISCLOSURE:
+        return ""
+    if story.get("disclosure"):
+        return story["disclosure"]
+    who = profile.get("preferred_name") or profile.get("name") if profile else "the author"
+    rel = RELATIONSHIP.get((profile or {}).get("relationship", "none"), "")
+    return DISCLOSURE[kind].format(who=who, rel=rel)
+
+
 def next_edition_number(stories):
     nums = [s["edition"] for s in stories if isinstance(s.get("edition"), int)]
     try:
@@ -205,6 +268,29 @@ def validate(ed, stories, day, allow_any_date=False, force=False):
             pass
         elif not tag.startswith(sec + " · ") or len(tag) > 60:
             e(f"{w}: tag must look like \"{sec} · Topic\" (max 60 characters)")
+        kind = s.get("kind", "report")
+        if kind not in KINDS:
+            e(f"{w}: kind must be one of {', '.join(KINDS)}")
+            kind = "report"
+        if s.get("lead") and kind != "report":
+            e(f"{w}: the lead story must be independent reporting (kind 'report')")
+        people = s.get("people", [])
+        profiles = []
+        if not isinstance(people, list) or any(not isinstance(x, str) for x in people):
+            e(f"{w}: 'people' must be a list of profile slugs")
+            people = []
+        for ps in people:
+            prof = load_profile(ps)
+            if not prof:
+                e(f"{w}: no profile tools/people/{ps}.json for '{ps}'")
+            else:
+                profiles.append(prof)
+        if kind in SUPPLIED_KINDS and not people:
+            e(f"{w}: '{kind}' content must name who supplied it in 'people' (a profile slug)")
+        if kind == "opinion" and not (people or s.get("disclosure")):
+            e(f"{w}: opinion needs 'people' (the author's profile) or a 'disclosure' naming the author")
+        if s.get("disclosure") is not None and not 40 <= len(str(s.get("disclosure"))) <= 400:
+            e(f"{w}: 'disclosure' must be 40–400 characters")
         if not 30 <= len(s.get("title", "")) <= 180:
             e(f"{w}: title must be 30–180 characters")
         if not 120 <= len(s.get("excerpt", "")) <= 560:
@@ -253,7 +339,13 @@ def validate(ed, stories, day, allow_any_date=False, force=False):
                 e(f"{w}: each source needs outlet, title, date and an https url")
                 break
         outlets = {src.get("outlet", "").strip().lower() for src in srcs if isinstance(src, dict)}
-        if sec not in ("Sport", "Culture") and len(outlets) < 2:
+        own = set().union(*(subject_domains(pr) for pr in profiles)) if profiles else set()
+        independent = {src.get("outlet", "").strip().lower() for src in srcs
+                       if isinstance(src, dict) and domain(src.get("url")) not in own}
+        if kind in ("report", "feature") and profiles and len(independent) < 2:
+            e(f"{w}: independent reporting about a profiled person needs at least two sources "
+              "that are not the person's own channels — or label it 'supplied'")
+        elif kind in ("report", "feature") and sec not in ("Sport", "Culture") and len(outlets) < 2:
             e(f"{w}: {sec} stories need at least two different source outlets")
         img = s.get("image")
         if not isinstance(img, dict):
@@ -321,6 +413,63 @@ def render_body(story):
     return "\n".join(out)
 
 
+def kind_badge(kind):
+    label = KINDS.get(kind)
+    if not label:
+        return ""
+    return ('\n      <span class="badge" style="display:inline-block;margin-left:10px;'
+            'font:600 11px Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;'
+            'color:#f6f3ec;background:#5b5648;border-radius:999px;padding:4px 10px;'
+            f'vertical-align:middle">{esc(label)}</span>')
+
+
+def disclosure_html(story):
+    text = story.get("_disclosure")
+    if not text:
+        return ""
+    links = "".join(
+        f' <a href="/people/{pr["slug"]}/" style="color:#173f2f;font-weight:600">About '
+        f'{esc(pr.get("preferred_name") or pr["name"])} →</a>'
+        for pr in story.get("_profiles", []) if pr and pr.get("published"))
+    return ('<div class="editor-note" style="margin-top:0"><strong>Disclosure.</strong> '
+            f"{esc(text)}{links}</div>\n")
+
+
+def article_jsonld(story, d):
+    kind = story.get("kind", "report")
+    url = f"{SITE}/news/{story['slug']}/"
+    about = [{"@type": "Person", "@id": f"{SITE}/people/{pr['slug']}/#person",
+              "name": pr["name"], "url": f"{SITE}/people/{pr['slug']}/"}
+             for pr in story.get("_profiles", []) if pr and pr.get("published")]
+    art = {
+        "@type": "NewsArticle" if kind in ("report", "feature") else "Article",
+        "@id": url + "#article", "mainEntityOfPage": url,
+        "headline": story["title"][:110], "description": story["excerpt"],
+        "image": [f"{SITE}/assets/{story['_image']}"],
+        "datePublished": f"{d.isoformat()}T06:00:00+02:00",
+        "dateModified": f"{d.isoformat()}T06:00:00+02:00",
+        "author": ({"@type": "Person", "name": story["_author"]}
+                   if story["_author"] not in DESKS.values() and " with " not in story["_author"]
+                   else {"@type": "Organization", "name": story["_author"], "url": SITE + "/"}),
+        "publisher": {"@type": "NewsMediaOrganization", "name": "Lusaka Brief", "url": SITE + "/",
+                      "logo": {"@type": "ImageObject", "url": LOGO}},
+        "articleSection": story["section"], "inLanguage": "en-ZM",
+        "isAccessibleForFree": True,
+    }
+    if about:
+        art["about"] = about
+    if kind == "press-release" and about:
+        art["sourceOrganization"] = {"@type": "Organization", "name": about[0]["name"]}
+    crumbs = {"@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Lusaka Brief", "item": SITE + "/"},
+        {"@type": "ListItem", "position": 2, "name": story["section"],
+         "item": f"{SITE}/#{story['section'].lower()}"},
+        {"@type": "ListItem", "position": 3, "name": story["title"][:110], "item": url}]}
+    data = {"@context": "https://schema.org", "@graph": [art, crumbs]}
+    return ('<script type="application/ld+json">'
+            + json.dumps(data, ensure_ascii=False).replace("</", "<\\/") + "</script>")
+
+
 def render_article(story, d):
     tpl = read(os.path.join(HERE, "article-template.html"))
     return tpl.format(
@@ -332,7 +481,8 @@ def render_article(story, d):
         badge=BADGE if story.get("developing") else "",
         author=esc(story["_author"]), dateline=esc(story["dateline"]),
         readtime=story["_readtime"], alt=attr(story["_alt"]),
-        caption=esc(story["_caption"]), body=render_body(story), year=d.year)
+        caption=esc(story["_caption"]), body=disclosure_html(story) + render_body(story),
+        year=d.year, jsonld=article_jsonld(story, d))
 
 
 def card_alt(s):
@@ -443,10 +593,12 @@ def home_analysis(pieces):
 def update_home(html, ed, lead, stories, d, backfill=True):
     t = attr(lead["title"]) + " — Lusaka Brief"
     ex = attr(lead["excerpt"])
-    html = sub_once(r"<title>.*?</title>", f"<title>{esc(lead['title'])} — Lusaka Brief</title>",
+    html = sub_once(r"<title>.*?</title>",
+                    f"<title>Lusaka Brief — Zambia news brief, {long_date(d)}</title>",
                     html, "<title>")
     html = sub_once(r'<meta name="description" content="[^"]*">',
-                    f'<meta name="description" content="{ex}">', html, "meta description")
+                    f'<meta name="description" content="Lusaka Brief, {attr(long_date(d))}. '
+                    f'Lead: {ex[:140].rsplit(" ", 1)[0]}…">', html, "meta description")
     html = sub_once(r'<meta property="og:title" content="[^"]*">',
                     f'<meta property="og:title" content="{t}">', html, "og:title")
     html = sub_once(r'<meta property="og:description" content="[^"]*">',
@@ -540,13 +692,15 @@ def build_feed(stories, now):
         url = f"{SITE}/news/{s['slug']}/"
         items.append(
             "    <item>\n"
-            f"      <title>{esc(s['title'])}</title>\n"
+            f"      <title>{esc((KINDS.get(s.get('kind', 'report')) or '') and KINDS[s['kind']] + ': ')}{esc(s['title'])}</title>\n"
             f"      <link>{url}</link>\n"
             f'      <guid isPermaLink="true">{url}</guid>\n'
             f"      <pubDate>{email.utils.format_datetime(when)}</pubDate>\n"
             f"      <description>{esc(s['excerpt'])}</description>\n"
             f"      <category>{esc(s['section'])}</category>\n"
-            "    </item>\n")
+            + (f"      <category>{esc(KINDS[s['kind']])}</category>\n"
+               if KINDS.get(s.get("kind", "report")) else "")
+            + "    </item>\n")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
             "  <channel>\n"
@@ -571,6 +725,16 @@ def build_sitemap(old, stories):
         if u not in have:
             locs.append(u)
             have.add(u)
+    people_dir = p("people")
+    if os.path.isdir(people_dir):
+        for slug in sorted(os.listdir(people_dir)):
+            if os.path.exists(os.path.join(people_dir, slug, "index.html")):
+                u = f"{SITE}/people/{slug}/"
+                if u not in have:
+                    locs.insert(4, u)
+                    have.add(u)
+        if os.path.exists(os.path.join(people_dir, "index.html")) and f"{SITE}/people/" not in have:
+            locs.insert(4, f"{SITE}/people/")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
             + "".join(f"  <url><loc>{esc(u)}</loc></url>\n" for u in locs) + "</urlset>\n")
@@ -619,8 +783,20 @@ def cmd_build(args):
     new = []
     for s in order:
         sec = s["section"]
-        s["_tag"] = f"{sec} · Lead story" if s.get("lead") else s["tag"]
+        kind = s.get("kind", "report")
+        if s.get("lead"):
+            s["_tag"] = f"{sec} · Lead story"
+        elif KINDS[kind]:
+            s["_tag"] = f"{KINDS[kind]} · {s['tag'].split(' · ', 1)[1]}"
+        else:
+            s["_tag"] = s["tag"]
+        s["_profiles"] = [load_profile(x) for x in s.get("people", [])]
+        s["_disclosure"] = disclosure_for(s, s["_profiles"][0] if s["_profiles"] else None)
         s["_author"] = DESKS[sec]
+        if s["_profiles"] and kind in ("press-release", "supplied", "project-update", "opinion"):
+            s["_author"] = s["_profiles"][0]["name"]
+        elif s["_profiles"] and kind == "interview":
+            s["_author"] = f"{DESKS[sec]} with {s['_profiles'][0]['name']}"
         s["_image"] = f"ed{num}-{s['image']['key']}.webp"
         s["_alt"] = f"Illustration: {s['image']['label']}"
         cap = s["image"]["caption"].strip()
@@ -629,7 +805,9 @@ def cmd_build(args):
         new.append({"slug": s["slug"], "section": sec, "tag": s["_tag"], "title": s["title"],
                     "excerpt": s["excerpt"], "author": s["_author"], "date": plain_date(d),
                     "iso": d.isoformat(), "image": s["_image"], "edition": num,
-                    "_alt": s["_alt"]})
+                    "_alt": s["_alt"],
+                    **({"kind": kind} if kind != "report" else {}),
+                    **({"people": s["people"]} if s.get("people") else {})})
     lead = order[0]
 
     # Render everything in memory first; only write if nothing fails.

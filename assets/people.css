@@ -1,0 +1,83 @@
+/* Lusaka Brief — person profile pages (/people/<slug>/) */
+.crumbs{font-family:var(--sans);font-size:12.5px;color:var(--muted);padding:26px 0 0}
+.crumbs a{color:var(--muted);text-decoration:none}
+.crumbs a:hover{color:var(--green)}
+.crumbs span{margin:0 8px;color:var(--line)}
+.profile-hero{padding:22px 0 26px}
+.profile-hero .kicker{color:var(--copper)}
+.profile-hero h1{font-family:var(--serif);font-weight:800;font-size:clamp(34px,4.6vw,54px);line-height:1.05;letter-spacing:-.015em;margin:12px 0 10px}
+.profile-role{font-family:var(--serif);font-size:21px;font-style:italic;color:var(--ink-soft);line-height:1.45;margin:0 0 18px}
+.profile-intro{font-size:17.5px;line-height:1.7;color:var(--ink-soft);max-width:64ch}
+.profile-portrait{position:relative}
+.profile-portrait img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;border-radius:6px;background:var(--paper-deep)}
+.profile-portrait figcaption{margin-top:8px;font-size:12px;color:var(--muted);line-height:1.5}
+.profile-portrait .no-photo{aspect-ratio:4/5;border-radius:6px;background:var(--green-deep);display:grid;place-items:center;color:#f0c660;font-family:var(--serif);font-weight:800;font-size:72px}
+.profile-layout{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:48px;align-items:start;margin-top:4px}
+.profile-main>section{padding:34px 0 8px;border-top:1px solid var(--line)}
+.profile-main h2{font-family:var(--serif);font-size:27px;font-weight:700;letter-spacing:-.01em;margin:0 0 16px}
+.profile-main h3{font-family:var(--serif);font-size:20px;font-weight:700;margin:0 0 6px}
+.profile-main p{font-size:16.5px;line-height:1.75;color:#26251f;margin:0 0 16px;max-width:70ch}
+.profile-rail{display:flex;flex-direction:column;gap:18px;padding-top:22px}
+.profile-portrait{margin:0}
+.rail-box{background:var(--white);border:1px solid var(--line);border-top:4px solid var(--green);border-radius:6px;padding:20px 22px}
+.rail-box h3{font-family:var(--sans);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--green);margin:0 0 12px}
+.rail-box dl{margin:0;font-size:14px;line-height:1.55}
+.rail-box dt{font-weight:600;color:var(--muted);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;margin-top:12px}
+.rail-box dd{margin:2px 0 0;color:var(--ink)}
+.rail-box dd a{color:var(--green)}
+.rail-box ul{margin:0;padding-left:18px;font-size:14px;line-height:1.6}
+.rail-box.disclosure{border-top-color:var(--copper);background:#fbf3e4;border-color:#eadfc2}
+.rail-box.disclosure p{font-size:13.5px;line-height:1.6;color:#4d4223;margin:0 0 8px}
+.rail-box.disclosure p:last-child{margin:0}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 4px}
+.chip{font-family:var(--sans);font-size:12px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--line);background:var(--paper-deep);color:var(--green-deep)}
+.vtag{display:inline-flex;align-items:center;gap:6px;font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:3px 9px;border-radius:999px;vertical-align:middle;text-decoration:none}
+.vtag.ok{background:#e4efe7;color:#173f2f}
+.vtag.src{background:#ece9df;color:#5b5648}
+.vtag.sub{background:#fbe9d6;color:#8a3f15}
+.vtag::before{content:"";width:6px;height:6px;border-radius:50%;background:currentColor}
+.status{display:inline-block;font-family:var(--sans);font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 10px;border-radius:4px}
+.status.completed{background:#173f2f;color:#f6f3ec}
+.status.ongoing{background:#c9a227;color:#191914}
+.status.planned{background:transparent;color:var(--muted);border:1px solid var(--line)}
+.project{border:1px solid var(--line);border-radius:8px;background:var(--white);padding:24px 26px;margin:0 0 18px}
+.project-head{display:flex;flex-wrap:wrap;align-items:center;gap:12px 14px;margin-bottom:8px}
+.project-meta{font-family:var(--sans);font-size:13px;color:var(--muted);margin:0 0 12px}
+.project-meta span+span::before{content:"·";margin:0 8px;color:var(--line)}
+.project ul{margin:8px 0 12px;padding-left:20px;font-size:15px;line-height:1.65}
+.project li{margin-bottom:6px}
+.project .label{font-family:var(--sans);font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--green);font-weight:700;margin:14px 0 4px}
+.project-images{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin:14px 0 6px}
+.project-images img{width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:4px}
+.evidence{font-size:13.5px;color:var(--muted);line-height:1.6}
+.evidence a{color:inherit}
+.milestones{list-style:none;margin:0;padding:0}
+.milestones li{display:grid;grid-template-columns:120px 1fr;gap:18px;padding:16px 0;border-top:1px solid var(--line)}
+.milestones li:first-child{border-top:0}
+.milestones .m-date{font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--copper);padding-top:4px}
+.milestones .m-title{font-family:var(--serif);font-size:18px;font-weight:700;margin:0 0 4px}
+.milestones p{font-size:15px;margin:0 0 6px}
+.milestones img{width:100%;max-width:420px;border-radius:4px;margin:8px 0}
+.coverage{list-style:none;margin:0;padding:0}
+.coverage li{padding:14px 0;border-top:1px solid var(--line);display:grid;grid-template-columns:92px 1fr;gap:16px}
+.coverage li:first-child{border-top:0}
+.coverage .c-date{font-family:var(--sans);font-size:12.5px;color:var(--muted);padding-top:3px}
+.coverage a.c-title{font-family:var(--serif);font-size:17.5px;font-weight:700;line-height:1.3;color:var(--ink);text-decoration:none}
+.coverage a.c-title:hover{color:var(--green)}
+.coverage .c-meta{font-family:var(--sans);font-size:12.5px;color:var(--muted);margin-top:4px}
+.coverage .c-meta .vtag{margin-right:6px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.gallery figure{margin:0}
+.gallery img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:4px}
+.gallery figcaption{font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:6px}
+.fact-list{list-style:none;padding:0;margin:0}
+.fact-list li{padding:12px 0;border-top:1px solid var(--line);font-size:15.5px;line-height:1.6}
+.fact-list li:first-child{border-top:0}
+.fact-list .f-sub{display:block;font-family:var(--sans);font-size:13px;color:var(--muted);margin-top:2px}
+.people-grid .card img{aspect-ratio:4/5}
+@media (max-width:900px){
+  .profile-hero,.profile-layout{grid-template-columns:1fr;gap:24px}
+  .profile-rail{padding-top:0}
+  .profile-portrait{max-width:300px}
+  .milestones li,.coverage li{grid-template-columns:1fr;gap:4px}
+}

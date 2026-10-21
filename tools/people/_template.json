@@ -1,0 +1,94 @@
+{
+  "slug": "firstname-lastname",
+  "published": false,
+  "consent_confirmed": false,
+  "created": "2026-01-01",
+  "updated": "2026-01-01",
+
+  "name": "Full public name",
+  "preferred_name": "First name or the name he is known by",
+  "name_variants": ["Other spellings or forms of the name people search for"],
+  "title": "Professional title, e.g. Entrepreneur and philanthropist",
+  "kicker": "People",
+  "location": "Town, Zambia",
+  "relationship": "commissioned",
+  "disclosure": "",
+
+  "intro": "Two or three factual sentences (80–600 characters): who he is, what he does, where, and what he is known for. No superlatives.",
+  "biography": [
+    "Paragraphs of plain text. Say where facts come from where it matters: 'According to the company's 2024 annual report…'.",
+    "Keep claims to what the subject can document or an independent source has reported."
+  ],
+  "background": [
+    "Professional history as paragraphs, chronological."
+  ],
+  "philanthropy_intro": "Optional paragraph introducing the causes and how the work is organised.",
+  "causes": ["Education", "Health"],
+
+  "affiliations": [
+    {"name": "Organisation", "role": "Founder and chief executive", "url": "https://", "from": "2015", "to": "", "current": true,
+     "verified": false, "source": {"publisher": "PACRA / annual report / press", "title": "", "url": "", "date": ""}}
+  ],
+
+  "projects": [
+    {
+      "id": "short-id",
+      "title": "Project title",
+      "summary": "What the project is, for whom, and why. Plain text, **bold** allowed.",
+      "cause": "Education",
+      "location": "District, Province",
+      "start": "2023-02",
+      "end": "",
+      "status": "Ongoing",
+      "organisations": ["Partner organisation"],
+      "activities": [
+        {"text": "Something that was actually done, with a date.", "verified": false, "source": {"publisher": "", "title": "", "url": ""}}
+      ],
+      "outcomes": [
+        {"text": "An outcome or figure — only with a source, otherwise it is shown as supplied by the subject.", "verified": false, "source": {"publisher": "", "title": "", "url": ""}}
+      ],
+      "images": [
+        {"file": "project-photo.webp", "alt": "Describe what the picture shows", "caption": "", "credit": "", "people_shown": false, "consent": false}
+      ],
+      "evidence": [
+        {"publisher": "Who issued the document", "title": "Document or page title", "url": "https://", "date": "2024-05-01"}
+      ],
+      "stories": ["lusaka-brief-story-slug"],
+      "public": true
+    }
+  ],
+
+  "career": [
+    {"title": "Milestone, e.g. Founded X", "organisation": "X", "period": "2015", "verified": false, "source": {"publisher": "", "url": ""}}
+  ],
+  "education": [
+    {"qualification": "Degree or certificate", "institution": "Institution", "year": "2008", "verified": false, "source": {"publisher": "", "url": ""}}
+  ],
+  "recognition": [
+    {"title": "Award — ONLY if verified with a source url, otherwise delete this entry", "by": "Awarding body", "year": "2024", "verified": false, "source": {"publisher": "", "url": ""}}
+  ],
+  "speaking": [
+    {"title": "Talk or interview title", "event": "Event or outlet", "date": "2025-03", "source": {"publisher": "", "url": ""}}
+  ],
+  "publications": [
+    {"title": "Article or report title", "publisher": "Where it appeared", "date": "2024", "source": {"publisher": "", "url": ""}}
+  ],
+
+  "milestones": [
+    {"date": "2024-05-14", "title": "What happened", "description": "One or two sentences.", "image": "", "alt": "",
+     "verified": false, "source": {"publisher": "", "title": "", "url": ""}, "story": ""}
+  ],
+
+  "coverage_external": [
+    {"outlet": "Publisher", "title": "Headline of the piece", "url": "https://", "date": "2025-06-02", "kind": "independent"}
+  ],
+
+  "portrait": {"file": "portrait.webp", "alt": "Name, head and shoulders", "caption": "", "credit": "Photographer", "consent": false},
+  "gallery": [
+    {"file": "event.webp", "alt": "What the picture shows", "caption": "Where and when", "credit": "Photographer", "people_shown": false, "consent": false}
+  ],
+
+  "links": {"website": "", "linkedin": "", "x": "", "facebook": "", "instagram": "", "youtube": "", "wikipedia": ""},
+  "media_contact": {"email": "", "note": "Optional: who answers media enquiries"},
+  "seo": {"title": "", "description": ""}
+}

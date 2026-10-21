@@ -139,6 +139,19 @@ watch next, and they set out the strongest version of each side of a dispute.
 They do not campaign: no calls to vote for or against anyone, no verdicts on
 who is right in a contested political argument, no first person singular.
 
+**Labelled content and profiled people**
+
+Some stories are not independent reporting: a press release, a written
+interview, a project update or an article supplied by someone with a profile
+on the site (`tools/people/`). Those stories carry `"kind"` and `"people"`
+and the page, the cards and the feed label them; the article opens with a
+disclosure naming the person and their relationship to Lusaka Brief. The rules
+are in `tools/people/README.md`. In short: the lead is always independent
+reporting; a `report` about a profiled person needs two sources that are not
+the person's own channels; anything that came from the person is labelled as
+such, with the person — not a desk — in the byline. Never launder supplied
+material into a `report`.
+
 ---
 
 ## 4. The edition file
@@ -198,6 +211,10 @@ allowed inside paragraphs.
 - **section** — Politics, Economy, Health, Courts, Sport or Culture.
 - **slug** — lowercase words and hyphens, 15–110 characters, never reused.
 - **Minimum length** — lead 420 words, others 260; at least three paragraphs.
+- **kind** — optional; `report` (default), `feature`, `interview`,
+  `project-update`, `press-release`, `supplied` or `opinion`. **people** —
+  optional list of profile slugs the story is about or came from; required for
+  every kind except `report` and `feature`.
 - **image.motif** — one of `assembly`, `ballot`, `scales`, `columns`, `bars`,
   `coins`, `ingots`, `power`, `drop`, `pulse`, `pitch`, `sun`, `globe`, `book`,
   `road`. Leave it out to get the section's default. **image.label** is the
@@ -221,7 +238,9 @@ is written unless the whole edition validates.
 
 `regen` rebuilds the archive, feed and sitemap from `assets/stories.json`.
 `check` verifies that every story has its page and image and that the front
-page, archive, feed and sitemap agree with `stories.json`.
+page, archive, feed and sitemap agree with `stories.json`. `python3
+tools/seo_check.py` goes further (titles, descriptions, canonicals, structured
+data, links, sitemap coverage) and should pass after every edition.
 
 The daily email (`api/digest.php`, run on the server at 12:35 CAT) reads
 `assets/stories.json` and sends the stories dated today, so the edition must be
