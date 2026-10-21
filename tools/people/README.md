@@ -35,6 +35,16 @@ the structured data, which only includes facts marked verified.
    `/people/` index and the sitemap entry. Commit and push to `main`; it is
    live within five minutes. The commit history is the audit log.
 
+## The public record
+
+If a reader searching the person's name would find a reported dispute, court
+case or allegation, the profile must carry it under `public_record`, written
+neutrally and attributed to its source, with the subject's response where one
+has been given. A profile that omits the most prominent coverage of its subject
+is not a reference page but an advertisement, and search engines and readers
+treat it as one. Drafts that contain such material should stay out of the
+public repository until the subject has approved the wording.
+
 ## Disclosure
 
 `relationship` is required and is printed on the profile and on every article

@@ -148,6 +148,9 @@ def validate(pr):
         if not r.get("verified") or not (r.get("source") or {}).get("url"):
             e(f"recognition {i + 1} ({r.get('title', '?')[:30]}): awards are listed only with "
               "\"verified\": true and a source url — otherwise leave them out")
+    for i, r in enumerate(pr.get("public_record") or []):
+        if not (r.get("date") and r.get("summary") and (r.get("source") or {}).get("url")):
+            e(f"public record {i + 1}: date, summary and a source url are required")
     for i, c in enumerate(pr.get("coverage_external") or []):
         if not (c.get("outlet") and c.get("title") and c.get("date")
                 and re.match(r"https?://", c.get("url", ""))):
@@ -282,6 +285,26 @@ def render_milestones(pr, stories_by_slug):
             link = f'<p><a href="/news/{m["story"]}/" style="color:var(--green)">Read the story →</a></p>'
         lis.append(f'<li><span class="m-date">{esc(month(m["date"]))}</span><div>'
                    f'<div class="m-title">{esc(m["title"])} {vtag(m)}</div>{body}{link}</div></li>')
+    return "\n".join(lis)
+
+
+def render_public_record(pr):
+    """Disputes, legal matters and other reported events the reader would expect to find."""
+    items = sorted(pr.get("public_record") or [], key=lambda r: r["date"], reverse=True)
+    if not items:
+        return ""
+    lis = []
+    for r in items:
+        src = r["source"]
+        link = (f'<a href="{attr(src["url"])}" rel="noopener" target="_blank">{esc(src.get("publisher") or "source")}'
+                + (f", “{esc(src['title'])}”" if src.get("title") else "") + "</a>")
+        resp = (f'<p><strong>{esc(pr.get("preferred_name") or pr["name"].split()[0])}\'s response:</strong> '
+                f'{rich(r["response"])}</p>' if r.get("response") else
+                '<p class="evidence">No response from the subject has been recorded yet.</p>')
+        status = f'<p class="evidence"><strong>Status:</strong> {esc(r["status"])}</p>' if r.get("status") else ""
+        lis.append(f'<li><span class="m-date">{esc(month(r["date"]))}</span><div>'
+                   f'<div class="m-title">{esc(r["title"])}</div><p>{rich(r["summary"])} '
+                   f'<span class="evidence">({link})</span></p>{resp}{status}</div></li>')
     return "\n".join(lis)
 
 
@@ -517,6 +540,13 @@ def render_profile(pr, stories, noindex=False):
                         'labelled by kind; independent reporting is distinguished from material supplied by '
                         'the subject. External links open the original publisher.</p>'
                         f'<ul class="coverage">{cov_html}</ul></section>')
+    rec = render_public_record(pr)
+    if rec:
+        sections.append('<section id="public-record"><h2>On the public record</h2>'
+                        '<p style="font-size:14.5px;color:var(--muted)">Reported matters a reader searching this '
+                        'name would expect to find, with the subject\'s response where one has been given. '
+                        'Lusaka Brief does not adjudicate them.</p>'
+                        f'<ul class="milestones">{rec}</ul></section>')
     ms = render_milestones(pr, by_slug)
     if ms:
         sections.append(f'<section id="timeline"><h2>Timeline</h2><ul class="milestones">{ms}</ul></section>')

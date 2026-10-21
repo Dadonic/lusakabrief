@@ -79,6 +79,11 @@
      "verified": false, "source": {"publisher": "", "title": "", "url": ""}, "story": ""}
   ],
 
+  "public_record": [
+    {"date": "2024-09-12", "title": "Short neutral title of the matter", "summary": "What was reported, attributed: 'Kalemba reported that…'. Required for any widely reported dispute, court case or allegation; omitting it would mislead readers.",
+     "source": {"publisher": "Outlet", "title": "Headline", "url": "https://"}, "response": "The subject's response, in his words, if given.", "status": "Outcome or current status, if known"}
+  ],
+
   "coverage_external": [
     {"outlet": "Publisher", "title": "Headline of the piece", "url": "https://", "date": "2025-06-02", "kind": "independent"}
   ],
