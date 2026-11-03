@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-03",
+  "strapline": "Moody's moves Zambia up a notch before Friday's budget, State House answers the fuel anger, a seat without a vote in Mandevu, and Freddie Mwila dies at 80",
+  "stories": [
+    {
+      "lead": true,
+      "developing": false,
+      "slug": "moodys-upgrades-zambia-caa2-to-caa1-positive-outlook-ministry-of-finance-budget-friday-6-november",
+      "section": "Economy",
+      "title": "One notch up, three days before the budget: Moody's lifts Zambia from Caa2 to Caa1 with a positive outlook, and the Treasury says the rating is a means, not an end",
+      "excerpt": "Moody's Ratings raised Zambia's sovereign credit rating to Caa1 on Friday 30 October and kept the outlook positive, the third agency to move the country up since the 2020 default. The Ministry of Finance and National Planning welcomed the decision on Monday 2 November, crediting debt restructuring, fiscal consolidation and a steadier economy, and warning that the rating must be turned into investment and jobs. Situmbeko Musokotwane presents the 2027 budget on Friday 6 November, a week later than first planned.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "moodys",
+        "motif": "bars",
+        "label": "Caa2 to Caa1",
+        "caption": "Moody's Ratings upgraded Zambia's sovereign credit rating from Caa2 to Caa1 with a positive outlook on Friday 30 October 2026; the 2027 National Budget is due in Parliament on Friday 6 November."
+      },
+      "body": [
+        "Zambia's credit standing improved by one step on Friday 30 October, when Moody's Ratings raised the government's sovereign rating from Caa2 to Caa1 and kept its outlook at positive. The Times of Zambia, Zambia Monitor and the Zambian Observer all reported the decision on Monday 2 November, the day the Ministry of Finance and National Planning issued a statement welcoming it. Caa1 remains far down the agency's scale, but the direction matters: a positive outlook signals that a further upgrade is possible if the fiscal and economic reforms behind this one are sustained.",
+        "The Ministry's statement, as reported by Zambia Monitor and the Observer, attributed the upgrade to progress on three fronts, the restructuring of the debt on which Zambia defaulted in 2020, fiscal consolidation and macroeconomic stabilisation, and noted that S&P Global Ratings and Fitch Ratings had already moved the country up for similar reasons. Moody's, in the Observer's account, pointed to a substantial and sustained improvement in the trajectory of government debt.",
+        {"type": "subhead", "text": "What the Treasury says it expects"},
+        "The Ministry listed the benefits it hopes will follow: stronger investor confidence, lower borrowing costs over time, more foreign direct investment and support for a stable exchange rate. It also set a limit on the celebration. Zambia Monitor quoted the statement as saying the rating should not be treated as an end in itself but as an opportunity to attract productive investment and raise living standards. The priority under President Hakainde Hichilema's Grow Zambia Agenda, the Ministry said, is to convert stabilisation into higher investment, production, exports and employment.",
+        "The upgrade arrives three weeks after the staff-level agreement reached with the International Monetary Fund on Friday 9 October for a proposed 36-month Extended Credit Facility worth US$1.472 billion, which still needs the approval of the IMF Executive Board. The Zambian Observer and Zambia Monitor both placed the Moody's decision in that sequence.",
+        {"type": "subhead", "text": "A budget pushed back a week"},
+        "The rating lands in budget week. Finance and National Planning Minister Situmbeko Musokotwane is to present the 2027 National Budget to Parliament on Friday 6 November. News Diggers reported on Wednesday 28 October that Vice-President Mutale Nalumango had told the House the presentation was moving from Friday 30 October to 6 November because work on the budget was still under way, and that the Speaker, Nelly Mutti, would then suspend business for ten working days so that sector budgets could be analysed, with the House returning on Tuesday 24 November.",
+        "The postponement was announced as the National Assembly approved the restructuring of government ministries that took the number of portfolios to 30. Shiwang'andu MP Stephen Kampyongo, in an interview carried by News Diggers on Thursday 29 October, said the delay would leave lawmakers limited time to scrutinise the spending plans before approving them, and that a larger set of ministries sat uneasily with the government's earlier promise of a lean administration, while allowing that the delay was understandable given the restructuring.",
+        {"type": "box", "title": "The sequence", "items": [
+          "9 October — IMF staff-level agreement on a proposed US$1.472 billion, 36-month Extended Credit Facility, subject to Board approval",
+          "28 October — Parliament approves the restructuring to 30 ministries; budget presentation moved to 6 November",
+          "30 October — Moody's upgrades Zambia from Caa2 to Caa1, outlook positive",
+          "2 November — Ministry of Finance and National Planning statement welcomes the upgrade",
+          "6 November — 2027 National Budget presented; House then suspends for ten working days, resuming 24 November"
+        ]},
+        {"type": "confirmed",
+         "confirmed": "The upgrade from Caa2 to Caa1 with a positive outlook, dated Friday 30 October, and the Ministry of Finance and National Planning statement of Monday 2 November are reported by the Times of Zambia, Zambia Monitor and the Zambian Observer. The 9 October IMF staff-level agreement and its US$1.472 billion value are as reported by Zambia Monitor and the Observer. The budget date of Friday 6 November is reported by the Times of Zambia and Zambia Monitor; the reasons for the postponement are as reported by News Diggers.",
+         "unverified": "This edition relies on press reports of the Ministry's statement rather than the full Moody's rating action, so the agency's complete reasoning, and any conditions it attached to the positive outlook, are not set out here. The effect on Zambia's borrowing costs is an expectation, not yet a measured outcome. What the 2027 budget will contain is unknown until Friday."}
+      ],
+      "sources": [
+        {"outlet": "Times of Zambia", "title": "Moody's upgrades Zambia's credit rating", "date": "2 Nov 2026", "url": "https://times.co.zm/moodys-upgrades-zambias-credit-rating/"},
+        {"outlet": "Zambia Monitor", "title": "Zambia moves up credit rating ladder after default", "date": "2 Nov 2026", "url": "https://www.zambiamonitor.com/zambia-moves-up-credit-rating-ladder-after-default/"},
+        {"outlet": "Zambian Observer", "title": "Moody's Upgrades Zambia's Credit Rating", "date": "2 Nov 2026", "url": "https://zambianobserver.com/moodys-upgrades-zambias-credit-rating/"},
+        {"outlet": "News Diggers", "title": "Govt pushes 2027 budget unveiling to Nov 6", "date": "28 Oct 2026", "url": "https://diggers.news/local/2026/10/28/govt-pushes-2027-budget-unveiling-to-nov-6/"},
+        {"outlet": "News Diggers", "title": "Budget delay will leave MPs with less time for scrutiny – Kampyongo", "date": "29 Oct 2026", "url": "https://diggers.news/local/2026/10/29/budget-delay-will-leave-mps-with-less-time-for-scrutiny-kampyongo/"}
+      ]
+    },
+    {
+      "slug": "state-house-mulobela-fuel-prices-brent-112-us-200-million-relief-omcaz-open-access-k5-markup",
+      "section": "Economy",
+      "tag": "Economy · Fuel",
+      "title": "'Working round the clock': State House says the US$200 million fuel relief had to end to protect free education and cash transfers, as oil marketers blame a K5 pipeline mark-up",
+      "excerpt": "Two days after the ERB set petrol at K33.06 and diesel at K34.45, State House spokesman Whitney Mulobela said the President was working to soften the blow, blamed Brent crude at about US$112 a barrel and attacks on tankers in the Strait of Hormuz, and explained why the April-to-September tax holiday was not renewed. The Oil Marketing Companies Association says prices will keep climbing unless the pipeline's open-access rules are changed.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "pump",
+        "motif": "drop",
+        "label": "The price of a barrel",
+        "caption": "State House set out on Monday 2 November 2026 why the fuel tax relief of April to September was not extended, after the Energy Regulation Board's November increase to K33.06 for petrol and K34.45 for diesel."
+      },
+      "body": [
+        "State House moved on Monday 2 November to answer public anger over two consecutive fuel price rises, with its Chief Communications Strategist, Whitney Mulobela, saying President Hakainde Hichilema was working to ease the effect on households, businesses and farmers. In a Facebook post quoted by the Zambia Daily Mail, Mulobela said the government was working round the clock on it. The Zambian Observer, reporting the same statement, quoted him as saying the frustration was legitimate.",
+        "Mulobela's explanation for the increases was external. Brent crude, he said, was trading at about US$112 a barrel, roughly 73 per cent above its level a year earlier, and attacks on tankers in the Strait of Hormuz had unsettled supply. Zambia imports all of its refined petroleum. The Energy Regulation Board's review on Saturday 31 October set petrol at K33.06 a litre and diesel at K34.45, which News Diggers put at increases of K1.60 and K1.18 respectively, following what State House described as a K6 rise in October.",
+        {"type": "subhead", "text": "Why the tax holiday was not extended"},
+        "Between April and September the government suspended excise duty on fuel and zero-rated it for VAT. Mulobela said those measures, together with the ERB's price-smoothing mechanism, held pump prices between K25 and K28 a litre, allowed a cut in August, and kept diesel stocks at about 60 days of national cover, at a cost to the Treasury of roughly US$200 million in revenue forgone. The relief had been premised on global conditions calming, he said, and they did not. The choice, as he framed it, was between an open-ended fuel subsidy and funding for free education, the enhanced Constituency Development Fund, school feeding and the Social Cash Transfer. Excise duty returned in October; according to the Observer, VAT is to return in phases from Tuesday 1 December.",
+        "The Observer's report carried a regional comparison supplied with the statement: at about K20 to the US dollar, petrol in Malawi was put at about K65 a litre, Zimbabwe K41, South Africa K37, Namibia K32, Tanzania K31, Mozambique K30 and Botswana K29, the last with levies suspended. Mulobela said Zambia's diesel was cheaper than South Africa's, Mozambique's or Malawi's.",
+        "The same report recalled that the President has ordered a review of the ERB's monthly pricing cycle, having told Parliament on Friday 9 October that frequent changes make it hard for families to budget and for businesses to plan, and that the new Ministry of Petroleum under Makozo Chikote, created when the Energy Ministry was split on Wednesday 28 October, lists among its priorities a US$1.1 billion, 60,000-barrel-a-day refinery at Ndola targeted for the end of 2028, a 1,400-kilometre pipeline from Lobito to Lusaka, tied to the Lobito refinery in which Zambia holds a 26 per cent stake, local ethanol blending and a directive that public bodies buy only electric vehicles. Zambia spent US$2.11 billion importing refined fuel in 2024, the Observer reported.",
+        {"type": "subhead", "text": "The marketers' counter-argument"},
+        "The Oil Marketing Companies Association of Zambia takes a different view of where the pressure comes from. Its president, Dr Kafula Mubanga, told News Diggers that prices would keep rising unless the government restructured the Open Access Framework governing the TAZAMA pipeline. He accused a small number of marketing companies of exploiting limited competition on the line to earn excessive margins, which he put at about K5 a litre, and argued that opening the pipeline to more Zambian-owned firms would bring prices down. The rest of his remarks sit behind the paper's paywall.",
+        {"type": "quote", "text": "Personally, I don't like it.", "attribution": "President Hakainde Hichilema on the monthly fuel pricing cycle, addressing Parliament on Friday 9 October, as quoted by the Zambian Observer on Monday 2 November"}
+      ],
+      "sources": [
+        {"outlet": "Zambia Daily Mail", "title": "Govt working to cushion fuel prices – State House", "date": "2 Nov 2026", "url": "https://www.daily-mail.co.zm/2026/11/02/govt-working-to-cushion-fuel-prices-state-house/"},
+        {"outlet": "Zambian Observer", "title": "Govt Attributes Fuel Hikes to Global Instability, Says Prices Still Among Lowest in SADC", "date": "2 Nov 2026", "url": "https://zambianobserver.com/govt-attributes-fuel-hikes-to-global-instability-says-prices-still-among-lowest-in-sadc/"},
+        {"outlet": "News Diggers", "title": "Fuel prices will keep rising unless govt changes pipeline policy – OMCAZ", "date": "2 Nov 2026", "url": "https://diggers.news/business/2026/11/02/fuel-prices-will-keep-rising-unless-govt-changes-pipeline-policy-omcaz/"}
+      ]
+    },
+    {
+      "slug": "upnd-mufalali-denies-tonse-mandevu-threat-claims-chipenzi-sioma-mbeta-ward-poll-staff-thursday-5-november",
+      "section": "Politics",
+      "tag": "Politics · By-elections",
+      "title": "'Malicious and unfounded': the UPND denies that anyone pushed the Tonse candidate out of Mandevu, as an ECZ commissioner tells Sioma poll staff not to expect a rosy Thursday",
+      "excerpt": "UPND elections chairman Likando Mufalali has rejected the Tonse Alliance's claim that its Mandevu candidate, Daniel Chisenga, was threatened into withdrawing, two days before Adrian Banda is declared MP without a vote. In Sioma, ECZ commissioner McDonald Chipenzi closed poll staff training for the Mbeta ward by-election with a warning that polling stations can be chaotic and a reminder that democracy means hearing views one does not share.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "byelection",
+        "motif": "ballot",
+        "label": "Thursday without Mandevu",
+        "caption": "The Electoral Commission of Zambia will declare Adrian Banda elected for Mandevu on Thursday 5 November 2026 without a poll; ward by-elections, including Mbeta in Sioma, go ahead the same day."
+      },
+      "body": [
+        "The argument over how Mandevu came to have a single candidate continued on Monday 2 November, when the UPND's Chairperson for Elections, Likando Mufalali, dismissed the Tonse Alliance's account of its candidate's withdrawal as malicious and unfounded. News Diggers reported that Mufalali said nobody had pursued, intimidated or forced the opposition candidate out, and that the party believes in peaceful elections and does not engage in criminal activity.",
+        "The claim he was answering was made on Friday 30 October by Tonse Alliance Secretary-General Muhabi Lungu. According to the Zambian Observer, Lungu said Daniel Chisenga, the Forum for Democracy and Development candidate standing for the alliance, had withdrawn partly because of threats, including a telephone call in which Lusaka Province Minister Obvious Mwaliteta allegedly warned him that he would be arrested on polling day and charged with non-bailable offences unless he stood down. Lungu said the threats extended to Chisenga's family, that Chisenga had asked to move temporarily into Lungu's home, and that the alliance would complain to the Inspector General of Police about officers' conduct. He played an audio recording at the briefing. The Observer's report carried no response from Mwaliteta; the UPND's denial came through Mufalali on Monday.",
+        {"type": "subhead", "text": "A declaration, not a poll"},
+        "Whatever the cause, the effect is settled. Zambia Monitor reported on Friday 30 October that the Electoral Commission of Zambia had received letters dated Wednesday 28 October from all three of Adrian Banda's opponents, Ntazana Musukuma Mutungwa of the Leadership Movement, Chisenga, and the independent Daniel Daka, withdrawing with immediate effect. Chief Electoral Officer Brown Kasaro's notice said that, under Regulations 20(3) and 52(2) of the Electoral Process (General) Regulations of 2016, Banda, the UPND candidate, would be declared duly elected without a poll with effect from Thursday 5 November. The notice gave no reasons for the withdrawals and did not say whether the Commission had received complaints of intimidation. Lungu had asked the ECZ to halt the by-election so that the alliance could field a replacement.",
+        "Police had prepared for a contested vote. Inspector General Graphael Musamba said on Saturday 24 October, in a statement reported by Zambia Monitor, that Mandevu had been divided into three security zones, each under its own commander, with extra officers drawn from Lusaka Province, and that an alleged assault on members of a political party on Thursday 22 October was being investigated.",
+        {"type": "subhead", "text": "The vote that does go ahead"},
+        "Ward by-elections are still held on Thursday. In Sioma, where the Mbeta ward seat is being filled, ECZ Commissioner McDonald Chipenzi closed the training of poll staff on Monday with advice that News Diggers reported on Tuesday 3 November: stay alert, professional and neutral, and do not assume the day will run smoothly. Democracy, he said, means being able to entertain a view without accepting it. The Mbeta seat was among eleven ward vacancies, together with the Mandevu parliamentary seat, for which the Commission set 5 November when it published the by-election timetable on Saturday 26 September; the vacancies arose from deaths of candidates, uncontested races at the August general election and nominations struck out by the Local Government Elections Tribunal.",
+        {"type": "quote", "text": "Don't think that everything will be rosy in these polling stations.", "attribution": "McDonald Chipenzi, ECZ Commissioner, to poll staff in Sioma on Monday 2 November, as reported by News Diggers"}
+      ],
+      "sources": [
+        {"outlet": "News Diggers", "title": "No one forced Tonse candidate to withdraw from Mandevu race – UPND", "date": "2 Nov 2026", "url": "https://diggers.news/local/2026/11/02/no-one-forced-tonse-candidate-to-withdraw-from-mandevu-race-upnd/"},
+        {"outlet": "News Diggers", "title": "Democracy demands tolerance of opposing views – ECZ", "date": "3 Nov 2026", "url": "https://diggers.news/local/2026/11/03/democracy-demands-tolerance-of-opposing-views-ecz/"},
+        {"outlet": "Zambian Observer", "title": "Mwaliteta Is Among Those Who Threatened Our Mandevu Candidate to Withdraw – Muhabi Lungu", "date": "30 Oct 2026", "url": "https://zambianobserver.com/mwaliteta-is-among-those-who-threatened-our-mandevu-candidate-to-withdraw-muhabi-lungu-has-revealed/"},
+        {"outlet": "Zambia Monitor", "title": "Mandevu by-election called off. Here's why", "date": "30 Oct 2026", "url": "https://www.zambiamonitor.com/mandevu-by-election-called-off-heres-why/"},
+        {"outlet": "Zambia Monitor", "title": "Musamba warns against political violence ahead of Mandevu by-election", "date": "24 Oct 2026", "url": "https://www.zambiamonitor.com/musamba-warns-against-political-violence-ahead-of-mandevu-by-election/"},
+        {"outlet": "Zambia Monitor", "title": "Electoral Commission of Zambia announces date for four key by-elections, 11 ward polls", "date": "26 Sep 2026", "url": "https://www.zambiamonitor.com/electoral-commission-of-zambia-announces-date-for-four-key-by-elections-11-ward-polls/"}
+      ]
+    },
+    {
+      "slug": "haimbe-represents-hichilema-chogm-antigua-barbuda-1-4-november-cmag-vice-chair-commonwealth-youth-centre-bid",
+      "section": "Politics",
+      "tag": "Politics · Diplomacy",
+      "title": "Antigua, not the President: Haimbe carries Zambia's case to the Commonwealth summit, sits as Vice-Chair of the ministerial action group and lobbies to bring the Youth Centre back",
+      "excerpt": "Foreign Minister Mulambo Haimbe is representing President Hichilema at the Commonwealth Heads of Government Meeting in Antigua and Barbuda from Sunday 1 to Wednesday 4 November. The Ministry of Foreign Affairs says the delegation will sell the Grow Zambia Agenda to investors, sit as Vice-Chair of the Commonwealth Ministerial Action Group and press Zambia's bid to host the Commonwealth Youth Centre again.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "chogm",
+        "motif": "globe",
+        "label": "Zambia at CHOGM",
+        "caption": "The 2026 Commonwealth Heads of Government Meeting runs in Antigua and Barbuda from 1 to 4 November 2026; Foreign Minister Mulambo Haimbe leads Zambia's delegation in place of President Hichilema."
+      },
+      "body": [
+        "Zambia is represented at the 2026 Commonwealth Heads of Government Meeting by its Minister of Foreign Affairs and International Cooperation, Mulambo Haimbe, rather than by the President. Zambia Monitor reported on Monday 2 November that Haimbe had arrived in Antigua and Barbuda, where the summit runs from Sunday 1 to Wednesday 4 November under the theme of accelerating partnerships and investment for a prosperous Commonwealth.",
+        "The Ministry set out its reasons in a statement issued in Lusaka on Monday by its spokesperson, Eva Chanda, reported by both Zambia Monitor and Open Zambia. Attendance, it said, reflects Zambia's commitment to multilateral cooperation, economic diplomacy, and peace, security and democracy. The practical aim is to advance the government's Grow Zambia Agenda by presenting the country as an investment destination, widening access to markets and seeking development financing, and by holding bilateral meetings on the margins with member states and international partners.",
+        {"type": "subhead", "text": "The minister's programme"},
+        "Haimbe is due at the Commonwealth Foreign Affairs Ministers' Meeting and at the 75th session of the Commonwealth Ministerial Action Group, where Zambia currently holds the Vice-Chair. Other members of the delegation are to attend the Commonwealth Business Forum and side events on youth, gender, health, climate and people-centred development, and the statement said Zambia would contribute African perspectives on global economic governance, climate financing, trade, peace and security, democratic governance and inclusive development.",
+        "One specific ask travels with the delegation: Zambia's bid to host the Commonwealth Youth Centre once more. Both reports note that the bilateral meetings are intended partly to build support for that bid alongside trade and investment.",
+        "Neither report records a reason for the President's absence; the Ministry's statement, as reported, addressed what the delegation will do rather than who is not there."
+      ],
+      "sources": [
+        {"outlet": "Zambia Monitor", "title": "Why Zambia is attending Commonwealth Heads of Government Meeting", "date": "2 Nov 2026", "url": "https://www.zambiamonitor.com/why-zambia-is-attending-commonwealth-heads-of-government-meeting/"},
+        {"outlet": "Open Zambia", "title": "Haimbe represents Hichilema at Commonwealth summit as Zambia pursues trade and investment partnerships", "date": "2 Nov 2026", "url": "https://www.openzambia.com/politics/2026/11/2/haimbe-represents-hichilema-at-commonwealth-summit-as-zambia-pursues-trade-and-investment-partnerships"}
+      ]
+    },
+    {
+      "slug": "mpundu-sedition-case-surety-mulenga-fube-held-kabwata-police-produce-tuesday-kangombe-unwell-milumbe",
+      "section": "Courts",
+      "tag": "Courts · Sedition",
+      "title": "A surety in the cells: the magistrate orders the State to produce Mulenga Fube on Tuesday, as Binwell Mpundu's bench warrant stands and Kang'ombe sends word he is unwell",
+      "excerpt": "The day set for Binwell Mpundu's sureties to produce him or explain his absence ended with one of them in police custody. The Zambian Observer reports that Magistrate Webster Milumbe directed the State on Monday 2 November to bring former Chilubi MP Mulenga Fube, held at Kabwata Police Station, to court on Tuesday, and gave Christopher Kang'ombe, said to be unwell, another date. Mpundu, wanted on a bench warrant since 13 October in a seditious practices case, has still not appeared.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "sureties",
+        "motif": "scales",
+        "label": "Produce the surety",
+        "caption": "The Lusaka Magistrates' Court ordered on Monday 2 November 2026 that Mulenga Fube, a surety for former Nkana MP Binwell Mpundu, be produced from Kabwata Police Station the following day."
+      },
+      "body": [
+        "Monday 2 November was the date on which the Lusaka Magistrates' Court had told the two sureties of former Nkana MP Binwell Mpundu to appear and either produce him or say where he is. According to the Zambian Observer, the hearing before Magistrate Webster Milumbe instead ended with an order that the State produce one of those sureties, former Chilubi MP Mulenga Fube, in court on Tuesday 3 November. The Observer reported that Fube was being held at Kabwata Police Station following what it described as an alleged felony arrest; it did not say what he is suspected of, and no charge against him has been reported.",
+        "The second surety, former Kamfinsa MP Christopher Kang'ombe, was reported to the court to be unwell, and the magistrate set a separate date for him to attend. Mpundu himself did not appear, and the bench warrant against him remains in force. This account of Monday's proceedings rests on the Observer's report; the other outlets that have followed the case had not reported the hearing by the time of publication.",
+        {"type": "subhead", "text": "How the case reached this point"},
+        "The warrant was issued on Tuesday 13 October, after Mpundu failed to attend a hearing at which the court was to rule on whether the prosecution had made out a case for him to answer. Zambia Monitor and the Zambia Daily Mail both reported the warrant and the magistrate's order that the sureties appear on 2 November; the Daily Mail added that senior public prosecutor Abraham Ngozo told the court no explanation had been offered for the absence. Fube was in court that day; Kang'ombe was not. The Daily Mail noted that Mpundu is also presidential affairs chairman of the National Reconciliation Party for Unity and Prosperity.",
+        "It was not his first missed date. On Thursday 20 August, Zambia Monitor reported, Mpundu was absent from a hearing at which the same ruling had been expected; his lawyer, Norman Siwila, said none of his client's telephone numbers was reachable, Kang'ombe was on the Copperbelt and Fube could not be contacted, and the sureties were ordered to attend on 17 September.",
+        {"type": "subhead", "text": "The charge"},
+        "Mpundu faces one count of seditious practices under section 57(1)(b), read with section 60(1)(i), of the Penal Code. The prosecution alleges that on Friday 20 December 2024 he published material encouraging politicians to arm themselves, after allegedly altering the words of a phrase about defending oneself with equal measure. The court has heard the prosecution's case; the pending ruling is on whether he must enter a defence. The allegation is untested, and no account of Mpundu's reasons for his absence has been reported.",
+        {"type": "confirmed",
+         "confirmed": "The bench warrant of 13 October, the order that the sureties appear on 2 November, the charge and the earlier missed hearing of 20 August are reported by Zambia Monitor and the Zambia Daily Mail. The Observer reports Monday's order that Fube be produced on Tuesday, his detention at Kabwata Police Station and Kang'ombe's reported illness.",
+         "unverified": "Why Fube was arrested, and on what suspicion, has not been reported; the Observer's description of an alleged felony arrest is its own. Mpundu's whereabouts and his reasons for not attending are unknown. Only one outlet had reported Monday's hearing at the time of writing."}
+      ],
+      "sources": [
+        {"outlet": "Zambian Observer", "title": "Magistrate Court Orders Ex-MPs Mulenga Fube and Christopher Kang'ombe to Appear Before Court", "date": "2 Nov 2026", "url": "https://zambianobserver.com/magistrate-court-orders-ex-mps-mulenga-fube-and-christopher-kangombe-to-appear-before-court/"},
+        {"outlet": "Zambia Monitor", "title": "Court issues bench warrant for former Nkana MP, Binwell Mpundu", "date": "13 Oct 2026", "url": "https://www.zambiamonitor.com/court-issues-bench-warrant-for-former-nkana-mp-binwell-mpundu/"},
+        {"outlet": "Zambia Daily Mail", "title": "Court issues bench warrant against Binwell", "date": "14 Oct 2026", "url": "https://www.daily-mail.co.zm/2026/10/14/court-issues-bench-warrant-against-binwell/"},
+        {"outlet": "Zambia Monitor", "title": "Former Nkana MP, Mpundu fails to appear in court as six election-day detainees seek judicial intervention", "date": "21 Aug 2026", "url": "https://www.zambiamonitor.com/former-nkana-mp-mpundu-fails-to-appear-in-court-as-six-election-day-detainees-seek-judicial-intervention/"}
+      ]
+    },
+    {
+      "slug": "fic-trends-report-cross-border-scheme-company-b-k222-million-us-5-7-million-payment-providers",
+      "section": "Economy",
+      "tag": "Economy · Financial crime",
+      "title": "K222 million and US$5.7 million in three months: the FIC's second case study describes a business-support company that was really a payment channel",
+      "excerpt": "The Financial Intelligence Centre's 11th Money Laundering Trends Report contains a second worked example that News Diggers and the Rio Times reported on Monday 2 November: five unnamed companies, only one of them a licensed payment provider, moved money across borders under labels such as equipment purchase. The case has been passed to law enforcement; no one has been charged.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "fic",
+        "motif": "coins",
+        "label": "Companies A to E",
+        "caption": "The Financial Intelligence Centre's 11th Money Laundering Trends Report, covering 2025, describes a suspected cross-border scheme run through payment service providers; it was reported on Monday 2 November 2026."
+      },
+      "body": [
+        "Days after the Financial Intelligence Centre's annual trends report made headlines for its estimate of US$1.8 billion in suspected illicit flows, a second case study from the same document has surfaced. News Diggers reported on Monday 2 November that a company registered to provide business support services received more than K222 million and US$5.7 million within three months, routed through a network of payment firms registered for unrelated activities, among them money transfer, transport support and soft-drink manufacturing. The Rio Times, which also read the report, put the combined sum at roughly US$16.7 million.",
+        "The FIC names nobody. Its companies are lettered A to E. According to the Rio Times, Company B, the recipient of the K222 million, was registered as a business support services provider but was not a licensed payment firm, and its ultimate owners were two West African nationals. Company A, a remittance business, showed money moving quickly with little visible commercial activity behind it, with many transfers described as equipment purchases. News Diggers reported that Company A held accounts at three banks and received K85 million and US$21 million between June 2024 and August 2025. Of the three linked firms, only Company C was properly registered as a payment provider, and only Companies B and C were registered for tax.",
+        {"type": "subhead", "text": "Suspected, not proven"},
+        "The FIC classifies the case as abuse of payment service providers and has referred it to law enforcement. The Rio Times stressed that the activity is described as suspected rather than established and that no charges have been announced; a separate matter involving a company it labels AX was also referred for investigation. The Diggers report carried the figure of K222 million in its standfirst and a figure of more than K300 million in its headline, a difference the paper did not explain in the portion of the article available to non-subscribers.",
+        "The report's wider findings were set out by Zambia Monitor on Wednesday 28 October: 786 intelligence reports passed to law enforcement in 2025, down 17.4 per cent from 951 the year before, of which 580 concerned suspected tax evasion and 192 suspected money laundering; tax assessments by the Zambia Revenue Authority of more than K12.5 billion including penalties and interest; eight convictions and forfeitures worth US$3.3 million; and suspected illicit financial flows of US$1.8 billion, down from US$3.5 billion in 2024.",
+        "The Rio Times added a forward-looking note of its own: Zambia faces a peer review of its anti-money-laundering regime in 2027, and a weak result could bring closer scrutiny of its financial links abroad. That assessment is the paper's, not the FIC's."
+      ],
+      "sources": [
+        {"outlet": "News Diggers", "title": "FIC exposes more money laundering scheme involving over K300m", "date": "2 Nov 2026", "url": "https://diggers.news/local/2026/11/02/fic-exposes-suspected-money-laundering-scheme-involving-k222m-5-7m/"},
+        {"outlet": "The Rio Times", "title": "Zambia Money Laundering Scheme Tops US$16M", "date": "2 Nov 2026", "url": "https://www.riotimesonline.com/zambia-money-laundering-scheme-fic-report-us16-million-2026/"},
+        {"outlet": "Zambia Monitor", "title": "FIC flags 580 suspected tax evasion cases, as illicit financial flows hit $1.8 billion", "date": "28 Oct 2026", "url": "https://www.zambiamonitor.com/fic-flags-580-suspected-tax-evasion-cases-as-illicit-financial-flows-hit-1-8-billion/"}
+      ]
+    },
+    {
+      "slug": "freddie-mwila-snr-dies-aged-80-atlanta-chiefs-aston-villa-1974-afcon-final-power-dynamos-1991",
+      "section": "Sport",
+      "tag": "Sport · Obituary",
+      "title": "Freddie Mwila, the captain of 1967, the Atlanta Chief who scored twice against Manchester City, and the coach who won Zambia's only continental club title, dies at 80",
+      "excerpt": "Freddie Mwila Snr died at about 01:00 on Monday 2 November at Maina Soko Medical Centre in Lusaka after a stroke, his family said. One of the first Zambians to play professionally abroad, a member of the side that reached the 1974 Africa Cup of Nations final and the coach of Power Dynamos' 1991 African Cup Winners' Cup side, he was 80. Mourners are gathering at the family home at Mapepe Farms in Chilanga.",
+      "dateline": "CHILANGA",
+      "image": {
+        "key": "mwila",
+        "motif": "pitch",
+        "label": "Freddie Mwila, 80",
+        "caption": "Freddie Mwila Snr, former Zambia captain and coach, died in Lusaka on Monday 2 November 2026 aged 80."
+      },
+      "body": [
+        "Freddie Mwila Snr, who captained Zambia as a young man, played for Aston Villa, and later coached Power Dynamos to the only continental club trophy a Zambian side has ever won, died in the early hours of Monday 2 November. ZamFoot reported that he suffered a stroke and died at about 01:00 at Maina Soko Medical Centre in Lusaka, and that his family's spokesperson, Lillian Kalikeka, confirmed the death to FAZ Media. He was 80. Funeral gatherings are being held at the family home at Mapepe Farms in Chilanga.",
+        "The government's tribute came from the Minister of Youth and Sports, Likando Mufalali, who in a statement reported by ZamFoot praised Mwila's contribution as both player and coach.",
+        {"type": "quote", "text": "His legacy will continue to inspire generations.", "attribution": "Likando Mufalali, Minister of Youth and Sports, in a statement on Monday 2 November reported by ZamFoot"},
+        {"type": "subhead", "text": "The player"},
+        "Mwila made his Zambia debut in 1965 at 18 and two years later captained the side that won the Jamhuri Cup. In 1967 he, Emment Kapengwe and Howard Mwikuta joined Atlanta Chiefs, becoming some of the first Zambians to turn professional abroad; the Chiefs won the 1968 league title, and ZamFoot records that Mwila scored twice in a 3–2 win over Manchester City. In 1969 he and Kapengwe moved to Aston Villa, where he spent about nine months. He was part of the Zambia team that reached the 1974 Africa Cup of Nations final, lost to Zaire after a replay, and finished with 15 international goals.",
+        {"type": "subhead", "text": "The coach"},
+        "His defining achievement on the touchline came in 1991, when Power Dynamos won the African Cup Winners' Cup and the domestic league in the same season. No Zambian club has won a CAF inter-club competition since. Mwila went on to coach several Zambian clubs and Botswana's national team, was assistant coach to Zambia at the 1992 Africa Cup of Nations, and was appointed head coach of the national side in November 1996.",
+        "He largely withdrew from the game after a road accident in South Africa in 2003 that broke both his legs; the driver, the Malawian coach Robert Banda, was killed."
+      ],
+      "sources": [
+        {"outlet": "ZamFoot", "title": "Zambia football legend Freddie Mwila Snr dies aged 80", "date": "2 Nov 2026", "url": "https://zambianfootball.co.zm/zambia-football-legend-freddie-mwila-snr-dies-aged-80/"},
+        {"outlet": "ZamFoot", "title": "Government mourns Zambia football legend Freddie Mwila Snr", "date": "2 Nov 2026", "url": "https://zambianfootball.co.zm/government-mourns-zambia-football-legend-freddie-mwila-snr/"}
+      ]
+    },
+    {
+      "slug": "faz-fines-power-dynamos-k100000-suspended-arthur-davies-ban-mutandwa-out-burundi-13-november",
+      "section": "Sport",
+      "tag": "Sport · Football",
+      "title": "Power Dynamos pay the same K100,000 as Nkana, with a three-match Arthur Davies ban held over them, as Kingstone Mutandwa's knee rules him out of the Burundi qualifier",
+      "excerpt": "The FAZ Disciplinary Committee's verdict on political chanting covers both Kitwe clubs: Power Dynamos are fined K100,000 for the 11 October match against Nchanga Rangers and face a suspended three-match ban from Arthur Davies Stadium. Meanwhile the Chipolopolo have lost striker Kingstone Mutandwa to a knee injury suffered with Servette, about eight weeks before the 13 November AFCON qualifier against Burundi at National Heroes Stadium.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "dynamos",
+        "motif": "pitch",
+        "label": "Both Kitwe clubs fined",
+        "caption": "The Football Association of Zambia's disciplinary committee announced sanctions against Power Dynamos and Nkana on Sunday 1 November 2026 over political chants at MTN Super League matches on 10 and 11 October."
+      },
+      "body": [
+        "The Football Association of Zambia's sanction for political chanting was not confined to Nkana. A statement from Football House dated Sunday 1 November, reproduced by the Zambian Observer and reported by ZamFoot and News Diggers, records that the Disciplinary Committee also fined Power Dynamos K100,000 and imposed a three-match ban from Arthur Davies Stadium that is suspended and takes effect only if the club's supporters repeat the offence.",
+        "The Power Dynamos case arose from the Week Two MTN Super League match against Nchanga Rangers at Arthur Davies Stadium in Kitwe on Sunday 11 October, a day after similar chants at Nkana Stadium during Nkana's game against Makeni All Stars. The complaint, lodged by the Zambian Premier League in a show-cause letter dated 12 October, said a considerable section of the home support had repeatedly chanted political slogans. The club condemned the chants, acknowledged its responsibility for supporter conduct, expressed regret and called the incident isolated. The committee found a breach of Article 3 of the FAZ constitution, which bars political slogans at football venues, and reached its decision unanimously.",
+        {"type": "subhead", "text": "Two verdicts, one fine, different bans"},
+        "Nkana's penalty, as reported on Sunday, was the heavier: the same K100,000, payable within 72 hours, and five home matches at a neutral venue at least 300 kilometres from Nkana Stadium without spectators, partially suspended and activated only on a repeat offence. Both clubs may appeal within 72 hours of receiving the verdicts. FAZ General Secretary Charles Chakatazya thanked the committee for acting quickly and said the game could not be allowed to become a political battleground; the statement was issued by Nkweto Tembwe, the association's head of media and communications.",
+        {"type": "subhead", "text": "Mutandwa out, Heroes Stadium in"},
+        "The national team's preparations for the Africa Cup of Nations qualifier against Burundi on Friday 13 November have lost a forward. ZamFoot reported on Monday 2 November that Kingstone Mutandwa injured a knee playing for Servette against St Gallen in the Swiss league at the weekend; the club said he would be out for about eight weeks, with a return expected early in 2027. Mutandwa wrote on Facebook that he was disappointed but grateful the injury was not worse, and would concentrate on recovery.",
+        "The match itself has moved. ZamFoot and AfricaSoccer reported on Thursday 29 October that CAF had granted National Heroes Stadium in Lusaka temporary Category 3 approval for November, after a technical assessment from 19 to 22 October and a communication dated 28 October, so the Burundi game leaves Levy Mwanawasa Stadium in Ndola for the capital, as does the under-23 Olympic qualifier against Burkina Faso on Sunday 15 November. Chakatazya said the assessment confirmed the stadium met the key requirements, thanked the government for the renovation, and acknowledged that CAF had flagged concerns to be addressed before a further inspection."
+      ],
+      "sources": [
+        {"outlet": "ZamFoot", "title": "Power Dynamos fined K100,000 over political chants, handed suspended stadium ban", "date": "1 Nov 2026", "url": "https://zambianfootball.co.zm/power-dynamos-fined-k100000-over-political-chants-handed-suspended-stadium-ban/"},
+        {"outlet": "Zambian Observer", "title": "FAZ Renders Verdict on Political Chants at Stadia", "date": "1 Nov 2026", "url": "https://zambianobserver.com/faz-renders-verdict-on-political-chants-at-stadia/"},
+        {"outlet": "News Diggers", "title": "FAZ fines Power, Nkana K100,000 each for fans' political chants", "date": "2 Nov 2026", "url": "https://diggers.news/goal-diggers/2026/11/02/faz-fines-power-nkana-k100000-each-for-fans-political-chants/"},
+        {"outlet": "ZamFoot", "title": "Mutandwa ruled out of Zambia's AFCON 2027 qualifier against Burundi", "date": "2 Nov 2026", "url": "https://zambianfootball.co.zm/mutandwa-ruled-out-of-zambias-afcon-2027-qualifier-against-burundi/"},
+        {"outlet": "ZamFoot", "title": "CAF grants National Heroes Stadium temporary approval for November matches", "date": "29 Oct 2026", "url": "https://zambianfootball.co.zm/caf-grants-national-heroes-stadium-temporary-approval-for-november-matches/"},
+        {"outlet": "AfricaSoccer", "title": "2027 AFCON qualifiers: Zambia move Burundi clash to National Heroes Stadium after CAF approval", "date": "29 Oct 2026", "url": "https://africasoccer.com/2027-afcon-qualifiers-zambia-move-burundi-clash-to-national-heroes-stadium-after-caf-approval/"}
+      ]
+    },
+    {
+      "slug": "ceremony-season-kasune-ikubi-lya-malumbe-chibuluma-mumbwa-hichilema-guta-mweenze-nyawa-kazungula-palaces",
+      "section": "Culture",
+      "tag": "Culture · Traditional ceremonies",
+      "title": "Two ceremonies, two speeches read for the President: Kasune ties Chibuluma's Ikubi Lya Malumbe to five million tourists, and Chief Nyawa's Guta Mweenze hears a promise on palaces",
+      "excerpt": "At the Ikubi Lya Malumbe ceremony of Chief Chibuluma in Mumbwa, Tourism Minister Princess Kasune said heritage is a resource for development as well as identity. At Chief Nyawa's Guta Mweenze in Kazungula, Home Affairs Minister Mancel Ameleki read a presidential speech warning that a divided society cannot grow and promising that no chief will be left without a decent palace. Both were reported by the Times of Zambia.",
+      "dateline": "MUMBWA",
+      "image": {
+        "key": "ceremony",
+        "motif": "sun",
+        "label": "Ceremony season",
+        "caption": "The 2026 Ikubi Lya Malumbe ceremony of Chief Chibuluma in Mumbwa District was held on Saturday 31 October 2026; the Guta Mweenze ceremony of Chief Nyawa in Kazungula District was reported on Monday 2 November."
+      },
+      "body": [
+        "The weekend brought two ministers to two chiefdoms with a speech from the President in hand. On Saturday 31 October, at the 2026 Ikubi Lya Malumbe ceremony of Chief Chibuluma in Mumbwa District, held under the theme of culture helping to accelerate development, Minister of Tourism Princess Kasune argued that ceremonies are an economic asset as much as a cultural one. The Times of Zambia reported on Sunday 1 November that she linked the occasion to the government's target of five million tourist arrivals and called for closer partnership between government, traditional leaders and communities in pursuit of the Grow Zambia Agenda.",
+        {"type": "quote", "text": "Our cultural heritage is not only a source of identity and pride, but also an important resource for advancing development.", "attribution": "Princess Kasune, Minister of Tourism, at the Ikubi Lya Malumbe ceremony in Mumbwa on Saturday 31 October, as reported by the Times of Zambia"},
+        "Kasune used the platform to list what the state has built in Chibuluma Chiefdom: an outpatient block at Kabalwa, a maternity annex at Nakanjoli and a staff house at Chipa; classroom improvements and desks; a 60,000-litre solar-powered water scheme at Chibolyo and eight boreholes at Chibolyo and Nalusanga; two communication towers awaiting commissioning; and three irrigation schemes funded through the Constituency Development Fund in the Mumba, Mulendema and Chibuluma chiefdoms, which she said would benefit more than 500 people through 18 cooperatives. She urged women and young people to take up the opportunities on offer.",
+        {"type": "subhead", "text": "At Guta Mweenze"},
+        "In Kazungula District, the Guta Mweenze ceremony of Chief Nyawa heard the President's message read by the Minister of Home Affairs and Internal Security, Mancel Ameleki, the Times of Zambia reported on Monday 2 November. The speech asked traditional leaders to champion national unity behind the Grow Zambia Agenda, the government's five-year programme, and warned, in a line the paper quoted, that Zambia cannot be grown in a divided society. It also addressed a grievance familiar at such gatherings: administrative delays holding up the construction of chiefs' palaces. The President committed the government to completing them and said no chief would be left without decent accommodation.",
+        "Chief Nyawa's reply, delivered through his prime minister, Gideon Siappenda, thanked the government for development programmes that he said had improved his subjects' livelihoods. The same report noted the President's own message for the start of November, posted on Facebook on Sunday 1 November, which quoted Amos 3:3, asking whether two can walk together unless they are agreed, and called for the country to move in faith, unity and love."
+      ],
+      "sources": [
+        {"outlet": "Times of Zambia", "title": "Kasune calls for cultural heritage to drive tourism growth", "date": "1 Nov 2026", "url": "https://times.co.zm/kasune-calls-for-cultural-heritage-to-drive-tourism-growth/"},
+        {"outlet": "Times of Zambia", "title": "President Hichilema urges unity, peace and love among Zambians", "date": "2 Nov 2026", "url": "https://times.co.zm/president-hichilema-urges-unity-peace-and-love-among-zambians/"}
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "desk": "Economy",
+      "title": "What a one-notch upgrade buys, and what Friday's budget has to show for it",
+      "body": "Caa1 is still a rating that tells lenders to expect trouble, so the practical value of Friday's upgrade is not cheaper money tomorrow but direction. Three agencies have now moved Zambia the same way since the 2020 default, the IMF staff have agreed a new programme, and Moody's has kept a positive outlook, which is a promise to look again if the trend holds. The test of whether it holds is the document Situmbeko Musokotwane reads out on Friday 6 November. Investors will look for three things: a deficit path consistent with the restructured debt, an explanation of how 30 ministries fit a consolidating budget, and a plan for revenue that does not depend on copper staying high. The Ministry's own caution, that a rating is a means rather than an end, is the right frame; the counter-argument, made by Stephen Kampyongo among others, is that a budget delivered a week late and followed by a ten-day suspension leaves Parliament little time to test any of it. Still unknown: the full text of the Moody's reasoning, and whether the Board approves the IMF facility before year-end."
+    },
+    {
+      "desk": "Politics",
+      "title": "A seat without a vote: what Mandevu settles and what it leaves open",
+      "body": "On Thursday Adrian Banda becomes MP for Mandevu without a ballot being cast, and the law on that is not in dispute: the Electoral Commission has cited the regulations, the withdrawal letters exist, and one valid candidate means a declaration. Everything around it is contested. The Tonse Alliance says its candidate was threatened, names a provincial minister and has played a recording; the UPND says the claim is malicious and unfounded and that nobody was pushed. Neither account has been tested anywhere that can test it. The Commission's notice gave no reasons for the withdrawals and did not say whether it had received a complaint, and the Inspector General's security plan for Mandevu was drawn up for a contest that will not happen. Three things to watch: whether the alliance's promised complaint to the police is lodged and what becomes of it; whether the Commission says anything about the allegations once the declaration is made; and whether the pattern of late withdrawals repeats in the next round of by-elections. Thursday's ward polls, including Mbeta in Sioma, will be the first measure."
+    },
+    {
+      "desk": "Economy",
+      "title": "The K5 argument: two explanations for the pump price that do not exclude each other",
+      "body": "State House and the oil marketers are describing the same price from different ends of the supply chain. The government's account is global: Brent near US$112, tankers under attack, and a tax holiday that cost US$200 million and could not be extended without cutting into free education and cash transfers. The marketers' account is domestic: a pipeline whose open-access rules, they say, let a few companies earn about K5 a litre more than competition would allow. Both can be true at once, which is why the row matters. If the marketers are right, there is a saving available that does not require the Treasury to forgo revenue; if the government is right about its fiscal limits, the pipeline is one of the few levers left. What is not yet known is whether the Ministry of Petroleum's review of the monthly pricing cycle will also look at the Open Access Framework, and what the K5 figure rests on, since the association's detailed argument sits behind a paywall and no response from the ERB has been reported. The December return of VAT, in phases, is the next scheduled pressure."
+    }
+  ]
+}
