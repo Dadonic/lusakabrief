@@ -1,0 +1,617 @@
+{
+  "date": "2026-11-18",
+  "strapline": "Police tell both sides not to march on 25 November; ZCCM-IH's US$2.7 billion decade; the cholera vaccine plant breaks ground; Zambia third in Group I; Sakala retires",
+  "stories": [
+    {
+      "lead": true,
+      "developing": true,
+      "slug": "police-advise-both-consortiums-not-to-march-25-november-term-limits-kaitisha-andeleki-no-need-for-protests",
+      "section": "Politics",
+      "title": "'Not to proceed': police cite intelligence in telling two consortiums to call off their 25 November term-limit marches, as Andeleki says there is nothing to protest",
+      "excerpt": "In a statement on Tuesday 17 November, police spokesperson Chipo Kaitisha said the service had reviewed notifications from two groups planning processions in Lusaka on Wednesday 25 November over presidential term limits and was advising both not to go ahead, citing intelligence gathered and the prevailing national security situation. One march was to defend the two-term limit, the other to call for its removal. Home Affairs Minister Clement Andeleki told News Diggers he expects no one to protest, because the President is not seeking a third term.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "marches",
+        "motif": "assembly",
+        "label": "Two notices, one answer",
+        "caption": "The Zambia Police Service has advised both the civil society consortium and the youth consortium against marching to Parliament on 25 November."
+      },
+      "body": [
+        "A week before two rival processions were due to converge on Parliament, the Zambia Police Service has asked both to stand down. In a statement dated Tuesday 17 November and signed by its Public Relations Officer, Chipo Kaitisha, the service said it had received notifications of intention to hold peaceful processions and public assemblies on the question of the presidential term limit, all planned for Wednesday 25 November. After what it called a careful review of the notifications from the two consortiums, and in the light of intelligence gathered and what it described as the prevailing national security situation, it said it wished to advise the organisers not to proceed. The full text was carried by the Zambian Observer on Tuesday evening; News Diggers reported the same statement that night, describing it as a refusal to authorise the civil society procession.",
+        "The statement does not name either group, publish the intelligence it relies on, or set out any legal consequence for marching regardless. Nor does it offer an alternative date. It simply urges the organisers of the planned processions and assemblies not to go ahead.",
+        {
+          "type": "subhead",
+          "text": "Who had notified the police"
+        },
+        "The first notification came from a consortium of civil society organisations that wrote to the police on 4 November about a procession in defence of the two-term limit in Article 106 of the Constitution. News Diggers lists Chapter One Foundation, Caritas Zambia, Transparency International Zambia, the Alliance for Community Action, ActionAid, the Zambia Council for Social Development and the Council of Churches in Zambia among its members. The consortium's case, as reported by the paper, is that the two-term limit is an important safeguard against the concentration of power in one individual.",
+        "The second came from the Zambia Youth Organisation Consortium, which wants the limit removed. Its vice chairperson, Boas Kanyama, told reporters at the weekend that 63,151 young people from all ten provinces were expected to walk from Northmead bus station to Parliament Buildings on the same day, that the police had been formally notified, and that around 500 officers were expected to provide security, the Zambian Observer reported on Monday 16 November. Kanyama insisted the consortium was not a political party and that the march was about citizens exercising a democratic right rather than about a third term for anyone in particular.",
+        {
+          "type": "quote",
+          "text": "This is not about the third term, it's about Zambians exercising their democratic right",
+          "attribution": "Boas Kanyama, vice chairperson, Zambia Youth Organisation Consortium, as reported by the Zambian Observer on 16 November"
+        },
+        {
+          "type": "subhead",
+          "text": "The minister's view"
+        },
+        "On Wednesday morning News Diggers carried the response of Home Affairs Minister Clement Andeleki. He said he did not expect anyone to protest on 25 November, whether for or against removing the limit, because there was no need: President Hakainde Hichilema, he said, is not seeking a third term and is concentrating on development in his new five-year mandate. He urged civil society organisations and concerned citizens to raise their concerns through government offices, saying established procedures exist for proposing changes to the law.",
+        "That echoes the line State House has taken since the petitions appeared. Its chief communications specialist, Clayson Hamasaka, is quoted by the Zambian Observer asking why the head of State should be dragged into a campaign that, in his words, has nothing to do with him. Earlier in the month the Information Minister, Elvis Nkandu, advised the civil society groups to reconsider their march on the ground that the President had made no formal move on term limits; Transparency International Zambia's executive director, Maurice Nyambe, replied that it was not the minister's or the government's role to dictate how citizens express themselves, and asked why a youth procession supporting removal had been allowed to reach Parliament while the civil society groups were being told to stay home, the Daily Revelation reported.",
+        {
+          "type": "subhead",
+          "text": "What happens next"
+        },
+        "None of the pages read for this edition carried a response from either consortium to Tuesday's statement, so it is not yet known whether the civil society groups will march anyway, seek a court order, or accept the advice, nor whether the youth consortium will. The Law Association of Zambia has said it is prepared to go to court to defend the two-term limit, and the petitions seeking its removal remain before the National Assembly. The police advice adds a public-order question to a constitutional one, and it will be tested on the morning of 25 November.",
+        {
+          "type": "confirmed",
+          "confirmed": "The Zambia Police Service issued a statement on 17 November, signed by Public Relations Officer Chipo Kaitisha, advising two consortiums not to proceed with processions and assemblies planned for 25 November over the presidential term limit, citing intelligence gathered and the prevailing national security situation (Zambian Observer, News Diggers). A civil society consortium notified the police on 4 November of a procession to defend the limit (News Diggers). The Zambia Youth Organisation Consortium said it had notified the police of a march from Northmead to Parliament on the same day (Zambian Observer). Home Affairs Minister Clement Andeleki said he expects no protests because the President is not seeking a third term (News Diggers).",
+          "unverified": "What the intelligence consists of; whether either consortium will march despite the advice or challenge it in court; the youth consortium's figure of 63,151 marchers, which is its own estimate; and whether the police will treat a march that goes ahead as unlawful."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Zambian Observer",
+          "title": "Police deny civil society movement right to stage a protest against the 3rd term citing \"prevailing national security reasons\"",
+          "date": "17 Nov 2026",
+          "url": "https://zambianobserver.com/police-deny-civil-society-movement-right-to-stage-a-protest-against-the-3rd-term-citing-prevailing-national-security-reasons/"
+        },
+        {
+          "outlet": "News Diggers",
+          "title": "Police block CSOs' Nov 25 protest against removal of term limits",
+          "date": "17 Nov 2026",
+          "url": "https://diggers.news/local/2026/11/17/police-block-csos-nov-25-protest-against-removal-of-term-limits/"
+        },
+        {
+          "outlet": "News Diggers",
+          "title": "HH is not seeking a third term, there's no need for protests – Andeleki",
+          "date": "18 Nov 2026",
+          "url": "https://diggers.news/local/2026/11/18/hh-is-not-seeking-a-third-term-theres-no-need-for-protests-andeleki/"
+        },
+        {
+          "outlet": "Zambian Observer",
+          "title": "Historic march in support of removing presidential term limits planned for November 25",
+          "date": "16 Nov 2026",
+          "url": "https://zambianobserver.com/historic-march-in-support-of-removing-presidential-term-limits-planned-for-november-25/"
+        },
+        {
+          "outlet": "Daily Revelation",
+          "title": "TI-Z to ignore Nkandu and proceed with protests against Third Term",
+          "date": "Nov 2026",
+          "url": "https://dailyrevelationzambia.com/ti-z-to-ignore-nkandu-and-proceed-with-protests-against-third-term/"
+        }
+      ]
+    },
+    {
+      "slug": "simuuwe-third-term-versus-term-limit-khama-last-move-ezra-tembo-nrpup-aipac-article-79-laura-miti",
+      "section": "Politics",
+      "tag": "Politics · Term limits",
+      "title": "'A difference between a third term and a term limit': the UPND answers Khama's 'last move' jibe, Ezra Tembo's NRPUP backs the status quo, AIPAC says a petition cannot do it alone",
+      "excerpt": "UPND media director Mark Simuuwe said on Tuesday that the proposal before Parliament would remove the ceiling on presidential terms rather than add a third, that voters should decide how long a leader stays, and that former Botswana president Ian Khama had misunderstood it. Khama had said at the weekend that Hichilema was making his last move to consolidate power without time limit. Leader of the Opposition Ezra Tembo said his party backs the current limit, and the Acton Institute said Article 79 cannot be sidestepped by a petition.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "article106",
+        "motif": "columns",
+        "label": "Article 106(3)",
+        "caption": "The ruling party, the official opposition, a policy institute and a civic activist each added to the term-limit argument within a day."
+      },
+      "body": [
+        "The argument over Article 106(3) of the Constitution, which bars anyone who has twice held the office of President from standing again, widened on Tuesday 17 November to take in the ruling party's media director, the Leader of the Opposition, a policy institute and one of the country's best-known civic voices.",
+        "Mark Simuuwe, the UPND's media director, drew a distinction that the party has not made so plainly before. According to the Zambian Observer, he said the proposal being petitioned for would not create a third term but would remove the limit entirely, leaving it to voters to decide how long a leader remains in office. He added that President Hakainde Hichilema had issued no formal statement seeking removal, and accused former Botswana president Ian Khama of misunderstanding the proposal, saying it should be debated on its merits.",
+        {
+          "type": "subhead",
+          "text": "What Khama said"
+        },
+        "Khama's latest remarks were reported by the Zambian Observer on Monday 16 November, in reaction to Justice Minister Jack Mwiimbu's statement that the government would not interfere with the petitions. Khama said Zambia's leaders were setting up their move to remove presidential term limits, that the President had bloated Parliament with his party so the change would pass without doubt, and, in the phrase that drew the UPND response, that the country's dictator was making his last move to consolidate power without time limit. The paper did not say on which platform he spoke. The paper noted it was the second time he had publicly called Hichilema a dictator; State House has responded to him before, and News Diggers' editorial on Tuesday argued that the right answer to him is restraint rather than a reply in kind.",
+        {
+          "type": "quote",
+          "text": "Our Dictator is making his last move to consolidate power without time limit.",
+          "attribution": "Ian Khama, former President of Botswana, as quoted by the Zambian Observer on 16 November"
+        },
+        {
+          "type": "subhead",
+          "text": "The opposition and the institute"
+        },
+        "Ezra Tembo, president of the National Reconciliation Party for Unity and Prosperity and Leader of the Opposition in Parliament, said in a press statement on Monday 16 November that his party supports retaining the present five-year, two-term arrangement, that constitutional matters should be handled with transparency and respect for democratic principles, and that the party would not engage in what he called speculative debates on behalf of an Executive that has not stated its position, the Zambian Observer reported.",
+        "The Acton Institute for Policy Analysis Centre took a procedural line. Its executive director, Solomon Ngoma, said in a statement in Lusaka on Monday that citizens, youth movements, civil society and parties all have a right to petition Parliament, but that a petition to the Speaker cannot by itself change the term limit: any amendment must follow Article 79 of the Constitution and the Constitutional Court's guidance, and where a referendum is required it cannot be replaced by a petition, a parliamentary vote or a press statement. He said reforms must be preceded by broad, people-driven consultation, and urged the government to concentrate on growth, jobs and living conditions, Zambia Monitor reported.",
+        {
+          "type": "quote",
+          "text": "No leader lives forever. Leadership is temporary, but constitutions are meant to endure and serve future generations.",
+          "attribution": "Solomon Ngoma, executive director, Acton Institute for Policy Analysis Centre, in a statement reported by Zambia Monitor on 17 November"
+        },
+        "From the civic side, the activist Laura Miti wrote in a piece carried by the Zambian Observer on Tuesday that the President should say plainly whether he supports the campaign rather than, in her words, going round corners, and argued that his defence of Bill 7, which enlarged Parliament, was the first step towards it. Her view that the bill's purpose was to secure the numbers for a third term is her own; the government has maintained that the petitions are a citizens' initiative with nothing to do with the head of State, and the UPND's position, as set out by Simuuwe, is that no such proposal has come from the President.",
+        "The Law Association of Zambia's warning on Tuesday that it will litigate to defend the limit, and the police advice against both marches planned for 25 November, are reported separately in this edition."
+      ],
+      "sources": [
+        {
+          "outlet": "Zambian Observer",
+          "title": "There is A Difference Between A Third Term And Term Limit- UPND Media Director Mark Simuuwe",
+          "date": "17 Nov 2026",
+          "url": "https://zambianobserver.com/there-is-a-difference-between-a-third-term-and-term-limit-upnd-media-director-mark-simuuwe/"
+        },
+        {
+          "outlet": "Zambian Observer",
+          "title": "Our Dictator is making his last move to consolidate power without time limit- Ian Khama On President Hichilema",
+          "date": "16 Nov 2026",
+          "url": "https://zambianobserver.com/our-dictator-is-making-his-last-move-to-consolidate-power-without-time-limit-ian-khama-on-president-hichilema/"
+        },
+        {
+          "outlet": "Zambian Observer",
+          "title": "NRPUP's Ezra Tembo supports retention of five-year presidential term limit",
+          "date": "17 Nov 2026",
+          "url": "https://zambianobserver.com/nrpups-ezra-tembo-supports-retention-of-five-year-presidential-term-limit/"
+        },
+        {
+          "outlet": "Zambia Monitor",
+          "title": "AIPAC warns against sidetracking Zambian constitution in pursuit of changing term limits",
+          "date": "17 Nov 2026",
+          "url": "https://www.zambiamonitor.com/aipac-warns-against-sidetracking-zambian-constitution-in-pursuit-of-changing-term-limits/"
+        },
+        {
+          "outlet": "Zambian Observer",
+          "title": "President HH should state clearly if he is in support or not of the presidential term limit agenda, than going ma corner, says Laura Miti",
+          "date": "17 Nov 2026",
+          "url": "https://zambianobserver.com/president-hh-should-state-clearly-if-he-is-in-support-or-not-of-the-presidential-term-limit-agenda-than-going-ma-corner-says-laura-miti/"
+        },
+        {
+          "outlet": "News Diggers",
+          "title": "When Khama loses diplomacy, State House should take moral high ground",
+          "date": "17 Nov 2026",
+          "url": "https://diggers.news/opinion/2026/11/17/when-khama-loses-diplomacy-state-house-should-take-moral-high-ground/"
+        }
+      ]
+    },
+    {
+      "slug": "zccm-ih-2026-2035-strategy-us-2-7-billion-us-7-billion-value-mingomba-25-percent-3022-mw-us-704-million-debt",
+      "section": "Economy",
+      "tag": "Economy · Mining",
+      "title": "'A commitment, not a wish list': ZCCM-IH plans US$2.7 billion over ten years to become a US$7 billion company, with 3,022 MW of power, more of Mingomba and US$704 million of debt",
+      "excerpt": "At its Shareholder Day in Lusaka on Monday 16 November, the State mining investor unveiled a 2026–2035 plan to lift its value from about US$1.2 billion to US$7 billion and annual revenue from US$211 million to US$738 million. It intends to raise its Mingomba stake from 20 to 25 per cent, build a 3,022 MW generation portfolio, open gold and manganese buying centres and ring-fence exploration money. Funding is planned, not secured: US$704 million of debt, US$300 million of equity and US$1–1.7 billion from partners, after a K4.92 billion group loss in 2025.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "zccm",
+        "motif": "ingots",
+        "label": "Scale, after the foundation",
+        "caption": "ZCCM-IH's ten-year plan runs in three phases, from a US$750 million foundation to a US$736 million optimisation stage, and leans on royalties, power and trading."
+      },
+      "body": [
+        "ZCCM Investments Holdings, the State's mining investment company, has set itself a decade-long target that would make it roughly six times more valuable than it is today. The 2026–2035 strategy, presented at the company's Shareholder Day in Lusaka on Monday 16 November by the Permanent Secretary in the Ministry of Mines and Minerals Development, Hapenga Kabeta, calls for US$2.7 billion of investment and a rise in company value from about US$1.2 billion to US$7 billion, Zambia Monitor reported on Tuesday. Annual revenue is to grow about three and a half times, from roughly US$211 million to US$738 million, and the company says it will pay a dividend every year of the plan, with US$2.45 billion in royalties and dividends expected over the period.",
+        "Chief executive Kakenenwa Muyangwa framed the plan as the second act after three years of rebuilding. He told the gathering that the company had shown it could deliver and that the next ten years were about scale, that Zambia must retain more of the value of the minerals it produces rather than export raw value and import finished value, and that the strategy was a commitment rather than a wish list.",
+        {
+          "type": "quote",
+          "text": "We cannot continue to export raw value and import finished value.",
+          "attribution": "Kakenenwa Muyangwa, chief executive, ZCCM-IH, at the company's Shareholder Day in Lusaka on 16 November, as reported by Zambia Monitor"
+        },
+        {
+          "type": "subhead",
+          "text": "Four pillars, three phases"
+        },
+        "The money is to be spent in three stages: about US$750 million in a foundation phase to 2028, US$1.2 billion in a growth phase from 2029 to 2031, and US$736 million in an optimisation phase to 2035. Under what the company calls its 'earn' pillar it will lean on the Kansanshi royalty, agreed with First Quantum Minerals in 2023 and worth 3.1 per cent of the mine's revenue in place of dividends on a 20 per cent stake, which it expects to bring in more than US$990 million over the decade. It wants similar royalty arrangements with other investee companies, intends to market its share of their copper, and will raise its holding in the KoBold Metals-led Mingomba project from 20 to 25 per cent. Africa Briefing, citing Reuters, notes that Mingomba is expected to need more than US$2 billion and to start producing in the early 2030s, after the government's 2031 deadline for three million tonnes of national copper output.",
+        "The 'power' pillar is a 3,022 MW generation portfolio by 2035, overseen by a new energy holding company, including the Ever Great project, a large solar scheme and 312 MW of solar across constituencies under the Presidential Constituency Energy Initiative, alongside continued dividends from Copperbelt Energy Corporation and Maamba Energy. Under 'capture' the company will move into trading: gold and manganese buying centres with traceability systems first, then a stockyard and copper and energy trading, aiming by 2035 at a fifth of the country's formal gold trade, 35 per cent of its manganese trade and services for more than 30,000 artisanal miners, plus phosphate-to-fertiliser processing with Sino Great. 'Discover' is a ring-fenced, multi-year exploration budget with a five-gate decision framework and joint ventures to share risk.",
+        {
+          "type": "box",
+          "title": "The numbers",
+          "items": [
+            "US$2.7 billion of investment, 2026–2035, in three phases (US$750m, US$1.2bn, US$736m)",
+            "Company value US$1.2bn to US$7bn; revenue US$211m to US$738m a year",
+            "Kansanshi royalty: more than US$990m expected over the decade",
+            "Mingomba stake 20% to 25%; power portfolio 3,022 MW by 2035",
+            "Planned funding: US$704.2m debt, US$300m equity, US$1–1.7bn from partners",
+            "2025: group loss K4.92bn; investment income up 40% to K3.4bn; dividend K183m"
+          ]
+        },
+        {
+          "type": "subhead",
+          "text": "Where the money comes from"
+        },
+        "The plan's own documents are candid that the financing is not yet in hand. Ecofin Agency, which read them, reports planned corporate borrowing of US$704.2 million, US$300 million of new equity and between US$1 billion and US$1.7 billion from joint-venture partners and development finance institutions, described by the company as planned sources rather than secured commitments, with ten-year cash inflows of US$6.04 billion against outflows of US$5.72 billion. Muyangwa told Reuters, according to Africa Briefing, that the company expects to borrow about US$700 million and that partners could put in up to US$1.7 billion.",
+        "The plan arrives after a difficult year in the accounts. ZCCM-IH's 2025 results showed a consolidated loss of K4.92 billion against a K39.85 billion profit in 2024, which the company attributes to the absence of the large one-off Mopani gain booked the year before, exchange-rate movements, changes in the value of its investments and a provision linked to the Trafigura arbitration; investment income nonetheless rose 40 per cent to K3.4 billion on the Kansanshi royalty and power dividends, and a K183 million dividend was paid. The company also plans a listing optimisation project to narrow the gap between its share price and net asset value, lift its free float towards 25 per cent and restore trading in London.",
+        "The strategy is pitched as a contribution to the Grow Zambia targets of three million tonnes of copper a year and 10,000 MW of generation by 2031. Kabeta, speaking separately to a Swedish delegation on Monday, said copper output this year is expected to exceed 900,000 tonnes, which the government describes as a record since independence, and that the local content law in force since January requires foreign suppliers to the mines to partner with Zambian firms, News Diggers reported."
+      ],
+      "sources": [
+        {
+          "outlet": "Zambia Monitor",
+          "title": "Zambia investments holdings company targets $7bn value by 2035 under new strategy",
+          "date": "17 Nov 2026",
+          "url": "https://www.zambiamonitor.com/zambia-investments-holdings-company-targets-7bn-value-by-2035-under-new-strategy/"
+        },
+        {
+          "outlet": "Ecofin Agency",
+          "title": "Zambia's State Mining Investor ZCCM-IH Plans $2.7 Billion Push Into Mining, Power by 2035",
+          "date": "17 Nov 2026",
+          "url": "https://www.ecofinagency.com/news-industry/1711-60905-zambia-s-state-mining-investor-zccm-ih-plans-2-7-billion-push-into-mining-power-by-2035"
+        },
+        {
+          "outlet": "Africa Briefing",
+          "title": "Zambia unveils $2.7bn mining, power plan",
+          "date": "17 Nov 2026",
+          "url": "https://africabriefing.com/zambia-unveils-2-7bn-mining-power-plan/"
+        },
+        {
+          "outlet": "News Diggers",
+          "title": "Our ambition is to become a $7bn company by 2035 – ZCCM-IH",
+          "date": "17 Nov 2026",
+          "url": "https://diggers.news/business/2026/11/17/our-ambition-is-to-become-a-7bn-company-by-2035-zccm-ih/"
+        },
+        {
+          "outlet": "News Diggers",
+          "title": "Foreign mining suppliers must partner with local firms – Govt",
+          "date": "17 Nov 2026",
+          "url": "https://diggers.news/business/2026/11/17/foreign-mining-suppliers-must-partner-with-local-firms-govt/"
+        }
+      ]
+    },
+    {
+      "slug": "zambia-malawi-standards-mou-lusaka-katotobwe-mutual-recognition-mbs-zabs-zcsa-zma-satcp",
+      "section": "Economy",
+      "tag": "Economy · Trade",
+      "title": "'The signature begins the partnership, the results will give it meaning': Zambia and Malawi agree to stop testing the same goods twice, with a mutual recognition deal the next step",
+      "excerpt": "The Malawi Bureau of Standards and Zambia's three quality-infrastructure agencies signed a memorandum of understanding in Lusaka on Tuesday 17 November to cut the technical barriers that make traders certify products on both sides of the border. Trade Minister Caroline Katotobwe called it a milestone and asked for a results-oriented action plan; the Malawian side pressed for the mutual recognition arrangements that would let each country accept the other's test results. The World Bank-funded Southern Africa Trade and Connectivity Project backs the work.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "malawi",
+        "motif": "globe",
+        "label": "Tested once, sold twice",
+        "caption": "The agreement covers standards, testing, certification and measurement, the technical hurdles that add cost to Zambia–Malawi trade."
+      },
+      "body": [
+        "Zambia and Malawi have put their standards bodies to work on one of the quieter obstacles to trade between them: the need to have the same product tested, certified and measured twice, once in each country. At a ceremony in Lusaka on Tuesday 17 November the Malawi Bureau of Standards signed a memorandum of understanding with the Zambia Bureau of Standards, the Zambia Compulsory Standards Agency and the Zambia Metrology Agency, Zambia Monitor and the Malawi Broadcasting Corporation reported.",
+        "The agreement is meant to reduce what trade officials call technical barriers, the differences in standards, testing, certification and measurement rules that keep goods out of a market without any tariff being charged. The aim, as described by both outlets, is for products from either country to enter the other with fewer unnecessary restrictions while quality, safety and consumer protection are maintained. MBC says the document covers laboratory testing competence, metrological traceability and quality management systems, the three gaps identified in an analysis the two sides carried out on 19 December 2024.",
+        {
+          "type": "subhead",
+          "text": "What the minister asked for"
+        },
+        "Zambia's Minister of Trade and Exports, Caroline Katotobwe, described the agreement as an important milestone in trade relations between the two countries and said farmers, manufacturers, exporters and small businesses stand to gain from lower compliance costs and wider market access. She said duplicated testing and certification must be dealt with as the non-tariff barriers they are, asked the agencies for a results-oriented action plan that identifies priority products and sectors, and placed the deal in the context of integration under SADC, COMESA and the African Continental Free Trade Area, whose Annex 6 deals with technical barriers to trade.",
+        "Gerald Chizinga, executive director of the Zambia Compulsory Standards Agency, said an action plan would turn the agreement into specific activities with clear responsibilities, achievable targets and regular technical reviews. Humphrey Nkobeni, executive director of the Zambia Metrology Agency, said success would be visible in better services, clearer compliance guidance and stronger technical capacity.",
+        {
+          "type": "quote",
+          "text": "The signature begins the partnership, the results will give it meaning,",
+          "attribution": "Humphrey Nkobeni, executive director, Zambia Metrology Agency, at the signing in Lusaka on 17 November, as reported by Zambia Monitor"
+        },
+        {
+          "type": "subhead",
+          "text": "Malawi's priority"
+        },
+        "For the Malawian side the next step is a mutual recognition arrangement, under which a product tested and certified in one country is accepted in the other without a second round. Zambia Monitor reports that the MBS director general, Symon Mandala, urged faster finalisation of those arrangements and said the cooperation should strengthen consumer protection and regional integration; MBC says his remarks were delivered on his behalf by Stephen Chalimba, the bureau's director of metrology services, who described the memorandum as the framework for building such an arrangement.",
+        "MBC adds that the initiative is supported by the World Bank-funded Southern Africa Trade and Connectivity Project, which works to lower trade costs along the Nacala and Beira corridors. Neither outlet gave a figure for the trade affected or a timetable for the mutual recognition arrangement; the agreement itself sets a direction rather than a deadline."
+      ],
+      "sources": [
+        {
+          "outlet": "Zambia Monitor",
+          "title": "Zambia, Malawi sign pact, target technical barriers to cross-border trade",
+          "date": "17 Nov 2026",
+          "url": "https://www.zambiamonitor.com/zambia-malawi-sign-pact-target-technical-barriers-to-cross-border-trade/"
+        },
+        {
+          "outlet": "Malawi Broadcasting Corporation",
+          "title": "Malawi, Zambia sign standards agreement to ease cross-border trade",
+          "date": "17 Nov 2026",
+          "url": "https://mbc.mw/malawi-zambia-sign-standards-agreement-to-ease-cross-border-trade/"
+        }
+      ]
+    },
+    {
+      "slug": "zppa-q3-2026-briefing-three-borehole-contractors-suspended-two-years-26-cdf-projects-19664-tenders-natsave",
+      "section": "Economy",
+      "tag": "Economy · Procurement",
+      "title": "Three borehole contractors barred for two years, 26 CDF projects faulted and a NATSAVE server tender sent back: the ZPPA's third-quarter report card",
+      "excerpt": "At its third-quarter briefing in Lusaka on Monday 16 November, the Zambia Public Procurement Authority said it had suspended Capricon Innovation, Nkanmu Investments and Totten Infrastructure from public tenders for two years after they failed to complete borehole work for the Ministry of Water Development and Sanitation. Director General Gloria Ngoma also reported irregular contract extensions and documentation lapses across 26 CDF projects in 11 councils, 19,664 tenders on the e-procurement system, and 18 bidder appeals, one of them at NATSAVE.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "zppa",
+        "motif": "drop",
+        "label": "Boreholes undrilled",
+        "caption": "The procurement regulator's quarterly briefing covered contractor sanctions, CDF project monitoring, the e-procurement system and bidder appeals."
+      },
+      "body": [
+        "The procurement regulator's quarterly accounting of what went wrong, and what it did about it, arrived on Monday 16 November. Gloria Ngoma, Director General of the Zambia Public Procurement Authority, told a media briefing in Lusaka that the authority had carried out five investigations in the third quarter of 2026, two of them into underperformance of contractual obligations and one into outright non-performance, News Diggers reported on Tuesday.",
+        "The most concrete outcome was the suspension of three firms from public procurement for two years: Capricon Innovation Limited, Nkanmu Investments Limited and Totten Infrastructure Limited. All three had been contracted by the Ministry of Water Development and Sanitation to drill and equip boreholes, and the authority opened its inquiry after a complaint from the ministry that the rehabilitation work had not been completed. News Diggers' report does not give the number of boreholes, the value of the contracts or their locations, and no response from the companies was reported.",
+        {
+          "type": "subhead",
+          "text": "The CDF findings"
+        },
+        "Separately, the authority monitored 26 Constituency Development Fund projects in 11 local authorities, spanning schools, clinics, water, sanitation and other public works, Zambia Monitor reported. It assessed how contracts were being implemented, the progress and quality of the works and whether procurement rules were being followed. The weaknesses it lists are irregular contract extensions and variations, inadequate contract documentation, and lapses in the handling of performance and advance payment securities, together with construction defects. The findings have gone to the procuring entities and to the Ministries of Local Government and Rural Development and of Infrastructure, Housing and Urban Development for remedial action. No contractor or council is named in the report.",
+        {
+          "type": "box",
+          "title": "Third quarter in figures",
+          "items": [
+            "5 investigations; 3 contractors suspended for two years",
+            "26 CDF projects monitored in 11 local authorities",
+            "19,664 tenders published by 659 procuring entities, up from 12,736 by 415 in the second quarter",
+            "240 procurement officers and 185 suppliers trained on the e-GP system by 30 September",
+            "18 bidder appeals, 17 concluded"
+          ]
+        },
+        {
+          "type": "subhead",
+          "text": "The system and the appeals"
+        },
+        "Use of the electronic government procurement system, which Section 16(1) of the Public Procurement Act of 2020 makes compulsory, grew sharply: 19,664 tenders were published by 659 procuring entities in the quarter, against 12,736 by 415 entities in the previous one, a rise the authority attributes to enhancements to the system and a migration to new equipment. It says it has trained 240 officers from procuring entities and 185 suppliers, and continues to run fortnightly training sessions.",
+        "The authority also heard 18 appeals from bidders, concluding 17 by 30 September. In one, a bidder challenged the National Savings and Credit Bank over a tender to supply and configure IBM servers, arguing that the winning supplier was not an authorised IBM warranty service provider. The authority found that it was not, upheld that ground and directed NATSAVE to re-evaluate the tender, though it declined to cancel the award outright. The winning supplier was not named.",
+        "The briefing continues the regulator's practice of using public sanction, rather than only private correspondence, to deal with contractors who take public money and do not deliver."
+      ],
+      "sources": [
+        {
+          "outlet": "News Diggers",
+          "title": "ZPPA suspends 3 contractors over failed borehole projects",
+          "date": "17 Nov 2026",
+          "url": "https://diggers.news/business/2026/11/17/zppa-suspends-3-contractors-over-failed-borehole-projects/"
+        },
+        {
+          "outlet": "Zambia Monitor",
+          "title": "ZPPA flags irregular contract extensions, documentation lapses in CDF projects",
+          "date": "17 Nov 2026",
+          "url": "https://www.zambiamonitor.com/zppa-flags-irregular-contract-extensions-documentation-lapses-in-cdf-projects/"
+        }
+      ]
+    },
+    {
+      "slug": "zamvax-cholera-vaccine-plant-groundbreaking-lusaka-south-mfez-chilengi-20-million-doses-outbreak-3099-cases",
+      "section": "Health",
+      "tag": "Health · Cholera",
+      "title": "'Commodity sovereignty is not an option': ground is broken on the ZAMVAX cholera vaccine plant in Lusaka South, as the outbreak it is meant to answer reaches 3,099 cases",
+      "excerpt": "Health Minister Roma Chilengi and China's Wang Sheng broke ground on Tuesday 17 November at the Lusaka South Multi-Facility Economic Zone for a plant that will fill, finish and pack up to 20 million oral cholera vaccine doses a year from imported bulk antigen. ZAMVAX is 60 per cent owned by the Industrial Development Corporation and 40 per cent by China's Jijia; phase one was costed at US$24.13 million within a US$213 million project signed on 2 November. The ZNPHI's 16 November update put the outbreak at 3,099 cases and 68 deaths.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "zamvax",
+        "motif": "pulse",
+        "label": "Filled in Lusaka",
+        "caption": "The first phase of the ZAMVAX plant is a fill-and-finish line for oral cholera vaccine; a second phase would make the antigen itself."
+      },
+      "body": [
+        "Fifteen days after the joint venture was signed, Zambia's cholera vaccine plant has a hole in the ground. Health Minister Roma Chilengi led a groundbreaking ceremony on Tuesday 17 November at the Lusaka South Multi-Facility Economic Zone, joined by Wang Sheng, minister counsellor at the Chinese embassy, senior officials and representatives of the Chinese partner, Xinhua reported from Lusaka. Zambia Monitor covered the minister's remarks the same day.",
+        "The plant belongs to ZAMVAX Limited, a joint venture in which the Industrial Development Corporation, the State's investment arm, holds 60 per cent and Jijia International Medical Technology Company of China 40 per cent. Its first phase is a fill-and-finish facility: bulk oral cholera vaccine will be imported and then filled, finished, packaged and quality-checked in Lusaka, with an annual target of up to 20 million doses. A second phase would produce the antigen locally, making the line a complete manufacturing operation, and the partners have spoken of expanding later into paediatric and animal vaccines. Neither Tuesday's reports gave a completion date or a cost; when the agreement was signed on 2 November, Ecofin Agency reported the first phase at US$24.13 million and the IDC's chief executive, Cornwell Muleya, put the whole two-phase project at about US$213 million, with the second phase dependent on financing, feasibility studies and regulatory approval.",
+        {
+          "type": "subhead",
+          "text": "Why the minister wants it"
+        },
+        "Chilengi, who reminded his audience that he is a professor of vaccinology, drew on the experience of the COVID-19 pandemic, when countries with their own vaccine production could respond to deaths at home while others waited. For public health security, he said, commodity sovereignty is not an option. Zambia keeps suffering cholera outbreaks although effective vaccines exist, he said, and making them locally would widen access. He thanked China for earlier donations of oral cholera vaccine and said the project fulfilled the President's vision of domestic vaccine manufacturing, according to Xinhua.",
+        {
+          "type": "quote",
+          "text": "Nothing pleases me more than to see work in the vaccine space.",
+          "attribution": "Roma Chilengi, Minister of Health, at the ZAMVAX groundbreaking in Lusaka on 17 November, as reported by Zambia Monitor"
+        },
+        "Wang Sheng called the plant a milestone for Zambia's health sector, timely given cholera's persistence in Zambia and across Africa, and said it would reduce reliance on imported vaccines, save foreign exchange, cut costs and shorten supply chains, with the potential to make Zambia a regional supplier.",
+        {
+          "type": "subhead",
+          "text": "The outbreak the plant is too late for"
+        },
+        "The plant will not help with the outbreak now under way, which has been running since it was declared on 28 July. The Zambia National Public Health Institute's update of Monday 16 November, reported by Zambia Monitor, recorded 74 new cases and two deaths in 24 hours, taking the cumulative total to 3,099 cases, 437 of them laboratory-confirmed, and 68 deaths, with 2,930 patients recovered and discharged and 101 still in health facilities. The outbreak has reached 27 districts in seven provinces. Lusaka district accounts for 1,959 cases, almost two-thirds of the total, followed by Chibombo on 371, Chongwe on 158 and Chilanga on 130; Mpulungu, Chiengi and Mwansabombwe in the north each have between 86 and 90.",
+        {
+          "type": "box",
+          "title": "The outbreak at 16 November (ZNPHI)",
+          "items": [
+            "3,099 cumulative cases, 437 laboratory-confirmed; 68 deaths",
+            "74 new cases and 2 deaths in the previous 24 hours",
+            "27 districts in seven provinces; Lusaka 1,959, Chibombo 371, Chongwe 158, Chilanga 130",
+            "2,930 recovered and discharged; 101 in health facilities",
+            "Outbreak declared 28 July 2026"
+          ]
+        },
+        "The institute repeated its standing advice: wash hands with soap, drink boiled or treated water, cook food thoroughly and eat it hot, use and clean toilets, and go at once to the nearest health facility with watery diarrhoea or vomiting."
+      ],
+      "sources": [
+        {
+          "outlet": "Zambia Monitor",
+          "title": "Zambia breaks ground on first cholera vaccine manufacturing plant",
+          "date": "17 Nov 2026",
+          "url": "https://www.zambiamonitor.com/zambia-breaks-ground-on-first-cholera-vaccine-manufacturing-plant/"
+        },
+        {
+          "outlet": "Xinhua",
+          "title": "Zambia breaks ground on first vaccine plant with Chinese partner",
+          "date": "18 Nov 2026",
+          "url": "https://english.news.cn/africa/20261118/77edcb2a5d144b1a94b4dc81912bc6ef/c.html"
+        },
+        {
+          "outlet": "Ecofin Agency",
+          "title": "Zambia Plans $213 Million Cholera Vaccine Plant With Chinese Partner",
+          "date": "3 Nov 2026",
+          "url": "https://www.ecofinagency.com/news-finances/0411-60456-zambia-plans-213-million-cholera-vaccine-plant-with-chinese-partner"
+        },
+        {
+          "outlet": "Zambia Monitor",
+          "title": "Zambia cholera cases hit 3,099 as outbreak spreads to 27 districts",
+          "date": "16 Nov 2026",
+          "url": "https://www.zambiamonitor.com/zambia-cholera-cases-hit-3099-as-outbreak-spreads-to-27-districts/"
+        }
+      ]
+    },
+    {
+      "slug": "esther-lungu-theft-trial-16-december-no-further-adjournments-magistrate-sinvula-lusaka-vehicles-title-deed",
+      "section": "Courts",
+      "tag": "Courts · Esther Lungu",
+      "title": "No more adjournments: a Lusaka magistrate sets 16 December for Esther Lungu's theft trial to resume, more than a year after it last moved and 17 months after her husband's death",
+      "excerpt": "Resident Magistrate Mbuvywana Sinvula told the Lusaka Magistrates' Court on Monday 16 November that the case against the former First Lady and four co-accused, charged with the theft of three vehicles and a certificate of title between August 2021 and September 2022, had gone more than a year without reaching continued trial and would not be adjourned again, Kalemba reported. The matter returns on Wednesday 16 December. Esther Lungu has not attended since former president Edgar Lungu died on 5 June 2025; none of the allegations has been tested at trial.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "estherlungu",
+        "motif": "scales",
+        "label": "16 December",
+        "caption": "The Lusaka Magistrates' Court has fixed a date for continued trial and said there will be no further adjournments or mentions."
+      },
+      "body": [
+        "The theft case against former First Lady Esther Lungu, which has been stalled since her husband's death in June last year, has been given a date and a warning. At the Lusaka Magistrates' Court on Monday 16 November, Resident Magistrate Mbuvywana Sinvula directed that the matter proceed to continued trial on Wednesday 16 December and that no further adjournments or mentions be entertained, Kalemba reported in a story carried by the Zambian Observer. News Diggers reported the same adjournment to 16 December for continued trial on Tuesday.",
+        "According to Kalemba's account, the magistrate observed that more than a year had passed without the case progressing, and that the court had earlier allowed the accused time to mourn. Esther Lungu, 66, has not attended court since former president Edgar Lungu died in South Africa on 5 June 2025. The reports do not record what, if anything, her lawyers said on Monday about her absence, and no reason beyond the period of mourning is given.",
+        {
+          "type": "subhead",
+          "text": "The charges"
+        },
+        "Esther Lungu is jointly charged with James Phiri, 49, and Lee Chisulo, 31, both described as police officers, and with Kapambwe Lungu and Catherine Banda, who News Diggers identifies as a niece of the late president. The charges are theft of motor vehicles and theft of a certificate of title, and the prosecution alleges that the accused acted together in Lusaka between 9 August 2021 and 30 September 2022.",
+        "The particulars, as set out by Kalemba, are a Mitsubishi Canter, registration BAV 5282, valued at K320,000, belonging to Elizabeth Phiri; a Toyota Runnex, BLA 9772, and a Toyota Allex, BAV 3986, each valued at K110,000, belonging to Furhana Patel; and a certificate of title for Stand No. S/LUSAKA/0003/2977 in Libala, valued at K1,050,000, belonging to Phiri. News Diggers' report gives the first count in the same terms.",
+        {
+          "type": "box",
+          "title": "What is alleged",
+          "items": [
+            "Count one: a Mitsubishi Canter, BAV 5282, valued at K320,000 (Elizabeth Phiri)",
+            "A Toyota Runnex, BLA 9772, and a Toyota Allex, BAV 3986, K110,000 each (Furhana Patel)",
+            "A certificate of title for a Libala stand valued at K1,050,000 (Elizabeth Phiri)",
+            "Period alleged: 9 August 2021 to 30 September 2022, Lusaka",
+            "Next date: continued trial, Wednesday 16 December 2026"
+          ]
+        },
+        {
+          "type": "subhead",
+          "text": "What the ruling means"
+        },
+        "A direction that there be no further adjournments is a case-management order, not a finding on the evidence, and it binds the parties to be ready on 16 December. The reports read for this edition do not say how many prosecution witnesses have testified or remain, nor whether the defence has indicated any application. The accused are presumed innocent, and the allegations above are the prosecution's, yet to be tested in court.",
+        {
+          "type": "confirmed",
+          "confirmed": "The Lusaka Magistrates' Court adjourned the case to 16 December 2026 for continued trial (News Diggers, Kalemba via the Zambian Observer). Kalemba reports that Resident Magistrate Mbuvywana Sinvula directed that there be no further adjournments or mentions. The charges are theft of motor vehicles and a certificate of title; the co-accused are James Phiri, Lee Chisulo, Kapambwe Lungu and Catherine Banda (both outlets).",
+          "unverified": "The reasons for Esther Lungu's continued absence beyond the mourning period the court allowed; what her defence has said about it; the state of the prosecution's evidence; and whether the court will in fact refuse an adjournment if one is sought on 16 December. The spelling of one co-accused's first name differs between the two outlets (Kapambwe/Kapembwe)."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "News Diggers",
+          "title": "Esther Lungu theft case resumes on Dec 16",
+          "date": "17 Nov 2026",
+          "url": "https://diggers.news/courts/2026/11/17/esther-lungu-theft-case-resumes-on-dec-16/"
+        },
+        {
+          "outlet": "Zambian Observer",
+          "title": "Court loses patience with Esther Lungu over missing sessions",
+          "date": "17 Nov 2026",
+          "url": "https://zambianobserver.com/court-loses-patience-with-esther-lungu-over-missing-sessions/"
+        }
+      ]
+    },
+    {
+      "slug": "burundi-1-1-zambia-bujumbura-bimenyimana-muderi-own-goal-togo-3-0-algeria-group-i-algeria-7-togo-6-zambia-5",
+      "section": "Sport",
+      "tag": "Sport · Chipolopolo",
+      "title": "An own goal rescues a point in Bujumbura, but Togo's 3–0 over Algeria drops Zambia to third: Group I now reads Algeria 7, Togo 6, Zambia 5 with two rounds left",
+      "excerpt": "Burundi led through substitute Bonfils-Caleb Bimenyimana late in the second half at Stade Intwari on Tuesday 17 November, a goal Zambia argued was offside, before Akbar Muderi turned Zephania Phiri's cross into his own net in the 85th minute for 1–1. The point was worth less than it looked: at the Stade de Kégué, Togo beat Algeria 3–0 with all three goals before half-time, two of them from Thibault Klidjé, and leapfrogged Zambia into second place.",
+      "dateline": "BUJUMBURA",
+      "image": {
+        "key": "intwari",
+        "motif": "pitch",
+        "label": "Group I: 7, 6, 5, 3",
+        "caption": "Two 1–1 draws with Burundi in four days have left Zambia third in Group I behind Algeria and Togo."
+      },
+      "body": [
+        "Zambia went to Bujumbura to protect second place in Group I and came home with a draw and third. The return match against Burundi at Stade Intwari on Tuesday 17 November finished 1–1, the same score as in Ndola four days earlier, and the result that mattered more came from Togo, where the hosts beat Algeria 3–0.",
+        "The first half was goalless. ZamFoot's report records Klings Kangwa, restored to the side in place of Derrick Bulaya in the only change from Ndola, going close from distance in the 20th minute, and Albert Kangwanda twice threatening, curling wide in the 54th minute and then blazing over from close range three minutes later after Mathews Banda had crossed. Zambia changed their forwards in the 66th minute, sending on Chanka Zimba and Joshua Mutale for Fashion Sakala and Edward Chilufya; Banda went off injured in the 72nd and was replaced by Zephania Phiri.",
+        {
+          "type": "subhead",
+          "text": "The goals"
+        },
+        "Burundi scored first, through substitute Bonfils-Caleb Bimenyimana, in the 78th minute according to ZamFoot and the 77th according to AfricaSoccer. The Zambian bench protested that the striker was offside, and ZamFoot's live commentary said the goal should not have stood. The equaliser came in the 85th minute: Phiri's cross was turned into his own net by Burundi defender Akbar Muderi. Neither outlet carried post-match comments from either coach.",
+        "The draw leaves Zambia on five points from four matches, with Burundi on three. What changed the table was Togo's result at the Stade de Kégué. Pan-Africa Football reports that Thibault Klidjé scored twice and Kennedy Boateng once, all before half-time, for Togo's first win over Algeria in the group after losing the reverse fixture 1–0. It was Algeria's first defeat of the campaign. After four rounds the standings are Algeria 7, Togo 6, Zambia 5, Burundi 3.",
+        {
+          "type": "box",
+          "title": "Group I after round four",
+          "items": [
+            "Algeria 7 points",
+            "Togo 6",
+            "Zambia 5",
+            "Burundi 3",
+            "Burundi 1–1 Zambia (Bimenyimana; Muderi og 85); Togo 3–0 Algeria (Klidjé 2, Boateng)"
+          ]
+        },
+        {
+          "type": "subhead",
+          "text": "What is left"
+        },
+        "Two rounds remain. The reports read for this edition do not give the dates of the final fixtures, and the Confederation of African Football's qualification rules for the 2027 tournament were not set out in them, so this page does not say how many teams from the group go through. What the table does say is that Zambia, who began the window second on three points, have taken two from six against the group's bottom side and are now the ones being chased rather than chasing. They will also do it without their captain: Fashion Sakala announced his international retirement within hours of the final whistle, as reported separately in this edition."
+      ],
+      "sources": [
+        {
+          "outlet": "ZamFoot",
+          "title": "Chipolopolo fight back to hold Burundi after controversial offside goal",
+          "date": "17 Nov 2026",
+          "url": "https://zambianfootball.co.zm/chipolopolo-fight-back-to-hold-burundi-after-controversial-offside-goal/"
+        },
+        {
+          "outlet": "AfricaSoccer",
+          "title": "AFCON 2027 Qualifiers: Burundi hold Zambia to 1-1 draw in Group I",
+          "date": "17 Nov 2026",
+          "url": "https://africasoccer.com/afcon-2027-qualifiers-burundi-hold-zambia-to-1-1-draw-in-group-i/"
+        },
+        {
+          "outlet": "Pan-Africa Football",
+          "title": "Togo Algeria: Togo shock Algeria with 3-0 AFCON qualifier victory",
+          "date": "17 Nov 2026",
+          "url": "https://panafricafootball.com/article/togo-algeria-afcon-qualifiers-3-0-11-26"
+        },
+        {
+          "outlet": "AfricaSoccer",
+          "title": "AFCON 2027 qualifiers: Togo stun Algeria with 3-0 triumph",
+          "date": "17 Nov 2026",
+          "url": "https://africasoccer.com/afcon-2027-qualifiers-togo-stun-algeria-3-0/"
+        }
+      ]
+    },
+    {
+      "slug": "fashion-sakala-retires-international-football-29-facebook-chipolopolo-captain-2017-u20-champion-mauritania",
+      "section": "Sport",
+      "tag": "Sport · Chipolopolo",
+      "title": "'I wore the jersey with pride': Fashion Sakala, 29, retires from international football hours after Bujumbura, nine years after a debut that ended in a red card",
+      "excerpt": "The Chipolopolo captain announced on his Facebook page on Tuesday 17 November that, after much reflection, he had decided to retire from international football, calling the captaincy among the proudest moments of his life. He made his senior debut against Algeria on 2 September 2017 and was sent off; he won the Africa U-20 Cup of Nations at home that year, scored against Portugal, Iran and Germany at the U-20 World Cup, hit a hat-trick against Mauritania in 2021 and went to the 2023 and 2025 Nations Cups. Outlets differ on his caps, 41 or 47.",
+      "dateline": "LUSAKA",
+      "image": {
+        "key": "sakala",
+        "motif": "pitch",
+        "label": "Number 10, signing off",
+        "caption": "Fashion Sakala's international career ran from a red-card debut in 2017 to the captaincy of the Chipolopolo."
+      },
+      "body": [
+        "Fashion Sakala has taken off the Zambia shirt for the last time. Hours after being substituted in the 1–1 draw with Burundi in Bujumbura on Tuesday 17 November, the 29-year-old forward and Chipolopolo captain posted a farewell on his official Facebook page announcing his retirement from international football, ZamFoot and AfricaSoccer reported on Tuesday evening.",
+        "He wrote that after much reflection he had decided to retire from international football, that representing Zambia and having the honour of captaining the Chipolopolo were among the proudest moments of his life, and that he would cheer for the team with the same pride for the rest of his life. He thanked the Football Association of Zambia, his teammates, coaches and the national team staff for their support. Neither outlet reported a response from the association or the coaching staff, and Sakala gave no reason beyond reflection.",
+        {
+          "type": "quote",
+          "text": "I wore the jersey with pride, and I'll cheer for Zambia with that same pride for the rest of my life,",
+          "attribution": "Fashion Sakala, in the Facebook post announcing his retirement on 17 November, as reported by ZamFoot"
+        },
+        {
+          "type": "subhead",
+          "text": "A career in three acts"
+        },
+        "Sakala's international story began badly and improved quickly. AfricaSoccer records his senior debut on 2 September 2017 in a 2018 World Cup qualifier against Algeria, from which he was sent off in the 56th minute after two bookings. That same year he was part of the Zambia side that won the Africa U-20 Cup of Nations on home soil and then reached the quarter-finals of the U-20 World Cup, scoring against Portugal, Iran and Germany along the way, ZamFoot recalls.",
+        "At senior level his signature night was the 4–0 win over Mauritania at National Heroes Stadium in November 2021, when he scored a hat-trick in a World Cup qualifier. He went to the Africa Cup of Nations in 2023 and again in 2025, and in time took the captain's armband. He started on Tuesday in Bujumbura and was substituted in the 66th minute, which turns out to have been his last act in a Zambia shirt.",
+        {
+          "type": "box",
+          "title": "Fashion Sakala for Zambia",
+          "items": [
+            "Debut: 2 September 2017 v Algeria, World Cup qualifier (sent off, 56th minute)",
+            "2017: Africa U-20 Cup of Nations winner; U-20 World Cup quarter-finalist, goals v Portugal, Iran and Germany",
+            "November 2021: hat-trick in a 4–0 win over Mauritania at Heroes",
+            "Africa Cup of Nations 2023 and 2025; later captain",
+            "Caps: 41 (ZamFoot, citing pre-window statistics) or 47 (AfricaSoccer); 12 goals in both counts"
+          ]
+        },
+        "The two outlets do not agree on his tally. ZamFoot, citing statistics compiled before the November window, puts his record at 41 senior appearances, 12 goals and five assists; AfricaSoccer gives 47 caps and 12 goals. The difference may lie in how friendlies and the two Burundi matches are counted, and this page does not settle it.",
+        "The timing leaves the Chipolopolo without their captain for the last two rounds of the Nations Cup qualifiers, with Zambia third in Group I on five points behind Algeria and Togo. Whoever inherits the armband inherits that arithmetic."
+      ],
+      "sources": [
+        {
+          "outlet": "ZamFoot",
+          "title": "Fashion Sakala announces retirement from international football",
+          "date": "17 Nov 2026",
+          "url": "https://zambianfootball.co.zm/fashion-sakala-announces-retirement-from-international-football/"
+        },
+        {
+          "outlet": "AfricaSoccer",
+          "title": "Fashion Sakala calls time on Zambia career after 47 caps",
+          "date": "17 Nov 2026",
+          "url": "https://africasoccer.com/fashion-sakala-retire-from-international-football/"
+        }
+      ]
+    }
+  ],
+  "analysis": [
+    {
+      "desk": "Politics",
+      "title": "Advice is not a ban, and that is the point",
+      "body": "The police statement of 17 November is carefully worded. It does not prohibit the 25 November processions; it advises the two consortiums not to proceed, citing intelligence it does not describe and a security situation it does not define. The organisers notified the police rather than asking for permission, so the question before them is practical as much as legal: do they march into a situation the police have said they cannot secure, and what happens if they do? The civil society groups have the stronger grievance, having been told first by a minister and now by the police to stay home while a youth procession reached Parliament earlier this month; the youth consortium, for its part, has now been given the same advice. The government's position, restated by the Home Affairs Minister, is that there is nothing to march about because the President is not seeking a third term. Its critics reply that the petitions exist regardless. Watch for a formal response from either consortium, any application to the High Court before the 25th, and whether the National Assembly fixes a date to consider the petitions. The street and the chamber are now on different clocks."
+    },
+    {
+      "desk": "Economy",
+      "title": "ZCCM-IH's plan is a prospectus, and prospectuses need buyers",
+      "body": "The 2026–2035 strategy is the most detailed public statement of intent ZCCM-IH has made in years, and its numbers should be read with its own caveat attached: the funding is planned, not secured. Of US$2.7 billion, about US$700 million is to be borrowed, US$300 million raised as equity and US$1 billion to US$1.7 billion found from partners and development lenders. The company's recurring income is real and growing, with investment income up 40 per cent in 2025 on the Kansanshi royalty and power dividends, but the group still booked a K4.92 billion loss once the previous year's Mopani gain fell away and the Trafigura provision was taken. The strategic logic is coherent: swap uncertain dividends for royalty streams, use those streams to fund exploration and power, and buy more of Mingomba before it produces. The risks are equally plain. Mingomba will not be in production by the 2031 copper deadline, royalty income tracks the copper price, and partner money arrives only if the partners like the terms. What to watch: the first borrowing, the terms of any new royalty deal, and whether the London listing is revived."
+    },
+    {
+      "desk": "Sport",
+      "title": "Five points, third place and a captain gone",
+      "body": "Two draws against the bottom side in Group I have cost Zambia more than the points they dropped. They began the window second; they end it third on five points, behind a Togo side that has just beaten Algeria 3–0. The reports available do not set out the qualification rules for the 2027 tournament or the dates of the last two rounds, so this desk will not say what Zambia need; what it can say is that the margin for error is gone and that the next fixtures are against the two teams above them. Two other things changed on Tuesday. The coach has lost his captain, with Fashion Sakala retiring hours after the match, and Mathews Banda to an injury whose extent is not yet reported. The coach has spoken of a building process; the table has stopped waiting for it. Watch for the fixture dates, for the appointment of a new captain, and for whether the Football Association addresses Sakala's departure publicly, which neither report on Tuesday night recorded it doing."
+    }
+  ]
+}
